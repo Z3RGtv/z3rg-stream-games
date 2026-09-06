@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-06T18:28:22.590Z",
+  "updatedAt": "2026-09-06T18:37:54.977Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -3273,14 +3273,14 @@
           "name": "sheisdani",
           "maxPoints": 5732,
           "maxBasePoints": 4737,
-          "lastRunPoints": 5732,
-          "lastRunBasePoints": 4737,
-          "runs": 6,
-          "totalGames": 6,
+          "lastRunPoints": 1331,
+          "lastRunBasePoints": 1100,
+          "runs": 7,
+          "totalGames": 7,
           "bestLevel": 9,
           "trackedRuns": 5,
           "totalBasePoints": 4737,
-          "totalWordsFound": 279,
+          "totalWordsFound": 298,
           "totalLevelsReached": 9,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3295,6 +3295,17 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788719462931-1",
+              "endedAt": 1788719874971,
+              "levelReached": 1,
+              "basePoints": 1100,
+              "points": 1331,
+              "wordsFound": 19,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": []
+            },
             {
               "gameId": "sopa-1788475329858-2",
               "endedAt": 1788477421161,
@@ -3419,17 +3430,6 @@
                   "isRandomDraw": false
                 }
               ]
-            },
-            {
-              "gameId": "sopa-1788303529653-3",
-              "endedAt": 1788304816512,
-              "levelReached": 5,
-              "basePoints": 3070,
-              "points": 3715,
-              "wordsFound": 51,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": []
             }
           ],
           "bestRun": {
