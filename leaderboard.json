@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-08T20:30:58.813Z",
+  "updatedAt": "2026-09-08T20:42:33.099Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -3273,14 +3273,14 @@
           "name": "sheisdani",
           "maxPoints": 5732,
           "maxBasePoints": 4737,
-          "lastRunPoints": 1331,
-          "lastRunBasePoints": 1100,
-          "runs": 7,
-          "totalGames": 7,
+          "lastRunPoints": 871,
+          "lastRunBasePoints": 720,
+          "runs": 8,
+          "totalGames": 8,
           "bestLevel": 9,
           "trackedRuns": 5,
           "totalBasePoints": 4737,
-          "totalWordsFound": 298,
+          "totalWordsFound": 312,
           "totalLevelsReached": 9,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3295,6 +3295,17 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788899684001-1",
+              "endedAt": 1788900153094,
+              "levelReached": 1,
+              "basePoints": 720,
+              "points": 871,
+              "wordsFound": 14,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": []
+            },
             {
               "gameId": "sopa-1788719462931-1",
               "endedAt": 1788719874971,
@@ -3407,29 +3418,6 @@
                   "isRandomDraw": false
                 }
               ]
-            },
-            {
-              "gameId": "sopa-1788383073747-1",
-              "endedAt": 1788383826642,
-              "levelReached": 2,
-              "basePoints": 1812,
-              "points": 2193,
-              "wordsFound": 30,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": [
-                {
-                  "id": "sopa_next_score_boost",
-                  "name": "Caça Acelerada",
-                  "icon": "⚡",
-                  "rarity": "common",
-                  "effectLabel": "×1,1 próximo",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 2,
-                  "votes": 2,
-                  "isRandomDraw": false
-                }
-              ]
             }
           ],
           "bestRun": {
@@ -3483,14 +3471,14 @@
           "name": "marquesrcarol",
           "maxPoints": 3528,
           "maxBasePoints": 3207,
-          "lastRunPoints": 3528,
-          "lastRunBasePoints": 3207,
-          "runs": 2,
-          "totalGames": 2,
+          "lastRunPoints": 979,
+          "lastRunBasePoints": 890,
+          "runs": 3,
+          "totalGames": 3,
           "bestLevel": 6,
-          "trackedRuns": 2,
+          "trackedRuns": 3,
           "totalBasePoints": 3207,
-          "totalWordsFound": 69,
+          "totalWordsFound": 84,
           "totalLevelsReached": 6,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3505,6 +3493,17 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788899684001-1",
+              "endedAt": 1788900153094,
+              "levelReached": 1,
+              "basePoints": 890,
+              "points": 979,
+              "wordsFound": 15,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": []
+            },
             {
               "gameId": "sopa-1788385305325-2",
               "endedAt": 1788386874134,
@@ -4136,14 +4135,14 @@
           "name": "manodrico",
           "maxPoints": 910,
           "maxBasePoints": 910,
-          "lastRunPoints": 127,
-          "lastRunBasePoints": 127,
-          "runs": 3,
-          "totalGames": 3,
+          "lastRunPoints": 160,
+          "lastRunBasePoints": 160,
+          "runs": 4,
+          "totalGames": 4,
           "bestLevel": 6,
-          "trackedRuns": 3,
+          "trackedRuns": 4,
           "totalBasePoints": 910,
-          "totalWordsFound": 24,
+          "totalWordsFound": 27,
           "totalLevelsReached": 6,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -4158,6 +4157,17 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788899684001-1",
+              "endedAt": 1788900153094,
+              "levelReached": 1,
+              "basePoints": 160,
+              "points": 160,
+              "wordsFound": 3,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": []
+            },
             {
               "gameId": "sopa-1788385305325-2",
               "endedAt": 1788386874134,
@@ -4861,6 +4871,108 @@
             "basePoints": 140,
             "points": 140,
             "wordsFound": 2,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": []
+          }
+        },
+        {
+          "id": "twitch:726440635",
+          "name": "steve_osvaldo",
+          "maxPoints": 110,
+          "maxBasePoints": 110,
+          "lastRunPoints": 110,
+          "lastRunBasePoints": 110,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 1,
+          "trackedRuns": 1,
+          "totalBasePoints": 110,
+          "totalWordsFound": 2,
+          "totalLevelsReached": 1,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1788899684001-1",
+              "endedAt": 1788900153094,
+              "levelReached": 1,
+              "basePoints": 110,
+              "points": 110,
+              "wordsFound": 2,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": []
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1788899684001-1",
+            "endedAt": 1788900153094,
+            "levelReached": 1,
+            "basePoints": 110,
+            "points": 110,
+            "wordsFound": 2,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": []
+          }
+        },
+        {
+          "id": "twitch:932779495",
+          "name": "gui_z0",
+          "maxPoints": 66,
+          "maxBasePoints": 60,
+          "lastRunPoints": 66,
+          "lastRunBasePoints": 60,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 1,
+          "trackedRuns": 1,
+          "totalBasePoints": 60,
+          "totalWordsFound": 1,
+          "totalLevelsReached": 1,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1.1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": true,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1788899684001-1",
+              "endedAt": 1788900153094,
+              "levelReached": 1,
+              "basePoints": 60,
+              "points": 66,
+              "wordsFound": 1,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": []
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1788899684001-1",
+            "endedAt": 1788900153094,
+            "levelReached": 1,
+            "basePoints": 60,
+            "points": 66,
+            "wordsFound": 1,
             "longestWord": "",
             "averageWordLength": 0,
             "powerups": []
