@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-08T21:01:11.939Z",
+  "updatedAt": "2026-09-08T21:04:41.745Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -3651,7 +3651,7 @@
           "regularityMultiplier": 1,
           "roleMultiplier": 1,
           "roles": {
-            "subscriber": false,
+            "subscriber": true,
             "moderator": true,
             "vip": false,
             "broadcaster": false
