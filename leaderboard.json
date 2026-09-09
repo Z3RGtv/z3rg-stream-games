@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-09T22:20:30.265Z",
+  "updatedAt": "2026-09-09T22:42:49.749Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -3273,14 +3273,14 @@
           "name": "sheisdani",
           "maxPoints": 5772,
           "maxBasePoints": 4770,
-          "lastRunPoints": 4852,
-          "lastRunBasePoints": 4010,
-          "runs": 11,
-          "totalGames": 11,
+          "lastRunPoints": 2771,
+          "lastRunBasePoints": 2290,
+          "runs": 12,
+          "totalGames": 12,
           "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 4770,
-          "totalWordsFound": 506,
+          "totalWordsFound": 548,
           "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3295,6 +3295,40 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788992517478-2",
+              "endedAt": 1788993769745,
+              "levelReached": 5,
+              "basePoints": 2290,
+              "points": 2771,
+              "wordsFound": 42,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_permanent_extra_time",
+                  "name": "Relógio Melhorado",
+                  "icon": "🕰️",
+                  "rarity": "epic",
+                  "effectLabel": "+15s sempre",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788990467245-1",
               "endedAt": 1788992430258,
@@ -3429,17 +3463,6 @@
               "longestWord": "",
               "averageWordLength": 0,
               "powerups": []
-            },
-            {
-              "gameId": "sopa-1788719462931-1",
-              "endedAt": 1788719874971,
-              "levelReached": 1,
-              "basePoints": 1100,
-              "points": 1331,
-              "wordsFound": 19,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": []
             }
           ],
           "bestRun": {
@@ -3493,14 +3516,14 @@
           "name": "marquesrcarol",
           "maxPoints": 3880,
           "maxBasePoints": 3207,
-          "lastRunPoints": 3473,
-          "lastRunBasePoints": 2870,
-          "runs": 6,
-          "totalGames": 6,
+          "lastRunPoints": 2662,
+          "lastRunBasePoints": 2200,
+          "runs": 7,
+          "totalGames": 7,
           "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 3207,
-          "totalWordsFound": 207,
+          "totalWordsFound": 246,
           "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3515,6 +3538,40 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788992517478-2",
+              "endedAt": 1788993769745,
+              "levelReached": 5,
+              "basePoints": 2200,
+              "points": 2662,
+              "wordsFound": 39,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_permanent_extra_time",
+                  "name": "Relógio Melhorado",
+                  "icon": "🕰️",
+                  "rarity": "epic",
+                  "effectLabel": "+15s sempre",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788990467245-1",
               "endedAt": 1788992430258,
@@ -3649,40 +3706,6 @@
               "longestWord": "",
               "averageWordLength": 0,
               "powerups": []
-            },
-            {
-              "gameId": "sopa-1788385305325-2",
-              "endedAt": 1788386874134,
-              "levelReached": 6,
-              "basePoints": 3207,
-              "points": 3880,
-              "wordsFound": 54,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": [
-                {
-                  "id": "sopa_next_score_boost",
-                  "name": "Caça Acelerada",
-                  "icon": "⚡",
-                  "rarity": "common",
-                  "effectLabel": "×1,1 próximo",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 2,
-                  "votes": 1,
-                  "isRandomDraw": false
-                },
-                {
-                  "id": "sopa_permanent_extra_time",
-                  "name": "Relógio Melhorado",
-                  "icon": "🕰️",
-                  "rarity": "epic",
-                  "effectLabel": "+15s sempre",
-                  "scope": "RUN",
-                  "selectedAfterLevel": 4,
-                  "votes": 3,
-                  "isRandomDraw": false
-                }
-              ]
             }
           ],
           "bestRun": {
@@ -4302,14 +4325,14 @@
           "name": "k1ngpt14",
           "maxPoints": 1000,
           "maxBasePoints": 1000,
-          "lastRunPoints": 1000,
-          "lastRunBasePoints": 1000,
-          "runs": 1,
-          "totalGames": 1,
+          "lastRunPoints": 830,
+          "lastRunBasePoints": 830,
+          "runs": 2,
+          "totalGames": 2,
           "bestLevel": 8,
-          "trackedRuns": 1,
+          "trackedRuns": 2,
           "totalBasePoints": 1000,
-          "totalWordsFound": 17,
+          "totalWordsFound": 31,
           "totalLevelsReached": 8,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -4324,6 +4347,40 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788992517478-2",
+              "endedAt": 1788993769745,
+              "levelReached": 5,
+              "basePoints": 830,
+              "points": 830,
+              "wordsFound": 14,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_permanent_extra_time",
+                  "name": "Relógio Melhorado",
+                  "icon": "🕰️",
+                  "rarity": "epic",
+                  "effectLabel": "+15s sempre",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788990467245-1",
               "endedAt": 1788992430258,
@@ -5644,6 +5701,103 @@
                 "effectLabel": "×1,1",
                 "scope": "RUN",
                 "selectedAfterLevel": 7,
+                "votes": 3,
+                "isRandomDraw": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "twitch:1319027803",
+          "name": "junior_maiahz",
+          "maxPoints": 40,
+          "maxBasePoints": 40,
+          "lastRunPoints": 40,
+          "lastRunBasePoints": 40,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 5,
+          "trackedRuns": 1,
+          "totalBasePoints": 40,
+          "totalWordsFound": 1,
+          "totalLevelsReached": 5,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1788992517478-2",
+              "endedAt": 1788993769745,
+              "levelReached": 5,
+              "basePoints": 40,
+              "points": 40,
+              "wordsFound": 1,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_permanent_extra_time",
+                  "name": "Relógio Melhorado",
+                  "icon": "🕰️",
+                  "rarity": "epic",
+                  "effectLabel": "+15s sempre",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1788992517478-2",
+            "endedAt": 1788993769745,
+            "levelReached": 5,
+            "basePoints": 40,
+            "points": 40,
+            "wordsFound": 1,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_next_target_reduction",
+                "name": "Meta Acessível",
+                "icon": "✂️",
+                "rarity": "rare",
+                "effectLabel": "−10% meta",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 2,
+                "votes": 3,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_permanent_extra_time",
+                "name": "Relógio Melhorado",
+                "icon": "🕰️",
+                "rarity": "epic",
+                "effectLabel": "+15s sempre",
+                "scope": "RUN",
+                "selectedAfterLevel": 4,
                 "votes": 3,
                 "isRandomDraw": false
               }
