@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-09T21:41:56.619Z",
+  "updatedAt": "2026-09-09T22:20:30.265Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -3273,14 +3273,14 @@
           "name": "sheisdani",
           "maxPoints": 5772,
           "maxBasePoints": 4770,
-          "lastRunPoints": 5772,
-          "lastRunBasePoints": 4770,
-          "runs": 10,
-          "totalGames": 10,
+          "lastRunPoints": 4852,
+          "lastRunBasePoints": 4010,
+          "runs": 11,
+          "totalGames": 11,
           "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 4770,
-          "totalWordsFound": 439,
+          "totalWordsFound": 506,
           "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3295,6 +3295,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788990467245-1",
+              "endedAt": 1788992430258,
+              "levelReached": 8,
+              "basePoints": 4010,
+              "points": 4852,
+              "wordsFound": 67,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788901284011-3",
               "endedAt": 1788903335552,
@@ -3395,51 +3440,6 @@
               "longestWord": "",
               "averageWordLength": 0,
               "powerups": []
-            },
-            {
-              "gameId": "sopa-1788475329858-2",
-              "endedAt": 1788477421161,
-              "levelReached": 9,
-              "basePoints": 4737,
-              "points": 5732,
-              "wordsFound": 80,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": [
-                {
-                  "id": "sopa_next_score_boost",
-                  "name": "Caça Acelerada",
-                  "icon": "⚡",
-                  "rarity": "common",
-                  "effectLabel": "×1,1 próximo",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 2,
-                  "votes": 3,
-                  "isRandomDraw": false
-                },
-                {
-                  "id": "sopa_next_target_reduction",
-                  "name": "Meta Acessível",
-                  "icon": "✂️",
-                  "rarity": "rare",
-                  "effectLabel": "−10% meta",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 4,
-                  "votes": 3,
-                  "isRandomDraw": false
-                },
-                {
-                  "id": "sopa_progress_multiplier",
-                  "name": "Pontuação Afinada",
-                  "icon": "🎯",
-                  "rarity": "rare",
-                  "effectLabel": "×1,1",
-                  "scope": "RUN",
-                  "selectedAfterLevel": 7,
-                  "votes": 3,
-                  "isRandomDraw": false
-                }
-              ]
             }
           ],
           "bestRun": {
@@ -3493,14 +3493,14 @@
           "name": "marquesrcarol",
           "maxPoints": 3880,
           "maxBasePoints": 3207,
-          "lastRunPoints": 2565,
-          "lastRunBasePoints": 2120,
-          "runs": 5,
-          "totalGames": 5,
+          "lastRunPoints": 3473,
+          "lastRunBasePoints": 2870,
+          "runs": 6,
+          "totalGames": 6,
           "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 3207,
-          "totalWordsFound": 156,
+          "totalWordsFound": 207,
           "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3515,6 +3515,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1788990467245-1",
+              "endedAt": 1788992430258,
+              "levelReached": 8,
+              "basePoints": 2870,
+              "points": 3473,
+              "wordsFound": 51,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788901284011-3",
               "endedAt": 1788903335552,
@@ -3635,29 +3680,6 @@
                   "scope": "RUN",
                   "selectedAfterLevel": 4,
                   "votes": 3,
-                  "isRandomDraw": false
-                }
-              ]
-            },
-            {
-              "gameId": "sopa-1788383073747-1",
-              "endedAt": 1788383826642,
-              "levelReached": 2,
-              "basePoints": 968,
-              "points": 1171,
-              "wordsFound": 15,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": [
-                {
-                  "id": "sopa_next_score_boost",
-                  "name": "Caça Acelerada",
-                  "icon": "⚡",
-                  "rarity": "common",
-                  "effectLabel": "×1,1 próximo",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 2,
-                  "votes": 2,
                   "isRandomDraw": false
                 }
               ]
@@ -4276,6 +4298,125 @@
           }
         },
         {
+          "id": "twitch:577905142",
+          "name": "k1ngpt14",
+          "maxPoints": 1000,
+          "maxBasePoints": 1000,
+          "lastRunPoints": 1000,
+          "lastRunBasePoints": 1000,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 8,
+          "trackedRuns": 1,
+          "totalBasePoints": 1000,
+          "totalWordsFound": 17,
+          "totalLevelsReached": 8,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1788990467245-1",
+              "endedAt": 1788992430258,
+              "levelReached": 8,
+              "basePoints": 1000,
+              "points": 1000,
+              "wordsFound": 17,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1788990467245-1",
+            "endedAt": 1788992430258,
+            "levelReached": 8,
+            "basePoints": 1000,
+            "points": 1000,
+            "wordsFound": 17,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 2,
+                "votes": 3,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 4,
+                "votes": 3,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 7,
+                "votes": 3,
+                "isRandomDraw": false
+              }
+            ]
+          }
+        },
+        {
           "id": "twitch:906862244",
           "name": "mikito_2012",
           "maxPoints": 969,
@@ -4586,6 +4727,136 @@
                 "rarity": "rare",
                 "effectLabel": "×1,1",
                 "scope": "RUN",
+                "selectedAfterLevel": 7,
+                "votes": 3,
+                "isRandomDraw": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "twitch:726440635",
+          "name": "steve_osvaldo",
+          "maxPoints": 810,
+          "maxBasePoints": 810,
+          "lastRunPoints": 810,
+          "lastRunBasePoints": 810,
+          "runs": 2,
+          "totalGames": 2,
+          "bestLevel": 8,
+          "trackedRuns": 2,
+          "totalBasePoints": 810,
+          "totalWordsFound": 17,
+          "totalLevelsReached": 8,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1788990467245-1",
+              "endedAt": 1788992430258,
+              "levelReached": 8,
+              "basePoints": 810,
+              "points": 810,
+              "wordsFound": 15,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            },
+            {
+              "gameId": "sopa-1788899684001-1",
+              "endedAt": 1788900153094,
+              "levelReached": 1,
+              "basePoints": 110,
+              "points": 110,
+              "wordsFound": 2,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": []
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1788990467245-1",
+            "endedAt": 1788992430258,
+            "levelReached": 8,
+            "basePoints": 810,
+            "points": 810,
+            "wordsFound": 15,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 2,
+                "votes": 3,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 4,
+                "votes": 3,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
                 "selectedAfterLevel": 7,
                 "votes": 3,
                 "isRandomDraw": false
@@ -5091,57 +5362,6 @@
           }
         },
         {
-          "id": "twitch:726440635",
-          "name": "steve_osvaldo",
-          "maxPoints": 110,
-          "maxBasePoints": 110,
-          "lastRunPoints": 110,
-          "lastRunBasePoints": 110,
-          "runs": 1,
-          "totalGames": 1,
-          "bestLevel": 1,
-          "trackedRuns": 1,
-          "totalBasePoints": 110,
-          "totalWordsFound": 2,
-          "totalLevelsReached": 1,
-          "platform": "twitch",
-          "profileImageUrl": "",
-          "multiplier": 1,
-          "regularityMultiplier": 1,
-          "roleMultiplier": 1,
-          "roles": {
-            "subscriber": false,
-            "moderator": false,
-            "vip": false,
-            "broadcaster": false
-          },
-          "updatedAt": 0,
-          "runHistory": [
-            {
-              "gameId": "sopa-1788899684001-1",
-              "endedAt": 1788900153094,
-              "levelReached": 1,
-              "basePoints": 110,
-              "points": 110,
-              "wordsFound": 2,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": []
-            }
-          ],
-          "bestRun": {
-            "gameId": "sopa-1788899684001-1",
-            "endedAt": 1788900153094,
-            "levelReached": 1,
-            "basePoints": 110,
-            "points": 110,
-            "wordsFound": 2,
-            "longestWord": "",
-            "averageWordLength": 0,
-            "powerups": []
-          }
-        },
-        {
           "id": "twitch:932779495",
           "name": "gui_z0",
           "maxPoints": 66,
@@ -5190,6 +5410,125 @@
             "longestWord": "",
             "averageWordLength": 0,
             "powerups": []
+          }
+        },
+        {
+          "id": "twitch:1352711259",
+          "name": "igl_migaas",
+          "maxPoints": 60,
+          "maxBasePoints": 60,
+          "lastRunPoints": 60,
+          "lastRunBasePoints": 60,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 8,
+          "trackedRuns": 1,
+          "totalBasePoints": 60,
+          "totalWordsFound": 1,
+          "totalLevelsReached": 8,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1788990467245-1",
+              "endedAt": 1788992430258,
+              "levelReached": 8,
+              "basePoints": 60,
+              "points": 60,
+              "wordsFound": 1,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 3,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 3,
+                  "isRandomDraw": false
+                }
+              ]
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1788990467245-1",
+            "endedAt": 1788992430258,
+            "levelReached": 8,
+            "basePoints": 60,
+            "points": 60,
+            "wordsFound": 1,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 2,
+                "votes": 3,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 4,
+                "votes": 3,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 7,
+                "votes": 3,
+                "isRandomDraw": false
+              }
+            ]
           }
         },
         {
