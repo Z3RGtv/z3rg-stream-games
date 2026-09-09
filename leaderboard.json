@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-09T22:42:49.749Z",
+  "updatedAt": "2026-09-09T22:47:48.848Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -5042,6 +5042,115 @@
           }
         },
         {
+          "id": "twitch:1069376937",
+          "name": "manu12321_",
+          "maxPoints": 268,
+          "maxBasePoints": 244,
+          "lastRunPoints": 268,
+          "lastRunBasePoints": 244,
+          "runs": 3,
+          "totalGames": 3,
+          "bestLevel": 5,
+          "trackedRuns": 3,
+          "totalBasePoints": 244,
+          "totalWordsFound": 10,
+          "totalLevelsReached": 5,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1.1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": true,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1788474527215-1",
+              "endedAt": 1788475257633,
+              "levelReached": 2,
+              "basePoints": 244,
+              "points": 268,
+              "wordsFound": 5,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_progress_multiplier",
+                  "name": "Pontuação Afinada",
+                  "icon": "🎯",
+                  "rarity": "rare",
+                  "effectLabel": "×1,1",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
+            {
+              "gameId": "sopa-1788383073747-1",
+              "endedAt": 1788383826642,
+              "levelReached": 2,
+              "basePoints": 220,
+              "points": 242,
+              "wordsFound": 4,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_score_boost",
+                  "name": "Caça Acelerada",
+                  "icon": "⚡",
+                  "rarity": "common",
+                  "effectLabel": "×1,1 próximo",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 2,
+                  "isRandomDraw": false
+                }
+              ]
+            },
+            {
+              "gameId": "sopa-1788303529653-3",
+              "endedAt": 1788304816512,
+              "levelReached": 5,
+              "basePoints": 50,
+              "points": 55,
+              "wordsFound": 1,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": []
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1788474527215-1",
+            "endedAt": 1788475257633,
+            "levelReached": 2,
+            "basePoints": 244,
+            "points": 268,
+            "wordsFound": 5,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_progress_multiplier",
+                "name": "Pontuação Afinada",
+                "icon": "🎯",
+                "rarity": "rare",
+                "effectLabel": "×1,1",
+                "scope": "RUN",
+                "selectedAfterLevel": 2,
+                "votes": 1,
+                "isRandomDraw": false
+              }
+            ]
+          }
+        },
+        {
           "id": "twitch:1138920699",
           "name": "maxlou2013",
           "maxPoints": 250,
@@ -5156,115 +5265,6 @@
                 "scope": "RUN",
                 "selectedAfterLevel": 4,
                 "votes": 3,
-                "isRandomDraw": false
-              }
-            ]
-          }
-        },
-        {
-          "id": "twitch:1069376937",
-          "name": "manu12321_",
-          "maxPoints": 244,
-          "maxBasePoints": 244,
-          "lastRunPoints": 244,
-          "lastRunBasePoints": 244,
-          "runs": 3,
-          "totalGames": 3,
-          "bestLevel": 5,
-          "trackedRuns": 3,
-          "totalBasePoints": 244,
-          "totalWordsFound": 10,
-          "totalLevelsReached": 5,
-          "platform": "twitch",
-          "profileImageUrl": "",
-          "multiplier": 1,
-          "regularityMultiplier": 1,
-          "roleMultiplier": 1,
-          "roles": {
-            "subscriber": false,
-            "moderator": false,
-            "vip": false,
-            "broadcaster": false
-          },
-          "updatedAt": 0,
-          "runHistory": [
-            {
-              "gameId": "sopa-1788474527215-1",
-              "endedAt": 1788475257633,
-              "levelReached": 2,
-              "basePoints": 244,
-              "points": 244,
-              "wordsFound": 5,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": [
-                {
-                  "id": "sopa_progress_multiplier",
-                  "name": "Pontuação Afinada",
-                  "icon": "🎯",
-                  "rarity": "rare",
-                  "effectLabel": "×1,1",
-                  "scope": "RUN",
-                  "selectedAfterLevel": 2,
-                  "votes": 1,
-                  "isRandomDraw": false
-                }
-              ]
-            },
-            {
-              "gameId": "sopa-1788383073747-1",
-              "endedAt": 1788383826642,
-              "levelReached": 2,
-              "basePoints": 220,
-              "points": 220,
-              "wordsFound": 4,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": [
-                {
-                  "id": "sopa_next_score_boost",
-                  "name": "Caça Acelerada",
-                  "icon": "⚡",
-                  "rarity": "common",
-                  "effectLabel": "×1,1 próximo",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 2,
-                  "votes": 2,
-                  "isRandomDraw": false
-                }
-              ]
-            },
-            {
-              "gameId": "sopa-1788303529653-3",
-              "endedAt": 1788304816512,
-              "levelReached": 5,
-              "basePoints": 50,
-              "points": 50,
-              "wordsFound": 1,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": []
-            }
-          ],
-          "bestRun": {
-            "gameId": "sopa-1788474527215-1",
-            "endedAt": 1788475257633,
-            "levelReached": 2,
-            "basePoints": 244,
-            "points": 244,
-            "wordsFound": 5,
-            "longestWord": "",
-            "averageWordLength": 0,
-            "powerups": [
-              {
-                "id": "sopa_progress_multiplier",
-                "name": "Pontuação Afinada",
-                "icon": "🎯",
-                "rarity": "rare",
-                "effectLabel": "×1,1",
-                "scope": "RUN",
-                "selectedAfterLevel": 2,
-                "votes": 1,
                 "isRandomDraw": false
               }
             ]
