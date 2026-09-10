@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-10T22:45:22.641Z",
+  "updatedAt": "2026-09-10T23:02:38.604Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -2757,7 +2757,7 @@
           "totalWordsFound": 1,
           "totalLevelsReached": 8,
           "platform": "youtube",
-          "profileImageUrl": "",
+          "profileImageUrl": "https://yt3.ggpht.com/r3Dm248UmlAJc3Dco9c4ugQfQ2I3ntibGB3vE84YJvFFPnt1JZ62QZ89KE4yYs_ZRXloEIgL0g=s88-c-k-c0x00ffffff-no-rj",
           "multiplier": 1.1,
           "regularityMultiplier": 1,
           "roleMultiplier": 1.1,
@@ -2765,9 +2765,9 @@
             "subscriber": false,
             "moderator": true,
             "vip": false,
-            "broadcaster": false
+            "broadcaster": true
           },
-          "updatedAt": 1788042342538,
+          "updatedAt": 1789081358595,
           "runHistory": [
             {
               "gameId": "game-1788040768145",
@@ -9423,7 +9423,7 @@
       "totalWordsFound": 1,
       "totalLevelsReached": 8,
       "platform": "youtube",
-      "profileImageUrl": "",
+      "profileImageUrl": "https://yt3.ggpht.com/r3Dm248UmlAJc3Dco9c4ugQfQ2I3ntibGB3vE84YJvFFPnt1JZ62QZ89KE4yYs_ZRXloEIgL0g=s88-c-k-c0x00ffffff-no-rj",
       "multiplier": 1.1,
       "regularityMultiplier": 1,
       "roleMultiplier": 1.1,
@@ -9431,9 +9431,9 @@
         "subscriber": false,
         "moderator": true,
         "vip": false,
-        "broadcaster": false
+        "broadcaster": true
       },
-      "updatedAt": 1788042342538,
+      "updatedAt": 1789081358595,
       "runHistory": [
         {
           "gameId": "game-1788040768145",
