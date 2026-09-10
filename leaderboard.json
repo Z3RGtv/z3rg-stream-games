@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-10T22:25:20.196Z",
+  "updatedAt": "2026-09-10T22:30:28.000Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -205,10 +205,10 @@
           "name": "sheisdani",
           "maxPoints": 656.4,
           "maxBasePoints": 547,
-          "lastRunPoints": 19.2,
-          "lastRunBasePoints": 16,
+          "lastRunPoints": 60,
+          "lastRunBasePoints": 50,
           "runs": 5,
-          "totalGames": 13,
+          "totalGames": 14,
           "bestLevel": 25,
           "trackedRuns": 3,
           "totalBasePoints": 866,
@@ -225,7 +225,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1789079120177,
+          "updatedAt": 1789079427985,
           "runHistory": [
             {
               "gameId": "game-1788213427636",
@@ -732,10 +732,10 @@
           "name": "marquesrcarol",
           "maxPoints": 544.5,
           "maxBasePoints": 495,
-          "lastRunPoints": 36.3,
-          "lastRunBasePoints": 33,
+          "lastRunPoints": 81.4,
+          "lastRunBasePoints": 74,
           "runs": 4,
-          "totalGames": 7,
+          "totalGames": 8,
           "bestLevel": 25,
           "trackedRuns": 2,
           "totalBasePoints": 756,
@@ -752,7 +752,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1789079120177,
+          "updatedAt": 1789079427985,
           "runHistory": [
             {
               "gameId": "game-1788119611678",
@@ -6871,10 +6871,10 @@
       "name": "sheisdani",
       "maxPoints": 656.4,
       "maxBasePoints": 547,
-      "lastRunPoints": 19.2,
-      "lastRunBasePoints": 16,
+      "lastRunPoints": 60,
+      "lastRunBasePoints": 50,
       "runs": 5,
-      "totalGames": 13,
+      "totalGames": 14,
       "bestLevel": 25,
       "trackedRuns": 3,
       "totalBasePoints": 866,
@@ -6891,7 +6891,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1789079120177,
+      "updatedAt": 1789079427985,
       "runHistory": [
         {
           "gameId": "game-1788213427636",
@@ -7398,10 +7398,10 @@
       "name": "marquesrcarol",
       "maxPoints": 544.5,
       "maxBasePoints": 495,
-      "lastRunPoints": 36.3,
-      "lastRunBasePoints": 33,
+      "lastRunPoints": 81.4,
+      "lastRunBasePoints": 74,
       "runs": 4,
-      "totalGames": 7,
+      "totalGames": 8,
       "bestLevel": 25,
       "trackedRuns": 2,
       "totalBasePoints": 756,
@@ -7418,7 +7418,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1789079120177,
+      "updatedAt": 1789079427985,
       "runHistory": [
         {
           "gameId": "game-1788119611678",
