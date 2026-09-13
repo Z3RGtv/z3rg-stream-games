@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-13T17:38:19.075Z",
+  "updatedAt": "2026-09-13T18:16:06.456Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -3271,16 +3271,16 @@
         {
           "id": "twitch:645555689",
           "name": "sheisdani",
-          "maxPoints": 5772,
-          "maxBasePoints": 4770,
-          "lastRunPoints": 2771,
-          "lastRunBasePoints": 2290,
-          "runs": 12,
-          "totalGames": 12,
+          "maxPoints": 8180,
+          "maxBasePoints": 6760,
+          "lastRunPoints": 8180,
+          "lastRunBasePoints": 6760,
+          "runs": 13,
+          "totalGames": 13,
           "bestLevel": 10,
           "trackedRuns": 5,
-          "totalBasePoints": 4770,
-          "totalWordsFound": 548,
+          "totalBasePoints": 6760,
+          "totalWordsFound": 668,
           "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3295,6 +3295,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1789321184852-1",
+              "endedAt": 1789323366446,
+              "levelReached": 10,
+              "basePoints": 6760,
+              "points": 8180,
+              "wordsFound": 120,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 2,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788992517478-2",
               "endedAt": 1788993769745,
@@ -3452,26 +3497,15 @@
                   "isRandomDraw": false
                 }
               ]
-            },
-            {
-              "gameId": "sopa-1788899684001-1",
-              "endedAt": 1788900153094,
-              "levelReached": 1,
-              "basePoints": 720,
-              "points": 871,
-              "wordsFound": 14,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": []
             }
           ],
           "bestRun": {
-            "gameId": "sopa-1788901284011-3",
-            "endedAt": 1788903335552,
+            "gameId": "sopa-1789321184852-1",
+            "endedAt": 1789323366446,
             "levelReached": 10,
-            "basePoints": 4770,
-            "points": 5772,
-            "wordsFound": 88,
+            "basePoints": 6760,
+            "points": 8180,
+            "wordsFound": 120,
             "longestWord": "",
             "averageWordLength": 0,
             "powerups": [
@@ -3483,29 +3517,29 @@
                 "effectLabel": "+15s",
                 "scope": "NEXT_LEVEL",
                 "selectedAfterLevel": 2,
-                "votes": 2,
+                "votes": 1,
                 "isRandomDraw": false
               },
               {
-                "id": "sopa_next_extra_time",
-                "name": "Fôlego Extra",
-                "icon": "⏱️",
-                "rarity": "common",
-                "effectLabel": "+15s",
+                "id": "sopa_next_target_reduction",
+                "name": "Meta Acessível",
+                "icon": "✂️",
+                "rarity": "rare",
+                "effectLabel": "−10% meta",
                 "scope": "NEXT_LEVEL",
                 "selectedAfterLevel": 4,
                 "votes": 2,
                 "isRandomDraw": false
               },
               {
-                "id": "sopa_permanent_extra_time",
-                "name": "Relógio Melhorado",
-                "icon": "🕰️",
+                "id": "sopa_deep_target_cut",
+                "name": "Atalho na Grelha",
+                "icon": "🧭",
                 "rarity": "epic",
-                "effectLabel": "+15s sempre",
-                "scope": "RUN",
+                "effectLabel": "−20% meta",
+                "scope": "NEXT_LEVEL",
                 "selectedAfterLevel": 7,
-                "votes": 3,
+                "votes": 1,
                 "isRandomDraw": false
               }
             ]
@@ -3516,14 +3550,14 @@
           "name": "marquesrcarol",
           "maxPoints": 3880,
           "maxBasePoints": 3207,
-          "lastRunPoints": 2662,
-          "lastRunBasePoints": 2200,
-          "runs": 7,
-          "totalGames": 7,
+          "lastRunPoints": 399,
+          "lastRunBasePoints": 330,
+          "runs": 8,
+          "totalGames": 8,
           "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 3207,
-          "totalWordsFound": 246,
+          "totalWordsFound": 252,
           "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3538,6 +3572,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1789321184852-1",
+              "endedAt": 1789323366446,
+              "levelReached": 10,
+              "basePoints": 330,
+              "points": 399,
+              "wordsFound": 6,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 2,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788992517478-2",
               "endedAt": 1788993769745,
@@ -3695,17 +3774,6 @@
                   "isRandomDraw": false
                 }
               ]
-            },
-            {
-              "gameId": "sopa-1788899684001-1",
-              "endedAt": 1788900153094,
-              "levelReached": 1,
-              "basePoints": 890,
-              "points": 1077,
-              "wordsFound": 15,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": []
             }
           ],
           "bestRun": {
@@ -3997,15 +4065,15 @@
           "name": "garzia17",
           "maxPoints": 2753,
           "maxBasePoints": 2503,
-          "lastRunPoints": 2753,
-          "lastRunBasePoints": 2503,
-          "runs": 5,
-          "totalGames": 5,
-          "bestLevel": 9,
+          "lastRunPoints": 363,
+          "lastRunBasePoints": 330,
+          "runs": 6,
+          "totalGames": 6,
+          "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 2503,
-          "totalWordsFound": 103,
-          "totalLevelsReached": 9,
+          "totalWordsFound": 109,
+          "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
           "multiplier": 1.1,
@@ -4019,6 +4087,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1789321184852-1",
+              "endedAt": 1789323366446,
+              "levelReached": 10,
+              "basePoints": 330,
+              "points": 363,
+              "wordsFound": 6,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 2,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788475329858-2",
               "endedAt": 1788477421161,
@@ -4120,17 +4233,6 @@
               "longestWord": "",
               "averageWordLength": 0,
               "powerups": []
-            },
-            {
-              "gameId": "sopa-1788302405053-2",
-              "endedAt": 1788303509601,
-              "levelReached": 4,
-              "basePoints": 780,
-              "points": 858,
-              "wordsFound": 15,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": []
             }
           ],
           "bestRun": {
@@ -4180,19 +4282,138 @@
           }
         },
         {
+          "id": "twitch:134395626",
+          "name": "minichef9",
+          "maxPoints": 1364,
+          "maxBasePoints": 1240,
+          "lastRunPoints": 1364,
+          "lastRunBasePoints": 1240,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 10,
+          "trackedRuns": 1,
+          "totalBasePoints": 1240,
+          "totalWordsFound": 24,
+          "totalLevelsReached": 10,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1.1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": true,
+            "moderator": false,
+            "vip": true,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1789321184852-1",
+              "endedAt": 1789323366446,
+              "levelReached": 10,
+              "basePoints": 1240,
+              "points": 1364,
+              "wordsFound": 24,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 2,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1789321184852-1",
+            "endedAt": 1789323366446,
+            "levelReached": 10,
+            "basePoints": 1240,
+            "points": 1364,
+            "wordsFound": 24,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 2,
+                "votes": 1,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_target_reduction",
+                "name": "Meta Acessível",
+                "icon": "✂️",
+                "rarity": "rare",
+                "effectLabel": "−10% meta",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 4,
+                "votes": 2,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_deep_target_cut",
+                "name": "Atalho na Grelha",
+                "icon": "🧭",
+                "rarity": "epic",
+                "effectLabel": "−20% meta",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 7,
+                "votes": 1,
+                "isRandomDraw": false
+              }
+            ]
+          }
+        },
+        {
           "id": "twitch:491270065",
           "name": "manodrico",
           "maxPoints": 1001,
           "maxBasePoints": 910,
-          "lastRunPoints": 44,
-          "lastRunBasePoints": 40,
-          "runs": 5,
-          "totalGames": 5,
-          "bestLevel": 6,
+          "lastRunPoints": 77,
+          "lastRunBasePoints": 70,
+          "runs": 6,
+          "totalGames": 6,
+          "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 910,
-          "totalWordsFound": 28,
-          "totalLevelsReached": 6,
+          "totalWordsFound": 29,
+          "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
           "multiplier": 1.1,
@@ -4206,6 +4427,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1789321184852-1",
+              "endedAt": 1789323366446,
+              "levelReached": 10,
+              "basePoints": 70,
+              "points": 77,
+              "wordsFound": 1,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 2,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788900163999-2",
               "endedAt": 1788901271933,
@@ -4292,17 +4558,6 @@
               "basePoints": 280,
               "points": 308,
               "wordsFound": 5,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": []
-            },
-            {
-              "gameId": "sopa-1788302405053-2",
-              "endedAt": 1788303509601,
-              "levelReached": 4,
-              "basePoints": 910,
-              "points": 1001,
-              "wordsFound": 17,
               "longestWord": "",
               "averageWordLength": 0,
               "powerups": []
@@ -5265,6 +5520,125 @@
                 "scope": "RUN",
                 "selectedAfterLevel": 4,
                 "votes": 3,
+                "isRandomDraw": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "twitch:89830881",
+          "name": "lvke_music",
+          "maxPoints": 230,
+          "maxBasePoints": 230,
+          "lastRunPoints": 230,
+          "lastRunBasePoints": 230,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 10,
+          "trackedRuns": 1,
+          "totalBasePoints": 230,
+          "totalWordsFound": 4,
+          "totalLevelsReached": 10,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1789321184852-1",
+              "endedAt": 1789323366446,
+              "levelReached": 10,
+              "basePoints": 230,
+              "points": 230,
+              "wordsFound": 4,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_target_reduction",
+                  "name": "Meta Acessível",
+                  "icon": "✂️",
+                  "rarity": "rare",
+                  "effectLabel": "−10% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 2,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1789321184852-1",
+            "endedAt": 1789323366446,
+            "levelReached": 10,
+            "basePoints": 230,
+            "points": 230,
+            "wordsFound": 4,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 2,
+                "votes": 1,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_target_reduction",
+                "name": "Meta Acessível",
+                "icon": "✂️",
+                "rarity": "rare",
+                "effectLabel": "−10% meta",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 4,
+                "votes": 2,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_deep_target_cut",
+                "name": "Atalho na Grelha",
+                "icon": "🧭",
+                "rarity": "epic",
+                "effectLabel": "−20% meta",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 7,
+                "votes": 1,
                 "isRandomDraw": false
               }
             ]
