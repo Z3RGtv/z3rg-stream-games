@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-13T18:17:20.156Z",
+  "updatedAt": "2026-09-13T18:24:47.614Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -205,10 +205,10 @@
           "name": "sheisdani",
           "maxPoints": 656.4,
           "maxBasePoints": 547,
-          "lastRunPoints": 60,
-          "lastRunBasePoints": 50,
+          "lastRunPoints": 76.8,
+          "lastRunBasePoints": 64,
           "runs": 5,
-          "totalGames": 14,
+          "totalGames": 15,
           "bestLevel": 25,
           "trackedRuns": 3,
           "totalBasePoints": 866,
@@ -225,7 +225,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1789079427985,
+          "updatedAt": 1789323887602,
           "runHistory": [
             {
               "gameId": "game-1788213427636",
@@ -732,10 +732,10 @@
           "name": "marquesrcarol",
           "maxPoints": 544.5,
           "maxBasePoints": 495,
-          "lastRunPoints": 81.4,
-          "lastRunBasePoints": 74,
+          "lastRunPoints": 70.4,
+          "lastRunBasePoints": 64,
           "runs": 4,
-          "totalGames": 8,
+          "totalGames": 9,
           "bestLevel": 25,
           "trackedRuns": 2,
           "totalBasePoints": 756,
@@ -752,7 +752,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1789079427985,
+          "updatedAt": 1789323887602,
           "runHistory": [
             {
               "gameId": "game-1788119611678",
@@ -1236,10 +1236,10 @@
           "name": "soniagoncalves",
           "maxPoints": 266.2,
           "maxBasePoints": 242,
-          "lastRunPoints": 44,
-          "lastRunBasePoints": 40,
+          "lastRunPoints": 57.2,
+          "lastRunBasePoints": 52,
           "runs": 3,
-          "totalGames": 3,
+          "totalGames": 4,
           "bestLevel": 25,
           "trackedRuns": 1,
           "totalBasePoints": 40,
@@ -1256,7 +1256,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1789323440151,
+          "updatedAt": 1789323887602,
           "runHistory": [
             {
               "gameId": "game-1788119611678",
@@ -1971,10 +1971,10 @@
           "name": "igl_migaas",
           "maxPoints": 26,
           "maxBasePoints": 26,
-          "lastRunPoints": 26,
-          "lastRunBasePoints": 26,
+          "lastRunPoints": 0,
+          "lastRunBasePoints": 0,
           "runs": 2,
-          "totalGames": 2,
+          "totalGames": 3,
           "bestLevel": 18,
           "trackedRuns": 0,
           "totalBasePoints": 0,
@@ -1991,7 +1991,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1787869508746,
+          "updatedAt": 1789323887602,
           "runHistory": [],
           "bestRun": {
             "gameId": "historico-anterior",
@@ -7245,10 +7245,10 @@
       "name": "sheisdani",
       "maxPoints": 656.4,
       "maxBasePoints": 547,
-      "lastRunPoints": 60,
-      "lastRunBasePoints": 50,
+      "lastRunPoints": 76.8,
+      "lastRunBasePoints": 64,
       "runs": 5,
-      "totalGames": 14,
+      "totalGames": 15,
       "bestLevel": 25,
       "trackedRuns": 3,
       "totalBasePoints": 866,
@@ -7265,7 +7265,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1789079427985,
+      "updatedAt": 1789323887602,
       "runHistory": [
         {
           "gameId": "game-1788213427636",
@@ -7772,10 +7772,10 @@
       "name": "marquesrcarol",
       "maxPoints": 544.5,
       "maxBasePoints": 495,
-      "lastRunPoints": 81.4,
-      "lastRunBasePoints": 74,
+      "lastRunPoints": 70.4,
+      "lastRunBasePoints": 64,
       "runs": 4,
-      "totalGames": 8,
+      "totalGames": 9,
       "bestLevel": 25,
       "trackedRuns": 2,
       "totalBasePoints": 756,
@@ -7792,7 +7792,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1789079427985,
+      "updatedAt": 1789323887602,
       "runHistory": [
         {
           "gameId": "game-1788119611678",
@@ -8276,10 +8276,10 @@
       "name": "soniagoncalves",
       "maxPoints": 266.2,
       "maxBasePoints": 242,
-      "lastRunPoints": 44,
-      "lastRunBasePoints": 40,
+      "lastRunPoints": 57.2,
+      "lastRunBasePoints": 52,
       "runs": 3,
-      "totalGames": 3,
+      "totalGames": 4,
       "bestLevel": 25,
       "trackedRuns": 1,
       "totalBasePoints": 40,
@@ -8296,7 +8296,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1789323440151,
+      "updatedAt": 1789323887602,
       "runHistory": [
         {
           "gameId": "game-1788119611678",
@@ -9011,10 +9011,10 @@
       "name": "igl_migaas",
       "maxPoints": 26,
       "maxBasePoints": 26,
-      "lastRunPoints": 26,
-      "lastRunBasePoints": 26,
+      "lastRunPoints": 0,
+      "lastRunBasePoints": 0,
       "runs": 2,
-      "totalGames": 2,
+      "totalGames": 3,
       "bestLevel": 18,
       "trackedRuns": 0,
       "totalBasePoints": 0,
@@ -9031,7 +9031,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1787869508746,
+      "updatedAt": 1789323887602,
       "runHistory": [],
       "bestRun": {
         "gameId": "historico-anterior",
