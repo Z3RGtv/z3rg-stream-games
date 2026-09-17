@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-17T19:25:18.749Z",
+  "updatedAt": "2026-09-17T19:37:51.620Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -205,10 +205,10 @@
           "name": "sheisdani",
           "maxPoints": 656.4,
           "maxBasePoints": 547,
-          "lastRunPoints": 76.8,
-          "lastRunBasePoints": 64,
+          "lastRunPoints": 171.6,
+          "lastRunBasePoints": 143,
           "runs": 5,
-          "totalGames": 15,
+          "totalGames": 16,
           "bestLevel": 25,
           "trackedRuns": 3,
           "totalBasePoints": 866,
@@ -225,7 +225,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1789673118744,
+          "updatedAt": 1789673871609,
           "runHistory": [
             {
               "gameId": "game-1788213427636",
@@ -732,10 +732,10 @@
           "name": "marquesrcarol",
           "maxPoints": 544.5,
           "maxBasePoints": 495,
-          "lastRunPoints": 70.4,
-          "lastRunBasePoints": 64,
+          "lastRunPoints": 0,
+          "lastRunBasePoints": 0,
           "runs": 4,
-          "totalGames": 9,
+          "totalGames": 10,
           "bestLevel": 25,
           "trackedRuns": 2,
           "totalBasePoints": 756,
@@ -752,7 +752,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1789323887602,
+          "updatedAt": 1789673871609,
           "runHistory": [
             {
               "gameId": "game-1788119611678",
@@ -1407,7 +1407,7 @@
           "lastRunPoints": 0,
           "lastRunBasePoints": 0,
           "runs": 3,
-          "totalGames": 5,
+          "totalGames": 6,
           "bestLevel": 18,
           "trackedRuns": 1,
           "totalBasePoints": 57,
@@ -1424,7 +1424,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1788214560992,
+          "updatedAt": 1789673871609,
           "runHistory": [
             {
               "gameId": "game-1788213427636",
@@ -1478,10 +1478,10 @@
           "name": "manu12321_",
           "maxPoints": 85.2,
           "maxBasePoints": 71,
-          "lastRunPoints": 22.8,
-          "lastRunBasePoints": 19,
+          "lastRunPoints": 12,
+          "lastRunBasePoints": 10,
           "runs": 5,
-          "totalGames": 8,
+          "totalGames": 9,
           "bestLevel": 25,
           "trackedRuns": 3,
           "totalBasePoints": 94,
@@ -1498,7 +1498,7 @@
             "vip": false,
             "broadcaster": false
           },
-          "updatedAt": 1789080322633,
+          "updatedAt": 1789673871609,
           "runHistory": [
             {
               "gameId": "game-1788213427636",
@@ -2541,6 +2541,64 @@
           }
         },
         {
+          "id": "twitch:613391822",
+          "name": "beardbrutus",
+          "maxPoints": 12,
+          "maxBasePoints": 12,
+          "lastRunPoints": 12,
+          "lastRunBasePoints": 12,
+          "runs": 0,
+          "totalGames": 1,
+          "bestLevel": 3,
+          "trackedRuns": 0,
+          "totalBasePoints": 0,
+          "totalWordsFound": 0,
+          "totalLevelsReached": 0,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 1789673871609,
+          "runHistory": [],
+          "bestRun": null
+        },
+        {
+          "id": "twitch:1329329712",
+          "name": "calix4566",
+          "maxPoints": 12,
+          "maxBasePoints": 12,
+          "lastRunPoints": 12,
+          "lastRunBasePoints": 12,
+          "runs": 0,
+          "totalGames": 1,
+          "bestLevel": 3,
+          "trackedRuns": 0,
+          "totalBasePoints": 0,
+          "totalWordsFound": 0,
+          "totalLevelsReached": 0,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 1789673871609,
+          "runHistory": [],
+          "bestRun": null
+        },
+        {
           "id": "twitch:428320452",
           "name": "ipowerlz",
           "maxPoints": 8,
@@ -3101,6 +3159,35 @@
               }
             ]
           }
+        },
+        {
+          "id": "twitch:648641673",
+          "name": "odin_scar",
+          "maxPoints": 4,
+          "maxBasePoints": 4,
+          "lastRunPoints": 4,
+          "lastRunBasePoints": 4,
+          "runs": 0,
+          "totalGames": 1,
+          "bestLevel": 3,
+          "trackedRuns": 0,
+          "totalBasePoints": 0,
+          "totalWordsFound": 0,
+          "totalLevelsReached": 0,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 1789673871609,
+          "runHistory": [],
+          "bestRun": null
         },
         {
           "id": "twitch:407961361",
@@ -7707,10 +7794,10 @@
       "name": "sheisdani",
       "maxPoints": 656.4,
       "maxBasePoints": 547,
-      "lastRunPoints": 76.8,
-      "lastRunBasePoints": 64,
+      "lastRunPoints": 171.6,
+      "lastRunBasePoints": 143,
       "runs": 5,
-      "totalGames": 15,
+      "totalGames": 16,
       "bestLevel": 25,
       "trackedRuns": 3,
       "totalBasePoints": 866,
@@ -7727,7 +7814,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1789673118744,
+      "updatedAt": 1789673871609,
       "runHistory": [
         {
           "gameId": "game-1788213427636",
@@ -8234,10 +8321,10 @@
       "name": "marquesrcarol",
       "maxPoints": 544.5,
       "maxBasePoints": 495,
-      "lastRunPoints": 70.4,
-      "lastRunBasePoints": 64,
+      "lastRunPoints": 0,
+      "lastRunBasePoints": 0,
       "runs": 4,
-      "totalGames": 9,
+      "totalGames": 10,
       "bestLevel": 25,
       "trackedRuns": 2,
       "totalBasePoints": 756,
@@ -8254,7 +8341,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1789323887602,
+      "updatedAt": 1789673871609,
       "runHistory": [
         {
           "gameId": "game-1788119611678",
@@ -8909,7 +8996,7 @@
       "lastRunPoints": 0,
       "lastRunBasePoints": 0,
       "runs": 3,
-      "totalGames": 5,
+      "totalGames": 6,
       "bestLevel": 18,
       "trackedRuns": 1,
       "totalBasePoints": 57,
@@ -8926,7 +9013,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1788214560992,
+      "updatedAt": 1789673871609,
       "runHistory": [
         {
           "gameId": "game-1788213427636",
@@ -8980,10 +9067,10 @@
       "name": "manu12321_",
       "maxPoints": 85.2,
       "maxBasePoints": 71,
-      "lastRunPoints": 22.8,
-      "lastRunBasePoints": 19,
+      "lastRunPoints": 12,
+      "lastRunBasePoints": 10,
       "runs": 5,
-      "totalGames": 8,
+      "totalGames": 9,
       "bestLevel": 25,
       "trackedRuns": 3,
       "totalBasePoints": 94,
@@ -9000,7 +9087,7 @@
         "vip": false,
         "broadcaster": false
       },
-      "updatedAt": 1789080322633,
+      "updatedAt": 1789673871609,
       "runHistory": [
         {
           "gameId": "game-1788213427636",
@@ -10043,6 +10130,64 @@
       }
     },
     {
+      "id": "twitch:613391822",
+      "name": "beardbrutus",
+      "maxPoints": 12,
+      "maxBasePoints": 12,
+      "lastRunPoints": 12,
+      "lastRunBasePoints": 12,
+      "runs": 0,
+      "totalGames": 1,
+      "bestLevel": 3,
+      "trackedRuns": 0,
+      "totalBasePoints": 0,
+      "totalWordsFound": 0,
+      "totalLevelsReached": 0,
+      "platform": "twitch",
+      "profileImageUrl": "",
+      "multiplier": 1,
+      "regularityMultiplier": 1,
+      "roleMultiplier": 1,
+      "roles": {
+        "subscriber": false,
+        "moderator": false,
+        "vip": false,
+        "broadcaster": false
+      },
+      "updatedAt": 1789673871609,
+      "runHistory": [],
+      "bestRun": null
+    },
+    {
+      "id": "twitch:1329329712",
+      "name": "calix4566",
+      "maxPoints": 12,
+      "maxBasePoints": 12,
+      "lastRunPoints": 12,
+      "lastRunBasePoints": 12,
+      "runs": 0,
+      "totalGames": 1,
+      "bestLevel": 3,
+      "trackedRuns": 0,
+      "totalBasePoints": 0,
+      "totalWordsFound": 0,
+      "totalLevelsReached": 0,
+      "platform": "twitch",
+      "profileImageUrl": "",
+      "multiplier": 1,
+      "regularityMultiplier": 1,
+      "roleMultiplier": 1,
+      "roles": {
+        "subscriber": false,
+        "moderator": false,
+        "vip": false,
+        "broadcaster": false
+      },
+      "updatedAt": 1789673871609,
+      "runHistory": [],
+      "bestRun": null
+    },
+    {
       "id": "twitch:428320452",
       "name": "ipowerlz",
       "maxPoints": 8,
@@ -10603,6 +10748,35 @@
           }
         ]
       }
+    },
+    {
+      "id": "twitch:648641673",
+      "name": "odin_scar",
+      "maxPoints": 4,
+      "maxBasePoints": 4,
+      "lastRunPoints": 4,
+      "lastRunBasePoints": 4,
+      "runs": 0,
+      "totalGames": 1,
+      "bestLevel": 3,
+      "trackedRuns": 0,
+      "totalBasePoints": 0,
+      "totalWordsFound": 0,
+      "totalLevelsReached": 0,
+      "platform": "twitch",
+      "profileImageUrl": "",
+      "multiplier": 1,
+      "regularityMultiplier": 1,
+      "roleMultiplier": 1,
+      "roles": {
+        "subscriber": false,
+        "moderator": false,
+        "vip": false,
+        "broadcaster": false
+      },
+      "updatedAt": 1789673871609,
+      "runHistory": [],
+      "bestRun": null
     },
     {
       "id": "twitch:407961361",
