@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-17T18:39:25.296Z",
+  "updatedAt": "2026-09-17T19:13:20.652Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "words-on-ztr3am": {
@@ -3271,20 +3271,20 @@
         {
           "id": "twitch:645555689",
           "name": "sheisdani",
-          "maxPoints": 8180,
+          "maxPoints": 8923,
           "maxBasePoints": 6760,
-          "lastRunPoints": 4575,
-          "lastRunBasePoints": 3781,
-          "runs": 14,
-          "totalGames": 14,
+          "lastRunPoints": 8437,
+          "lastRunBasePoints": 6392,
+          "runs": 15,
+          "totalGames": 15,
           "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 6760,
-          "totalWordsFound": 737,
+          "totalWordsFound": 844,
           "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
-          "multiplier": 1.21,
+          "multiplier": 1.32,
           "regularityMultiplier": 1,
           "roleMultiplier": 1,
           "roles": {
@@ -3296,11 +3296,56 @@
           "updatedAt": 0,
           "runHistory": [
             {
+              "gameId": "sopa-1789670441610-2",
+              "endedAt": 1789672400643,
+              "levelReached": 10,
+              "basePoints": 6392,
+              "points": 8437,
+              "wordsFound": 107,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_progress_multiplier",
+                  "name": "Pontuação Afinada",
+                  "icon": "🎯",
+                  "rarity": "rare",
+                  "effectLabel": "×1,1",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
+            {
               "gameId": "sopa-1789323946173-2",
               "endedAt": 1789325868186,
               "levelReached": 10,
               "basePoints": 3781,
-              "points": 4575,
+              "points": 4991,
               "wordsFound": 69,
               "longestWord": "",
               "averageWordLength": 0,
@@ -3345,7 +3390,7 @@
               "endedAt": 1789323366446,
               "levelReached": 10,
               "basePoints": 6760,
-              "points": 8180,
+              "points": 8923,
               "wordsFound": 120,
               "longestWord": "",
               "averageWordLength": 0,
@@ -3390,7 +3435,7 @@
               "endedAt": 1788993769745,
               "levelReached": 5,
               "basePoints": 2290,
-              "points": 2771,
+              "points": 3023,
               "wordsFound": 42,
               "longestWord": "",
               "averageWordLength": 0,
@@ -3424,7 +3469,7 @@
               "endedAt": 1788992430258,
               "levelReached": 8,
               "basePoints": 4010,
-              "points": 4852,
+              "points": 5293,
               "wordsFound": 67,
               "longestWord": "",
               "averageWordLength": 0,
@@ -3463,51 +3508,6 @@
                   "isRandomDraw": false
                 }
               ]
-            },
-            {
-              "gameId": "sopa-1788901284011-3",
-              "endedAt": 1788903335552,
-              "levelReached": 10,
-              "basePoints": 4770,
-              "points": 5772,
-              "wordsFound": 88,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": [
-                {
-                  "id": "sopa_next_extra_time",
-                  "name": "Fôlego Extra",
-                  "icon": "⏱️",
-                  "rarity": "common",
-                  "effectLabel": "+15s",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 2,
-                  "votes": 2,
-                  "isRandomDraw": false
-                },
-                {
-                  "id": "sopa_next_extra_time",
-                  "name": "Fôlego Extra",
-                  "icon": "⏱️",
-                  "rarity": "common",
-                  "effectLabel": "+15s",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 4,
-                  "votes": 2,
-                  "isRandomDraw": false
-                },
-                {
-                  "id": "sopa_permanent_extra_time",
-                  "name": "Relógio Melhorado",
-                  "icon": "🕰️",
-                  "rarity": "epic",
-                  "effectLabel": "+15s sempre",
-                  "scope": "RUN",
-                  "selectedAfterLevel": 7,
-                  "votes": 3,
-                  "isRandomDraw": false
-                }
-              ]
             }
           ],
           "bestRun": {
@@ -3515,7 +3515,7 @@
             "endedAt": 1789323366446,
             "levelReached": 10,
             "basePoints": 6760,
-            "points": 8180,
+            "points": 8923,
             "wordsFound": 120,
             "longestWord": "",
             "averageWordLength": 0,
@@ -3561,14 +3561,14 @@
           "name": "marquesrcarol",
           "maxPoints": 3880,
           "maxBasePoints": 3207,
-          "lastRunPoints": 3845,
-          "lastRunBasePoints": 3178,
-          "runs": 9,
-          "totalGames": 9,
+          "lastRunPoints": 2120,
+          "lastRunBasePoints": 1752,
+          "runs": 10,
+          "totalGames": 10,
           "bestLevel": 10,
           "trackedRuns": 5,
           "totalBasePoints": 3207,
-          "totalWordsFound": 305,
+          "totalWordsFound": 333,
           "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
@@ -3583,6 +3583,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1789670441610-2",
+              "endedAt": 1789672400643,
+              "levelReached": 10,
+              "basePoints": 1752,
+              "points": 2120,
+              "wordsFound": 28,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_progress_multiplier",
+                  "name": "Pontuação Afinada",
+                  "icon": "🎯",
+                  "rarity": "rare",
+                  "effectLabel": "×1,1",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1789323946173-2",
               "endedAt": 1789325868186,
@@ -3746,51 +3791,6 @@
                   "rarity": "common",
                   "effectLabel": "+15s",
                   "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 7,
-                  "votes": 3,
-                  "isRandomDraw": false
-                }
-              ]
-            },
-            {
-              "gameId": "sopa-1788901284011-3",
-              "endedAt": 1788903335552,
-              "levelReached": 10,
-              "basePoints": 2120,
-              "points": 2565,
-              "wordsFound": 36,
-              "longestWord": "",
-              "averageWordLength": 0,
-              "powerups": [
-                {
-                  "id": "sopa_next_extra_time",
-                  "name": "Fôlego Extra",
-                  "icon": "⏱️",
-                  "rarity": "common",
-                  "effectLabel": "+15s",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 2,
-                  "votes": 2,
-                  "isRandomDraw": false
-                },
-                {
-                  "id": "sopa_next_extra_time",
-                  "name": "Fôlego Extra",
-                  "icon": "⏱️",
-                  "rarity": "common",
-                  "effectLabel": "+15s",
-                  "scope": "NEXT_LEVEL",
-                  "selectedAfterLevel": 4,
-                  "votes": 2,
-                  "isRandomDraw": false
-                },
-                {
-                  "id": "sopa_permanent_extra_time",
-                  "name": "Relógio Melhorado",
-                  "icon": "🕰️",
-                  "rarity": "epic",
-                  "effectLabel": "+15s sempre",
-                  "scope": "RUN",
                   "selectedAfterLevel": 7,
                   "votes": 3,
                   "isRandomDraw": false
@@ -4036,15 +4036,15 @@
           "name": "beardbrutus",
           "maxPoints": 2780,
           "maxBasePoints": 2780,
-          "lastRunPoints": 1795,
-          "lastRunBasePoints": 1795,
-          "runs": 3,
-          "totalGames": 3,
-          "bestLevel": 9,
-          "trackedRuns": 3,
+          "lastRunPoints": 726,
+          "lastRunBasePoints": 726,
+          "runs": 4,
+          "totalGames": 4,
+          "bestLevel": 10,
+          "trackedRuns": 4,
           "totalBasePoints": 2780,
-          "totalWordsFound": 94,
-          "totalLevelsReached": 9,
+          "totalWordsFound": 105,
+          "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
           "multiplier": 1,
@@ -4058,6 +4058,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1789670441610-2",
+              "endedAt": 1789672400643,
+              "levelReached": 10,
+              "basePoints": 726,
+              "points": 726,
+              "wordsFound": 11,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_progress_multiplier",
+                  "name": "Pontuação Afinada",
+                  "icon": "🎯",
+                  "rarity": "rare",
+                  "effectLabel": "×1,1",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788475329858-2",
               "endedAt": 1788477421161,
@@ -4462,6 +4507,125 @@
                 "scope": "NEXT_LEVEL",
                 "selectedAfterLevel": 4,
                 "votes": 2,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_deep_target_cut",
+                "name": "Atalho na Grelha",
+                "icon": "🧭",
+                "rarity": "epic",
+                "effectLabel": "−20% meta",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 7,
+                "votes": 1,
+                "isRandomDraw": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "twitch:790310648",
+          "name": "700link007",
+          "maxPoints": 1251,
+          "maxBasePoints": 1251,
+          "lastRunPoints": 1251,
+          "lastRunBasePoints": 1251,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 10,
+          "trackedRuns": 1,
+          "totalBasePoints": 1251,
+          "totalWordsFound": 21,
+          "totalLevelsReached": 10,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": false,
+            "moderator": false,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1789670441610-2",
+              "endedAt": 1789672400643,
+              "levelReached": 10,
+              "basePoints": 1251,
+              "points": 1251,
+              "wordsFound": 21,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_progress_multiplier",
+                  "name": "Pontuação Afinada",
+                  "icon": "🎯",
+                  "rarity": "rare",
+                  "effectLabel": "×1,1",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1789670441610-2",
+            "endedAt": 1789672400643,
+            "levelReached": 10,
+            "basePoints": 1251,
+            "points": 1251,
+            "wordsFound": 21,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_progress_multiplier",
+                "name": "Pontuação Afinada",
+                "icon": "🎯",
+                "rarity": "rare",
+                "effectLabel": "×1,1",
+                "scope": "RUN",
+                "selectedAfterLevel": 2,
+                "votes": 1,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 4,
+                "votes": 1,
                 "isRandomDraw": false
               },
               {
@@ -4953,15 +5117,15 @@
           "name": "z3rgtv",
           "maxPoints": 827,
           "maxBasePoints": 752,
-          "lastRunPoints": 44,
-          "lastRunBasePoints": 40,
-          "runs": 3,
-          "totalGames": 3,
-          "bestLevel": 9,
-          "trackedRuns": 3,
+          "lastRunPoints": 121,
+          "lastRunBasePoints": 110,
+          "runs": 4,
+          "totalGames": 4,
+          "bestLevel": 10,
+          "trackedRuns": 4,
           "totalBasePoints": 752,
-          "totalWordsFound": 18,
-          "totalLevelsReached": 9,
+          "totalWordsFound": 20,
+          "totalLevelsReached": 10,
           "platform": "twitch",
           "profileImageUrl": "",
           "multiplier": 1.1,
@@ -4975,6 +5139,51 @@
           },
           "updatedAt": 0,
           "runHistory": [
+            {
+              "gameId": "sopa-1789670441610-2",
+              "endedAt": 1789672400643,
+              "levelReached": 10,
+              "basePoints": 110,
+              "points": 121,
+              "wordsFound": 2,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_progress_multiplier",
+                  "name": "Pontuação Afinada",
+                  "icon": "🎯",
+                  "rarity": "rare",
+                  "effectLabel": "×1,1",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            },
             {
               "gameId": "sopa-1788900163999-2",
               "endedAt": 1788901271933,
@@ -5967,6 +6176,125 @@
                 "scope": "RUN",
                 "selectedAfterLevel": 4,
                 "votes": 3,
+                "isRandomDraw": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "twitch:614531871",
+          "name": "rstraveler",
+          "maxPoints": 143,
+          "maxBasePoints": 130,
+          "lastRunPoints": 143,
+          "lastRunBasePoints": 130,
+          "runs": 1,
+          "totalGames": 1,
+          "bestLevel": 10,
+          "trackedRuns": 1,
+          "totalBasePoints": 130,
+          "totalWordsFound": 3,
+          "totalLevelsReached": 10,
+          "platform": "twitch",
+          "profileImageUrl": "",
+          "multiplier": 1.1,
+          "regularityMultiplier": 1,
+          "roleMultiplier": 1,
+          "roles": {
+            "subscriber": true,
+            "moderator": true,
+            "vip": false,
+            "broadcaster": false
+          },
+          "updatedAt": 0,
+          "runHistory": [
+            {
+              "gameId": "sopa-1789670441610-2",
+              "endedAt": 1789672400643,
+              "levelReached": 10,
+              "basePoints": 130,
+              "points": 143,
+              "wordsFound": 3,
+              "longestWord": "",
+              "averageWordLength": 0,
+              "powerups": [
+                {
+                  "id": "sopa_progress_multiplier",
+                  "name": "Pontuação Afinada",
+                  "icon": "🎯",
+                  "rarity": "rare",
+                  "effectLabel": "×1,1",
+                  "scope": "RUN",
+                  "selectedAfterLevel": 2,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_next_extra_time",
+                  "name": "Fôlego Extra",
+                  "icon": "⏱️",
+                  "rarity": "common",
+                  "effectLabel": "+15s",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 4,
+                  "votes": 1,
+                  "isRandomDraw": false
+                },
+                {
+                  "id": "sopa_deep_target_cut",
+                  "name": "Atalho na Grelha",
+                  "icon": "🧭",
+                  "rarity": "epic",
+                  "effectLabel": "−20% meta",
+                  "scope": "NEXT_LEVEL",
+                  "selectedAfterLevel": 7,
+                  "votes": 1,
+                  "isRandomDraw": false
+                }
+              ]
+            }
+          ],
+          "bestRun": {
+            "gameId": "sopa-1789670441610-2",
+            "endedAt": 1789672400643,
+            "levelReached": 10,
+            "basePoints": 130,
+            "points": 143,
+            "wordsFound": 3,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": [
+              {
+                "id": "sopa_progress_multiplier",
+                "name": "Pontuação Afinada",
+                "icon": "🎯",
+                "rarity": "rare",
+                "effectLabel": "×1,1",
+                "scope": "RUN",
+                "selectedAfterLevel": 2,
+                "votes": 1,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_next_extra_time",
+                "name": "Fôlego Extra",
+                "icon": "⏱️",
+                "rarity": "common",
+                "effectLabel": "+15s",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 4,
+                "votes": 1,
+                "isRandomDraw": false
+              },
+              {
+                "id": "sopa_deep_target_cut",
+                "name": "Atalho na Grelha",
+                "icon": "🧭",
+                "rarity": "epic",
+                "effectLabel": "−20% meta",
+                "scope": "NEXT_LEVEL",
+                "selectedAfterLevel": 7,
+                "votes": 1,
                 "isRandomDraw": false
               }
             ]
