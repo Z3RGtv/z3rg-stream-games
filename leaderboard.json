@@ -6,9 +6,32 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-17T19:45:30.226Z",
+  "updatedAt": "2026-09-26T05:29:46.836Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
+    "palpites-fncs": {
+      "id": "palpites-fncs",
+      "name": "Palpites FNCS",
+      "mark": "F",
+      "description": "Palpites do campeonato",
+      "leaderboardDescription": "Palpites do campeonato",
+      "leaderboardEyebrow": "PALPITES FNCS",
+      "route": "/palpites-fncs",
+      "adminRoute": "/palpites-fncs/admin",
+      "accent": "#65f0dc",
+      "chatCommands": [
+        "!jogo fncs",
+        "!fncs"
+      ],
+      "eyebrow": "PALPITES FNCS",
+      "mode": "predictions",
+      "periods": {
+        "day1": [],
+        "day2": [],
+        "event": []
+      },
+      "players": []
+    },
     "words-on-ztr3am": {
       "id": "words-on-ztr3am",
       "name": "Words on ZTR3AM",
@@ -2567,7 +2590,17 @@
           },
           "updatedAt": 1789673871609,
           "runHistory": [],
-          "bestRun": null
+          "bestRun": {
+            "gameId": "historico-anterior",
+            "endedAt": 1789673871609,
+            "levelReached": 3,
+            "basePoints": 12,
+            "points": 12,
+            "wordsFound": 0,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": []
+          }
         },
         {
           "id": "twitch:1329329712",
@@ -2596,7 +2629,17 @@
           },
           "updatedAt": 1789673871609,
           "runHistory": [],
-          "bestRun": null
+          "bestRun": {
+            "gameId": "historico-anterior",
+            "endedAt": 1789673871609,
+            "levelReached": 3,
+            "basePoints": 12,
+            "points": 12,
+            "wordsFound": 0,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": []
+          }
         },
         {
           "id": "twitch:428320452",
@@ -2823,9 +2866,9 @@
             "subscriber": false,
             "moderator": true,
             "vip": false,
-            "broadcaster": true
+            "broadcaster": false
           },
-          "updatedAt": 1789674330217,
+          "updatedAt": 1789674330228,
           "runHistory": [
             {
               "gameId": "game-1788040768145",
@@ -3187,7 +3230,17 @@
           },
           "updatedAt": 1789673871609,
           "runHistory": [],
-          "bestRun": null
+          "bestRun": {
+            "gameId": "historico-anterior",
+            "endedAt": 1789673871609,
+            "levelReached": 3,
+            "basePoints": 4,
+            "points": 4,
+            "wordsFound": 0,
+            "longestWord": "",
+            "averageWordLength": 0,
+            "powerups": []
+          }
         },
         {
           "id": "twitch:407961361",
@@ -10156,7 +10209,17 @@
       },
       "updatedAt": 1789673871609,
       "runHistory": [],
-      "bestRun": null
+      "bestRun": {
+        "gameId": "historico-anterior",
+        "endedAt": 1789673871609,
+        "levelReached": 3,
+        "basePoints": 12,
+        "points": 12,
+        "wordsFound": 0,
+        "longestWord": "",
+        "averageWordLength": 0,
+        "powerups": []
+      }
     },
     {
       "id": "twitch:1329329712",
@@ -10185,7 +10248,17 @@
       },
       "updatedAt": 1789673871609,
       "runHistory": [],
-      "bestRun": null
+      "bestRun": {
+        "gameId": "historico-anterior",
+        "endedAt": 1789673871609,
+        "levelReached": 3,
+        "basePoints": 12,
+        "points": 12,
+        "wordsFound": 0,
+        "longestWord": "",
+        "averageWordLength": 0,
+        "powerups": []
+      }
     },
     {
       "id": "twitch:428320452",
@@ -10412,9 +10485,9 @@
         "subscriber": false,
         "moderator": true,
         "vip": false,
-        "broadcaster": true
+        "broadcaster": false
       },
-      "updatedAt": 1789674330217,
+      "updatedAt": 1789674330228,
       "runHistory": [
         {
           "gameId": "game-1788040768145",
@@ -10776,7 +10849,17 @@
       },
       "updatedAt": 1789673871609,
       "runHistory": [],
-      "bestRun": null
+      "bestRun": {
+        "gameId": "historico-anterior",
+        "endedAt": 1789673871609,
+        "levelReached": 3,
+        "basePoints": 4,
+        "points": 4,
+        "wordsFound": 0,
+        "longestWord": "",
+        "averageWordLength": 0,
+        "powerups": []
+      }
     },
     {
       "id": "twitch:407961361",
