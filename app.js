@@ -628,6 +628,7 @@ function renderSignedOutAccount() {
 }
 
 function renderAccount() {
+  renderBingo();
   if (twitchUser) {
     elements.accountArea.innerHTML = `<div class="account-chip"><img src="${safeImageUrl(twitchUser.profile_image_url)}" alt=""><div><strong>${escapeHtml(twitchUser.display_name)}</strong><button id="logout-button" type="button">Terminar sessão</button></div></div>`;
   } else if (youtubeUser) {
@@ -668,7 +669,9 @@ function checkYouTubeSession() {
   }
 }
 
+function renderBingo(){const root=document.getElementById('bingo-fncs');if(root)root.hidden=!isFncs();if(isFncs())window.renderBingoFncs?.(leaderboardDocument?.games?.['palpites-fncs']?.bingo,twitchUser);}
 function renderPublicLeaderboard() {
+  renderBingo();
   elements.playerCount.textContent = leaderboard.length;
   elements.topScore.textContent = formatPoints((isFncs() ? leaderboard[0]?.points : leaderboard[0]?.maxPoints) ?? 0);
   if (!twitchUser && !youtubeUser) renderSignedOutAccount();
