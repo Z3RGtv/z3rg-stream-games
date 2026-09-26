@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T14:56:30.259Z",
+  "updatedAt": "2026-09-26T15:59:48.541Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -29,9 +29,9 @@
         "name": "Bingo FNCS",
         "cost": 300,
         "open": false,
-        "connected": true,
+        "connected": false,
         "firstRound": 1,
-        "updatedAt": 1790434585244,
+        "updatedAt": 1790438388438,
         "champions": [
           {
             "code": "C01",
@@ -1149,8 +1149,8 @@
             "evidence": "4/8 jogos; média 3.25",
             "code": "B025",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "68c17d1e-ea3c-42ad-98d7-2b48675242ea:dca13c06-26af-4af7-aadf-39c3ba44914b",
@@ -1373,8 +1373,8 @@
             "evidence": "6/8 jogos; média 2.00",
             "code": "B037",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
@@ -1392,8 +1392,8 @@
             "evidence": "2/8 jogos",
             "code": "B038",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
@@ -1597,8 +1597,8 @@
             "evidence": "3/8 jogos; média 2.25",
             "code": "B049",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "ed795860-0321-496f-a7ca-0ed2ee544051:f5783ecc-4b07-4396-aad6-38fd7baa1c89",
@@ -1616,8 +1616,8 @@
             "evidence": "2/8 jogos",
             "code": "B050",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "ed795860-0321-496f-a7ca-0ed2ee544051:f5783ecc-4b07-4396-aad6-38fd7baa1c89",
@@ -1765,8 +1765,8 @@
             "evidence": "5/8 jogos; média 0.88",
             "code": "B058",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf:fd65e10f-657e-42f5-9fe1-5d3a9348004a",
@@ -1784,6 +1784,114 @@
             "evidence": "2/8 jogos",
             "code": "B059",
             "version": 1,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 9,
+            "difficulty": "easy",
+            "evidence": "2 kills/2 jogos atuais; média 1.00",
+            "label": "9 kills no torneio",
+            "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
+            "teamName": "Peterbot / Pollo",
+            "playerIds": [
+              "45ce4565-b6db-452c-9419-119b12e7eac3",
+              "9868429b-133a-42b8-a43f-737887da4673"
+            ],
+            "version": 1,
+            "code": "N0060",
+            "createdAt": 1790438384488,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 26,
+            "difficulty": "easy",
+            "evidence": "6 kills/2 jogos atuais; média 3.00",
+            "label": "26 kills no torneio",
+            "teamKey": "4fb6deaf-5440-4468-8f11-d3be09eafe49:85bf29cb-0d8c-4be0-8807-5adaa5c582d1",
+            "teamName": "Mack / Diguera",
+            "playerIds": [
+              "4fb6deaf-5440-4468-8f11-d3be09eafe49",
+              "85bf29cb-0d8c-4be0-8807-5adaa5c582d1"
+            ],
+            "version": 1,
+            "code": "N0061",
+            "createdAt": 1790438384662,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 22,
+            "difficulty": "easy",
+            "evidence": "5 kills/2 jogos atuais; média 2.50",
+            "label": "22 kills no torneio",
+            "teamKey": "8175b84a-680c-4f8d-ae3b-bfc23239290a:9485ffab-f7b8-4719-956c-56612ca00c27",
+            "teamName": "Phazma / Crusades",
+            "playerIds": [
+              "8175b84a-680c-4f8d-ae3b-bfc23239290a",
+              "9485ffab-f7b8-4719-956c-56612ca00c27"
+            ],
+            "version": 1,
+            "code": "N0062",
+            "createdAt": 1790438385020,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 22,
+            "difficulty": "easy",
+            "evidence": "5 kills/2 jogos atuais; média 2.50",
+            "label": "22 kills no torneio",
+            "teamKey": "11c2360a-c162-43db-85dd-822a8cb6ad3c:8bd1f40d-430c-4bd9-8067-2d253fbab307",
+            "teamName": "Cringe / 1Lusha",
+            "playerIds": [
+              "11c2360a-c162-43db-85dd-822a8cb6ad3c",
+              "8bd1f40d-430c-4bd9-8067-2d253fbab307"
+            ],
+            "version": 1,
+            "code": "N0063",
+            "createdAt": 1790438385581,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 9,
+            "difficulty": "easy",
+            "evidence": "2 kills/2 jogos atuais; média 1.00",
+            "label": "9 kills no torneio",
+            "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
+            "teamName": "SwizzY / Pixie",
+            "playerIds": [
+              "072e8b9f-8188-405a-b0eb-52544e1dc906",
+              "b39cded9-3b0f-4aa5-9ffd-adf0db18e853"
+            ],
+            "version": 1,
+            "code": "N0064",
+            "createdAt": 1790438385581,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 17,
+            "difficulty": "easy",
+            "evidence": "4 kills/2 jogos atuais; média 2.00",
+            "label": "17 kills no torneio",
+            "teamKey": "278c95a8-671d-432d-a211-0578a5120e7b:55e5ae95-186e-4724-955a-14e57d0c5601",
+            "teamName": "5AALD / 27Q8",
+            "playerIds": [
+              "278c95a8-671d-432d-a211-0578a5120e7b",
+              "55e5ae95-186e-4724-955a-14e57d0c5601"
+            ],
+            "version": 1,
+            "code": "N0065",
+            "createdAt": 1790438387118,
             "available": true,
             "reason": null
           }
