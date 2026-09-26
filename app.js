@@ -766,7 +766,13 @@ async function initialize() {
 }
 
 initialize();
-setInterval(async () => {
+let publicRefreshRunning = false;
+async function refreshPublicData() {
+  if (publicRefreshRunning) return;
+  publicRefreshRunning = true;
   try { await loadLeaderboard(true); renderPublicLeaderboard(); renderMyProfile(); }
-  catch { /* Keep the last confirmed leaderboard on transient network failures. */ }
-}, 30000);
+  catch { /* Preserve last confirmed data; retry on next tick. */ }
+  finally { publicRefreshRunning = false; }
+}
+setInterval(refreshPublicData, 5000);
+document.addEventListener('visibilitychange', () => { if (!document.hidden) void refreshPublicData(); });
