@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T18:05:23.352Z",
+  "updatedAt": "2026-09-26T18:08:54.054Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 6,
-        "updatedAt": 1790445918523,
+        "updatedAt": 1790446132789,
         "champions": [
           {
             "code": "C01",
@@ -4479,7 +4479,7 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 4,
+            "answered": 5,
             "rank": 2
           },
           {
@@ -4529,7 +4529,7 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 3,
+            "answered": 4,
             "rank": 7
           },
           {
@@ -4550,6 +4550,16 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
+            "rank": 7
+          },
+          {
+            "id": "twitch:164609804",
+            "platform": "twitch",
+            "name": "soniagoncalves",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
             "rank": 7
           }
         ],
@@ -4582,7 +4592,7 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 4,
+            "answered": 5,
             "rank": 2
           },
           {
@@ -4632,7 +4642,7 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 3,
+            "answered": 4,
             "rank": 7
           },
           {
@@ -4653,6 +4663,16 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
+            "rank": 7
+          },
+          {
+            "id": "twitch:164609804",
+            "platform": "twitch",
+            "name": "soniagoncalves",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
             "rank": 7
           }
         ]
@@ -4685,7 +4705,7 @@
           "points": 100,
           "exact": 1,
           "near": 0,
-          "answered": 4,
+          "answered": 5,
           "rank": 2
         },
         {
@@ -4735,7 +4755,7 @@
           "points": 0,
           "exact": 0,
           "near": 0,
-          "answered": 3,
+          "answered": 4,
           "rank": 7
         },
         {
@@ -4756,6 +4776,16 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
+          "rank": 7
+        },
+        {
+          "id": "twitch:164609804",
+          "platform": "twitch",
+          "name": "soniagoncalves",
+          "points": 0,
+          "exact": 0,
+          "near": 0,
+          "answered": 1,
           "rank": 7
         }
       ]
