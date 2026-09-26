@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T16:34:58.599Z",
+  "updatedAt": "2026-09-26T16:36:16.037Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 4,
-        "updatedAt": 1790440493587,
+        "updatedAt": 1790440573700,
         "champions": [
           {
             "code": "C01",
@@ -2146,7 +2146,7 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
             "rank": 2
           },
           {
@@ -2156,7 +2156,7 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
             "rank": 2
           },
           {
@@ -2170,13 +2170,43 @@
             "rank": 5
           },
           {
+            "id": "twitch:423908473",
+            "platform": "twitch",
+            "name": "garzia17",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
+            "rank": 5
+          },
+          {
+            "id": "twitch:636817789",
+            "platform": "twitch",
+            "name": "hugoandre07",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
+            "rank": 5
+          },
+          {
             "id": "twitch:1456923742",
             "platform": "twitch",
             "name": "matoswar2003",
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
+            "rank": 5
+          },
+          {
+            "id": "twitch:134395626",
+            "platform": "twitch",
+            "name": "minichef9",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
             "rank": 5
           }
         ],
@@ -2209,7 +2239,7 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
             "rank": 2
           },
           {
@@ -2219,7 +2249,7 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
             "rank": 2
           },
           {
@@ -2233,13 +2263,43 @@
             "rank": 5
           },
           {
+            "id": "twitch:423908473",
+            "platform": "twitch",
+            "name": "garzia17",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
+            "rank": 5
+          },
+          {
+            "id": "twitch:636817789",
+            "platform": "twitch",
+            "name": "hugoandre07",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
+            "rank": 5
+          },
+          {
             "id": "twitch:1456923742",
             "platform": "twitch",
             "name": "matoswar2003",
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
+            "rank": 5
+          },
+          {
+            "id": "twitch:134395626",
+            "platform": "twitch",
+            "name": "minichef9",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
             "rank": 5
           }
         ]
@@ -2272,7 +2332,7 @@
           "points": 100,
           "exact": 1,
           "near": 0,
-          "answered": 2,
+          "answered": 3,
           "rank": 2
         },
         {
@@ -2282,7 +2342,7 @@
           "points": 100,
           "exact": 1,
           "near": 0,
-          "answered": 2,
+          "answered": 3,
           "rank": 2
         },
         {
@@ -2296,13 +2356,43 @@
           "rank": 5
         },
         {
+          "id": "twitch:423908473",
+          "platform": "twitch",
+          "name": "garzia17",
+          "points": 0,
+          "exact": 0,
+          "near": 0,
+          "answered": 1,
+          "rank": 5
+        },
+        {
+          "id": "twitch:636817789",
+          "platform": "twitch",
+          "name": "hugoandre07",
+          "points": 0,
+          "exact": 0,
+          "near": 0,
+          "answered": 1,
+          "rank": 5
+        },
+        {
           "id": "twitch:1456923742",
           "platform": "twitch",
           "name": "matoswar2003",
           "points": 0,
           "exact": 0,
           "near": 0,
-          "answered": 2,
+          "answered": 3,
+          "rank": 5
+        },
+        {
+          "id": "twitch:134395626",
+          "platform": "twitch",
+          "name": "minichef9",
+          "points": 0,
+          "exact": 0,
+          "near": 0,
+          "answered": 1,
           "rank": 5
         }
       ]
