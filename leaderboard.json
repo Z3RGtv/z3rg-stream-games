@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T18:00:43.989Z",
+  "updatedAt": "2026-09-26T18:00:49.255Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -29,9 +29,9 @@
         "name": "Bingo FNCS",
         "cost": 300,
         "open": false,
-        "connected": false,
+        "connected": true,
         "firstRound": 5,
-        "updatedAt": 1790445643866,
+        "updatedAt": 1790445648966,
         "champions": [
           {
             "code": "C01",
@@ -1653,8 +1653,8 @@
             "evidence": "3/8 jogos; média 1.75",
             "code": "B052",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
@@ -2345,6 +2345,25 @@
             "version": 1,
             "code": "N0090",
             "createdAt": 1790445638955,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "medium",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 4 jogos atuais",
+            "teamKey": "28f2d420-7f91-4283-8351-f610815012e1:37da09eb-8b57-4968-ad36-da5adc02232b",
+            "teamName": "Ritual / Cold",
+            "playerIds": [
+              "28f2d420-7f91-4283-8351-f610815012e1",
+              "37da09eb-8b57-4968-ad36-da5adc02232b"
+            ],
+            "version": 1,
+            "code": "N0091",
+            "createdAt": 1790445648967,
             "available": true,
             "reason": null
           }
