@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T16:04:41.740Z",
+  "updatedAt": "2026-09-26T16:05:05.824Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": false,
         "connected": true,
         "firstRound": 1,
-        "updatedAt": 1790438677630,
+        "updatedAt": 1790438698699,
         "champions": [
           {
             "code": "C01",
@@ -925,8 +925,8 @@
             "evidence": "6/8 jogos; média 2.63",
             "code": "B013",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "2d91ad40-c738-4c8a-9c12-c4c295450d78:bce27060-4551-411a-b0a7-ffcac5f058e0",
@@ -1336,8 +1336,8 @@
             "evidence": "2/8 jogos",
             "code": "B035",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "501b4766-6d0b-4260-9ba7-2a04c2cdc300:eb53ec01-a5a4-496d-94d5-950068d82016",
@@ -1429,8 +1429,8 @@
             "evidence": "6/8 jogos; média 2.63",
             "code": "B040",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
@@ -1560,8 +1560,8 @@
             "evidence": "3/8 jogos",
             "code": "B047",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "2fc6c760-b950-4e61-87cd-e71d86d314c8:990f29fa-76f9-482f-8078-20dd4807f464",
@@ -1728,8 +1728,8 @@
             "evidence": "3/8 jogos",
             "code": "B056",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "77999a7f-609d-40bb-b621-223df590b4d2:f899b6ef-72c7-4f03-af0a-eca85b2bedca",
@@ -2019,6 +2019,97 @@
             "version": 1,
             "code": "N0072",
             "createdAt": 1790438676947,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "medium",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 2 jogos atuais",
+            "teamKey": "87a8e3b6-5379-41d5-8bbe-e06b9ac19b6a:9d753f5a-be9b-43fa-9915-ff04a54ca3f0",
+            "teamName": "josh / Eomzo",
+            "playerIds": [
+              "87a8e3b6-5379-41d5-8bbe-e06b9ac19b6a",
+              "9d753f5a-be9b-43fa-9915-ff04a54ca3f0"
+            ],
+            "version": 1,
+            "code": "N0073",
+            "createdAt": 1790438691969,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 22,
+            "difficulty": "easy",
+            "evidence": "5 kills/2 jogos atuais; média 2.50",
+            "label": "22 kills no torneio",
+            "teamKey": "2b3da27c-62d1-4887-bd6d-aa865df33487:ef29a568-e9c1-45a7-85da-2903fe81114b",
+            "teamName": "IDrop / Ghonzo",
+            "playerIds": [
+              "2b3da27c-62d1-4887-bd6d-aa865df33487",
+              "ef29a568-e9c1-45a7-85da-2903fe81114b"
+            ],
+            "version": 1,
+            "code": "N0074",
+            "createdAt": 1790438692518,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 13,
+            "difficulty": "easy",
+            "evidence": "3 kills/2 jogos atuais; média 1.50",
+            "label": "13 kills no torneio",
+            "teamKey": "4eef01c0-cbc7-4341-bf87-9fab965daa98:aa181487-06bf-4180-8bc0-601218a1b817",
+            "teamName": "Pixx / Firen",
+            "playerIds": [
+              "4eef01c0-cbc7-4341-bf87-9fab965daa98",
+              "aa181487-06bf-4180-8bc0-601218a1b817"
+            ],
+            "version": 1,
+            "code": "N0075",
+            "createdAt": 1790438694185,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 9,
+            "difficulty": "easy",
+            "evidence": "2 kills/2 jogos atuais; média 1.00",
+            "label": "9 kills no torneio",
+            "teamKey": "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1:f49c5582-7898-4adf-a62b-53865c0a2b13",
+            "teamName": "Randu / Grx",
+            "playerIds": [
+              "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1",
+              "f49c5582-7898-4adf-a62b-53865c0a2b13"
+            ],
+            "version": 1,
+            "code": "N0076",
+            "createdAt": 1790438694579,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 13,
+            "difficulty": "easy",
+            "evidence": "3 kills/2 jogos atuais; média 1.50",
+            "label": "13 kills no torneio",
+            "teamKey": "5a020a9f-cf1d-4dad-a99f-0f62c1877c68:b6744324-45d4-48fb-ba99-eb24bd5240a8",
+            "teamName": "Hcube / Encrypted",
+            "playerIds": [
+              "5a020a9f-cf1d-4dad-a99f-0f62c1877c68",
+              "b6744324-45d4-48fb-ba99-eb24bd5240a8"
+            ],
+            "version": 1,
+            "code": "N0077",
+            "createdAt": 1790438694760,
             "available": true,
             "reason": null
           }
