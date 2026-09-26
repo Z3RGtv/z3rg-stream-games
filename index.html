@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://static-cdn.jtvnw.net">
   <link rel="stylesheet" href="styles.css?v=18">
   <script src="https://accounts.google.com/gsi/client" async defer></script>
-  <script src="app.js?v=18" defer></script>
+  <script src="app.js?v=19" defer></script>
 </head>
 <body>
   <div class="wood-frame" aria-hidden="true"></div>
@@ -47,13 +47,14 @@
       <div class="toolbar">
         <div>
           <h2 id="ranking-title">Classificação geral</h2>
-          <p>O melhor resultado de sempre de cada jogador, numa tabela conjunta.</p>
+          <p id="ranking-explanation">O melhor resultado de sempre de cada jogador, numa tabela conjunta.</p>
           <div class="platform-legend" aria-label="Plataformas">
             <span class="platform-badge twitch"><i aria-hidden="true"></i> Twitch</span>
             <span class="platform-badge youtube"><i aria-hidden="true"></i> YouTube</span>
           </div>
         </div>
         <div class="toolbar-actions">
+          <label id="fncs-period-label" hidden>Período <select id="fncs-period"><option value="event">Campeonato</option><option value="day1">Dia 1</option><option value="day2">Dia 2</option></select></label>
           <button id="open-powerups-btn" class="open-powerups-btn" type="button" aria-label="Abrir compêndio de power-ups">⚡ Compêndio de Power-Ups</button>
           <label class="search-box">
             <span class="sr-only">Pesquisar jogador</span>
