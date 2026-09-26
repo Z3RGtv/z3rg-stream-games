@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T18:52:17.904Z",
+  "updatedAt": "2026-09-26T18:52:52.453Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": false,
         "connected": true,
         "firstRound": 6,
-        "updatedAt": 1790448732880,
+        "updatedAt": 1790448771365,
         "champions": [
           {
             "code": "C01",
@@ -757,8 +757,8 @@
             "evidence": "2/8 jogos; média 4.00",
             "code": "B004",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
@@ -776,8 +776,8 @@
             "evidence": "3/8 jogos",
             "code": "B005",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
@@ -1802,8 +1802,8 @@
             "version": 1,
             "code": "N0060",
             "createdAt": 1790438384488,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -2567,6 +2567,61 @@
             "createdAt": 1790448728422,
             "available": true,
             "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 9,
+            "difficulty": "easy",
+            "evidence": "5 kills/6 jogos atuais; média 0.83",
+            "label": "9 kills no torneio",
+            "teamKey": "8175b84a-680c-4f8d-ae3b-bfc23239290a:9485ffab-f7b8-4719-956c-56612ca00c27",
+            "teamName": "Phazma / Crusades",
+            "playerIds": [
+              "8175b84a-680c-4f8d-ae3b-bfc23239290a",
+              "9485ffab-f7b8-4719-956c-56612ca00c27"
+            ],
+            "version": 1,
+            "code": "N0103",
+            "createdAt": 1790448768969,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais",
+            "teamKey": "2b3da27c-62d1-4887-bd6d-aa865df33487:ef29a568-e9c1-45a7-85da-2903fe81114b",
+            "teamName": "IDrop / Ghonzo",
+            "playerIds": [
+              "2b3da27c-62d1-4887-bd6d-aa865df33487",
+              "ef29a568-e9c1-45a7-85da-2903fe81114b"
+            ],
+            "version": 1,
+            "code": "N0104",
+            "createdAt": 1790448768969,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 27,
+            "difficulty": "easy",
+            "evidence": "16 kills/6 jogos atuais; média 2.67",
+            "label": "27 kills no torneio",
+            "teamKey": "2b3da27c-62d1-4887-bd6d-aa865df33487:ef29a568-e9c1-45a7-85da-2903fe81114b",
+            "teamName": "IDrop / Ghonzo",
+            "playerIds": [
+              "2b3da27c-62d1-4887-bd6d-aa865df33487",
+              "ef29a568-e9c1-45a7-85da-2903fe81114b"
+            ],
+            "version": 1,
+            "code": "N0105",
+            "createdAt": 1790448768969,
+            "available": true,
+            "reason": null
           }
         ],
         "cards": [
@@ -2720,7 +2775,14 @@
                 "evidence": "3/8 jogos",
                 "code": "B005",
                 "version": 1,
-                "proof": null
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1
+                }
               },
               {
                 "kind": "total",
@@ -2869,7 +2931,7 @@
                 "proof": null
               }
             ],
-            "completed": 2,
+            "completed": 3,
             "lines": 0
           },
           {
@@ -3076,7 +3138,14 @@
                 "evidence": "2/8 jogos; média 4.00",
                 "code": "B004",
                 "version": 1,
-                "proof": null
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1
+                }
               },
               {
                 "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
@@ -3187,7 +3256,7 @@
                 "proof": null
               }
             ],
-            "completed": 4,
+            "completed": 5,
             "lines": 0
           },
           {
@@ -3334,7 +3403,15 @@
                 "version": 1,
                 "code": "N0060",
                 "createdAt": 1790438384488,
-                "proof": null
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1,
+                  "total": 11
+                }
               },
               {
                 "kind": "total",
@@ -3451,7 +3528,14 @@
                 "evidence": "3/8 jogos",
                 "code": "B005",
                 "version": 1,
-                "proof": null
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1
+                }
               },
               {
                 "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
@@ -3496,7 +3580,7 @@
                 "proof": null
               }
             ],
-            "completed": 3,
+            "completed": 5,
             "lines": 0
           },
           {
@@ -4135,10 +4219,17 @@
                 "evidence": "3/8 jogos",
                 "code": "B005",
                 "version": 1,
-                "proof": null
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1
+                }
               }
             ],
-            "completed": 4,
+            "completed": 5,
             "lines": 0
           },
           {
@@ -4384,7 +4475,14 @@
                 "evidence": "2/8 jogos; média 4.00",
                 "code": "B004",
                 "version": 1,
-                "proof": null
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1
+                }
               },
               {
                 "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
@@ -4455,7 +4553,7 @@
                 "proof": null
               }
             ],
-            "completed": 4,
+            "completed": 5,
             "lines": 0
           },
           {
@@ -4630,7 +4728,15 @@
                 "version": 1,
                 "code": "N0060",
                 "createdAt": 1790438384488,
-                "proof": null
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1,
+                  "total": 11
+                }
               },
               {
                 "kind": "countTop",
@@ -4745,7 +4851,14 @@
                 "evidence": "3/8 jogos",
                 "code": "B005",
                 "version": 1,
-                "proof": null
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1
+                }
               },
               {
                 "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
@@ -4765,11 +4878,327 @@
                 "proof": null
               }
             ],
-            "completed": 3,
+            "completed": 5,
             "lines": 0
           }
         ],
-        "overlay": null
+        "overlay": {
+          "id": "823592f0-da49-40a8-b791-6b2b0c730862",
+          "userId": "164609804",
+          "code": "B005",
+          "completed": true,
+          "startAt": 1790448768969,
+          "expiresAt": 1790448775469,
+          "card": {
+            "userId": "164609804",
+            "name": "soniagoncalves",
+            "createdAt": 1790445670676,
+            "firstRound": 6,
+            "cells": [
+              {
+                "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
+                "teamName": "Resignz / Tinka",
+                "playerIds": [
+                  "15221258-a561-4a82-89d6-60cb116aa4d2",
+                  "22cf7972-39f5-42ca-af59-7660403c97a6"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 15,
+                "difficulty": "medium",
+                "label": "Top 15",
+                "evidence": "2/8 jogos",
+                "code": "B053",
+                "version": 1,
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 0,
+                  "place": 15,
+                  "endedAt": 1790448480000,
+                  "round": 6,
+                  "day": 1
+                }
+              },
+              {
+                "teamKey": "77999a7f-609d-40bb-b621-223df590b4d2:f899b6ef-72c7-4f03-af0a-eca85b2bedca",
+                "teamName": "Lewa / Romero",
+                "playerIds": [
+                  "77999a7f-609d-40bb-b621-223df590b4d2",
+                  "f899b6ef-72c7-4f03-af0a-eca85b2bedca"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "total",
+                "threshold": 20,
+                "difficulty": "hard",
+                "label": "20 kills no torneio",
+                "evidence": "12/8 jogos; referência 12 jogos: 18",
+                "code": "B057",
+                "version": 1,
+                "proof": null
+              },
+              {
+                "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
+                "teamName": "SwizzY / Pixie",
+                "playerIds": [
+                  "072e8b9f-8188-405a-b0eb-52544e1dc906",
+                  "b39cded9-3b0f-4aa5-9ffd-adf0db18e853"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "total",
+                "threshold": 30,
+                "difficulty": "hard",
+                "label": "30 kills no torneio",
+                "evidence": "16/8 jogos; referência 12 jogos: 24",
+                "code": "B039",
+                "version": 1,
+                "proof": null
+              },
+              {
+                "kind": "countTop",
+                "place": 15,
+                "threshold": 3,
+                "difficulty": "medium",
+                "label": "3 jogos no top 15",
+                "evidence": "2 top 15 em 2 jogos atuais",
+                "teamKey": "9b108368-8c3e-4364-b0c4-48d7bc9b4c06:ebbc1eda-a769-417e-b582-1b56d722c3f5",
+                "teamName": "Velo / Zynox",
+                "playerIds": [
+                  "9b108368-8c3e-4364-b0c4-48d7bc9b4c06",
+                  "ebbc1eda-a769-417e-b582-1b56d722c3f5"
+                ],
+                "version": 1,
+                "code": "N0070",
+                "createdAt": 1790438676727,
+                "proof": null
+              },
+              {
+                "teamKey": "2fc6c760-b950-4e61-87cd-e71d86d314c8:990f29fa-76f9-482f-8078-20dd4807f464",
+                "teamName": "Cr1nge / Twi",
+                "playerIds": [
+                  "2fc6c760-b950-4e61-87cd-e71d86d314c8",
+                  "990f29fa-76f9-482f-8078-20dd4807f464"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "total",
+                "threshold": 25,
+                "difficulty": "hard",
+                "label": "25 kills no torneio",
+                "evidence": "15/8 jogos; referência 12 jogos: 22.5",
+                "code": "B048",
+                "version": 1,
+                "proof": null
+              },
+              {
+                "kind": "total",
+                "threshold": 22,
+                "difficulty": "easy",
+                "evidence": "5 kills/2 jogos atuais; média 2.50",
+                "label": "22 kills no torneio",
+                "teamKey": "2b3da27c-62d1-4887-bd6d-aa865df33487:ef29a568-e9c1-45a7-85da-2903fe81114b",
+                "teamName": "IDrop / Ghonzo",
+                "playerIds": [
+                  "2b3da27c-62d1-4887-bd6d-aa865df33487",
+                  "ef29a568-e9c1-45a7-85da-2903fe81114b"
+                ],
+                "version": 1,
+                "code": "N0074",
+                "createdAt": 1790438692518,
+                "proof": null
+              },
+              {
+                "kind": "total",
+                "threshold": 18,
+                "difficulty": "easy",
+                "evidence": "6 kills/3 jogos atuais; média 2.00",
+                "label": "18 kills no torneio",
+                "teamKey": "3ce9c64d-8286-4894-80d1-aceeb206589a:52447924-0707-4052-a08c-be04c830726d",
+                "teamName": "Higgs / Curve",
+                "playerIds": [
+                  "3ce9c64d-8286-4894-80d1-aceeb206589a",
+                  "52447924-0707-4052-a08c-be04c830726d"
+                ],
+                "version": 1,
+                "code": "N0081",
+                "createdAt": 1790440789909,
+                "proof": null
+              },
+              {
+                "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
+                "teamName": "Peterbot / Pollo",
+                "playerIds": [
+                  "45ce4565-b6db-452c-9419-119b12e7eac3",
+                  "9868429b-133a-42b8-a43f-737887da4673"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "3/8 jogos",
+                "code": "B005",
+                "version": 1,
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1
+                }
+              },
+              {
+                "kind": "total",
+                "threshold": 13,
+                "difficulty": "easy",
+                "evidence": "3 kills/2 jogos atuais; média 1.50",
+                "label": "13 kills no torneio",
+                "teamKey": "0865dd0c-cabd-4156-aa6e-7757f9b5b753:b98790d7-278b-4169-947b-3c932c3a6af0",
+                "teamName": "Nebs / Nxthan",
+                "playerIds": [
+                  "0865dd0c-cabd-4156-aa6e-7757f9b5b753",
+                  "b98790d7-278b-4169-947b-3c932c3a6af0"
+                ],
+                "version": 1,
+                "code": "N0069",
+                "createdAt": 1790438676726,
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 7,
+                  "place": 14,
+                  "endedAt": 1790448480000,
+                  "round": 6,
+                  "day": 1,
+                  "total": 15
+                }
+              },
+              {
+                "teamKey": "34009ee2-0b02-4cfb-843d-984e5b9b30aa:a28109dd-beb7-48ad-93b9-4e205e5a2048",
+                "teamName": "Shadow / Vergo",
+                "playerIds": [
+                  "34009ee2-0b02-4cfb-843d-984e5b9b30aa",
+                  "a28109dd-beb7-48ad-93b9-4e205e5a2048"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "2/8 jogos",
+                "code": "B023",
+                "version": 1,
+                "proof": null
+              },
+              {
+                "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
+                "teamName": "Reet / Cooper",
+                "playerIds": [
+                  "44a112b0-4dc2-40cb-ba85-518f99b7ff35",
+                  "5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "3/8 jogos",
+                "code": "B017",
+                "version": 1,
+                "proof": null
+              },
+              {
+                "kind": "countTop",
+                "place": 15,
+                "threshold": 3,
+                "difficulty": "medium",
+                "label": "3 jogos no top 15",
+                "evidence": "2 top 15 em 2 jogos atuais",
+                "teamKey": "87a8e3b6-5379-41d5-8bbe-e06b9ac19b6a:9d753f5a-be9b-43fa-9915-ff04a54ca3f0",
+                "teamName": "josh / Eomzo",
+                "playerIds": [
+                  "87a8e3b6-5379-41d5-8bbe-e06b9ac19b6a",
+                  "9d753f5a-be9b-43fa-9915-ff04a54ca3f0"
+                ],
+                "version": 1,
+                "code": "N0073",
+                "createdAt": 1790438691969,
+                "proof": null
+              },
+              {
+                "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
+                "teamName": "Focus / Th0masHD",
+                "playerIds": [
+                  "30dda2a7-8184-451f-8e7f-85530e34e7af",
+                  "daff9a4a-3b01-42e5-ae58-077a3ee1b4cc"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 10,
+                "difficulty": "medium",
+                "label": "Top 10",
+                "evidence": "3/8 jogos",
+                "code": "B029",
+                "version": 1,
+                "proof": null
+              },
+              {
+                "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
+                "teamName": "Tjino / PabloWingu",
+                "playerIds": [
+                  "137b42eb-15ad-4c0e-aed6-68678ef884a6",
+                  "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "2/8 jogos",
+                "code": "B041",
+                "version": 1,
+                "proof": null
+              },
+              {
+                "kind": "total",
+                "threshold": 30,
+                "difficulty": "easy",
+                "evidence": "10 kills/3 jogos atuais; média 3.33",
+                "label": "30 kills no torneio",
+                "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
+                "teamName": "yuma / Koyota",
+                "playerIds": [
+                  "72b80d98-d7d9-4670-ba31-ef9a208e2934",
+                  "785aa4de-6a84-4a29-badb-195ba05a3e74"
+                ],
+                "version": 1,
+                "code": "N0083",
+                "createdAt": 1790440790274,
+                "proof": null
+              },
+              {
+                "code": "C38",
+                "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
+                "teamName": "yuma / Koyota",
+                "playerIds": [
+                  "72b80d98-d7d9-4670-ba31-ef9a208e2934",
+                  "785aa4de-6a84-4a29-badb-195ba05a3e74"
+                ],
+                "kind": "champion",
+                "difficulty": "hard",
+                "label": "Vence a FNCS",
+                "version": 1,
+                "proof": null
+              }
+            ],
+            "completed": 3,
+            "lines": 0
+          }
+        }
       },
       "periods": {
         "day1": [
@@ -4780,8 +5209,28 @@
             "points": 550,
             "exact": 5,
             "near": 1,
-            "answered": 6,
+            "answered": 7,
             "rank": 1
+          },
+          {
+            "id": "twitch:972248156",
+            "platform": "twitch",
+            "name": "marquesrcarol",
+            "points": 350,
+            "exact": 3,
+            "near": 1,
+            "answered": 8,
+            "rank": 2
+          },
+          {
+            "id": "twitch:645555689",
+            "platform": "twitch",
+            "name": "sheisdani",
+            "points": 350,
+            "exact": 3,
+            "near": 1,
+            "answered": 8,
+            "rank": 2
           },
           {
             "id": "twitch:932779495",
@@ -4791,27 +5240,7 @@
             "exact": 3,
             "near": 1,
             "answered": 8,
-            "rank": 2
-          },
-          {
-            "id": "twitch:972248156",
-            "platform": "twitch",
-            "name": "marquesrcarol",
-            "points": 300,
-            "exact": 3,
-            "near": 0,
-            "answered": 7,
-            "rank": 3
-          },
-          {
-            "id": "twitch:645555689",
-            "platform": "twitch",
-            "name": "sheisdani",
-            "points": 300,
-            "exact": 3,
-            "near": 0,
-            "answered": 7,
-            "rank": 3
+            "rank": 4
           },
           {
             "id": "twitch:895327657",
@@ -4824,6 +5253,16 @@
             "rank": 5
           },
           {
+            "id": "twitch:164609804",
+            "platform": "twitch",
+            "name": "soniagoncalves",
+            "points": 150,
+            "exact": 1,
+            "near": 1,
+            "answered": 5,
+            "rank": 6
+          },
+          {
             "id": "twitch:717212869",
             "platform": "twitch",
             "name": "curtes8",
@@ -4831,7 +5270,7 @@
             "exact": 1,
             "near": 0,
             "answered": 2,
-            "rank": 6
+            "rank": 7
           },
           {
             "id": "twitch:1069376937",
@@ -4841,7 +5280,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 6
+            "rank": 7
           },
           {
             "id": "twitch:1456923742",
@@ -4851,17 +5290,17 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 6
+            "rank": 7
           },
           {
-            "id": "twitch:164609804",
+            "id": "twitch:636817789",
             "platform": "twitch",
-            "name": "soniagoncalves",
-            "points": 100,
-            "exact": 1,
-            "near": 0,
-            "answered": 4,
-            "rank": 6
+            "name": "hugoandre07",
+            "points": 50,
+            "exact": 0,
+            "near": 1,
+            "answered": 6,
+            "rank": 10
           },
           {
             "id": "twitch:423908473",
@@ -4871,17 +5310,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 10
-          },
-          {
-            "id": "twitch:636817789",
-            "platform": "twitch",
-            "name": "hugoandre07",
-            "points": 0,
-            "exact": 0,
-            "near": 0,
-            "answered": 5,
-            "rank": 10
+            "rank": 11
           },
           {
             "id": "twitch:1352711259",
@@ -4891,7 +5320,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 10
+            "rank": 11
           },
           {
             "id": "twitch:134395626",
@@ -4901,7 +5330,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 10
+            "rank": 11
           }
         ],
         "day2": [],
@@ -4913,8 +5342,28 @@
             "points": 550,
             "exact": 5,
             "near": 1,
-            "answered": 6,
+            "answered": 7,
             "rank": 1
+          },
+          {
+            "id": "twitch:972248156",
+            "platform": "twitch",
+            "name": "marquesrcarol",
+            "points": 350,
+            "exact": 3,
+            "near": 1,
+            "answered": 8,
+            "rank": 2
+          },
+          {
+            "id": "twitch:645555689",
+            "platform": "twitch",
+            "name": "sheisdani",
+            "points": 350,
+            "exact": 3,
+            "near": 1,
+            "answered": 8,
+            "rank": 2
           },
           {
             "id": "twitch:932779495",
@@ -4924,27 +5373,7 @@
             "exact": 3,
             "near": 1,
             "answered": 8,
-            "rank": 2
-          },
-          {
-            "id": "twitch:972248156",
-            "platform": "twitch",
-            "name": "marquesrcarol",
-            "points": 300,
-            "exact": 3,
-            "near": 0,
-            "answered": 7,
-            "rank": 3
-          },
-          {
-            "id": "twitch:645555689",
-            "platform": "twitch",
-            "name": "sheisdani",
-            "points": 300,
-            "exact": 3,
-            "near": 0,
-            "answered": 7,
-            "rank": 3
+            "rank": 4
           },
           {
             "id": "twitch:895327657",
@@ -4957,6 +5386,16 @@
             "rank": 5
           },
           {
+            "id": "twitch:164609804",
+            "platform": "twitch",
+            "name": "soniagoncalves",
+            "points": 150,
+            "exact": 1,
+            "near": 1,
+            "answered": 5,
+            "rank": 6
+          },
+          {
             "id": "twitch:717212869",
             "platform": "twitch",
             "name": "curtes8",
@@ -4964,7 +5403,7 @@
             "exact": 1,
             "near": 0,
             "answered": 2,
-            "rank": 6
+            "rank": 7
           },
           {
             "id": "twitch:1069376937",
@@ -4974,7 +5413,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 6
+            "rank": 7
           },
           {
             "id": "twitch:1456923742",
@@ -4984,17 +5423,17 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 6
+            "rank": 7
           },
           {
-            "id": "twitch:164609804",
+            "id": "twitch:636817789",
             "platform": "twitch",
-            "name": "soniagoncalves",
-            "points": 100,
-            "exact": 1,
-            "near": 0,
-            "answered": 4,
-            "rank": 6
+            "name": "hugoandre07",
+            "points": 50,
+            "exact": 0,
+            "near": 1,
+            "answered": 6,
+            "rank": 10
           },
           {
             "id": "twitch:423908473",
@@ -5004,17 +5443,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 10
-          },
-          {
-            "id": "twitch:636817789",
-            "platform": "twitch",
-            "name": "hugoandre07",
-            "points": 0,
-            "exact": 0,
-            "near": 0,
-            "answered": 5,
-            "rank": 10
+            "rank": 11
           },
           {
             "id": "twitch:1352711259",
@@ -5024,7 +5453,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 10
+            "rank": 11
           },
           {
             "id": "twitch:134395626",
@@ -5034,7 +5463,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 10
+            "rank": 11
           }
         ]
       },
@@ -5046,8 +5475,28 @@
           "points": 550,
           "exact": 5,
           "near": 1,
-          "answered": 6,
+          "answered": 7,
           "rank": 1
+        },
+        {
+          "id": "twitch:972248156",
+          "platform": "twitch",
+          "name": "marquesrcarol",
+          "points": 350,
+          "exact": 3,
+          "near": 1,
+          "answered": 8,
+          "rank": 2
+        },
+        {
+          "id": "twitch:645555689",
+          "platform": "twitch",
+          "name": "sheisdani",
+          "points": 350,
+          "exact": 3,
+          "near": 1,
+          "answered": 8,
+          "rank": 2
         },
         {
           "id": "twitch:932779495",
@@ -5057,27 +5506,7 @@
           "exact": 3,
           "near": 1,
           "answered": 8,
-          "rank": 2
-        },
-        {
-          "id": "twitch:972248156",
-          "platform": "twitch",
-          "name": "marquesrcarol",
-          "points": 300,
-          "exact": 3,
-          "near": 0,
-          "answered": 7,
-          "rank": 3
-        },
-        {
-          "id": "twitch:645555689",
-          "platform": "twitch",
-          "name": "sheisdani",
-          "points": 300,
-          "exact": 3,
-          "near": 0,
-          "answered": 7,
-          "rank": 3
+          "rank": 4
         },
         {
           "id": "twitch:895327657",
@@ -5090,6 +5519,16 @@
           "rank": 5
         },
         {
+          "id": "twitch:164609804",
+          "platform": "twitch",
+          "name": "soniagoncalves",
+          "points": 150,
+          "exact": 1,
+          "near": 1,
+          "answered": 5,
+          "rank": 6
+        },
+        {
           "id": "twitch:717212869",
           "platform": "twitch",
           "name": "curtes8",
@@ -5097,7 +5536,7 @@
           "exact": 1,
           "near": 0,
           "answered": 2,
-          "rank": 6
+          "rank": 7
         },
         {
           "id": "twitch:1069376937",
@@ -5107,7 +5546,7 @@
           "exact": 1,
           "near": 0,
           "answered": 1,
-          "rank": 6
+          "rank": 7
         },
         {
           "id": "twitch:1456923742",
@@ -5117,17 +5556,17 @@
           "exact": 1,
           "near": 0,
           "answered": 5,
-          "rank": 6
+          "rank": 7
         },
         {
-          "id": "twitch:164609804",
+          "id": "twitch:636817789",
           "platform": "twitch",
-          "name": "soniagoncalves",
-          "points": 100,
-          "exact": 1,
-          "near": 0,
-          "answered": 4,
-          "rank": 6
+          "name": "hugoandre07",
+          "points": 50,
+          "exact": 0,
+          "near": 1,
+          "answered": 6,
+          "rank": 10
         },
         {
           "id": "twitch:423908473",
@@ -5137,17 +5576,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 10
-        },
-        {
-          "id": "twitch:636817789",
-          "platform": "twitch",
-          "name": "hugoandre07",
-          "points": 0,
-          "exact": 0,
-          "near": 0,
-          "answered": 5,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "twitch:1352711259",
@@ -5157,7 +5586,7 @@
           "exact": 0,
           "near": 0,
           "answered": 1,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "twitch:134395626",
@@ -5167,7 +5596,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 10
+          "rank": 11
         }
       ]
     },
