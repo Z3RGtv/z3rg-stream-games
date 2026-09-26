@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T16:39:30.250Z",
+  "updatedAt": "2026-09-26T16:39:49.249Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 5,
-        "updatedAt": 1790440749252,
+        "updatedAt": 1790440789148,
         "champions": [
           {
             "code": "C01",
@@ -1317,8 +1317,8 @@
             "evidence": "6/8 jogos; média 2.75",
             "code": "B034",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "501b4766-6d0b-4260-9ba7-2a04c2cdc300:eb53ec01-a5a4-496d-94d5-950068d82016",
@@ -2128,6 +2128,24 @@
             "version": 1,
             "code": "N0078",
             "createdAt": 1790440662132,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 17,
+            "difficulty": "easy",
+            "evidence": "4 kills/2 jogos atuais; média 2.00",
+            "label": "17 kills no torneio",
+            "teamKey": "99318c73-03c5-41cd-b521-33a9e6380979:e8e6c534-6fe6-46ba-8fa5-dc37002eb22d",
+            "teamName": "Izzi / Nociff",
+            "playerIds": [
+              "99318c73-03c5-41cd-b521-33a9e6380979",
+              "e8e6c534-6fe6-46ba-8fa5-dc37002eb22d"
+            ],
+            "version": 1,
+            "code": "N0079",
+            "createdAt": 1790440787375,
             "available": true,
             "reason": null
           }
