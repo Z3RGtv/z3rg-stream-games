@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T16:39:54.551Z",
+  "updatedAt": "2026-09-26T16:40:33.732Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 5,
-        "updatedAt": 1790440790274,
+        "updatedAt": 1790440833492,
         "champions": [
           {
             "code": "C01",
@@ -1168,8 +1168,8 @@
             "evidence": "2/8 jogos",
             "code": "B026",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "68c17d1e-ea3c-42ad-98d7-2b48675242ea:dca13c06-26af-4af7-aadf-39c3ba44914b",
@@ -1874,8 +1874,8 @@
             "version": 1,
             "code": "N0064",
             "createdAt": 1790438385581,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -2218,6 +2218,42 @@
             "version": 1,
             "code": "N0083",
             "createdAt": 1790440790274,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 18,
+            "difficulty": "easy",
+            "evidence": "6 kills/3 jogos atuais; média 2.00",
+            "label": "18 kills no torneio",
+            "teamKey": "14caafa7-dc96-4c28-b800-96bcd5b38e30:5b9f90e5-0d36-4431-9676-cfcc51e458bf",
+            "teamName": "Ajerss / Veno",
+            "playerIds": [
+              "14caafa7-dc96-4c28-b800-96bcd5b38e30",
+              "5b9f90e5-0d36-4431-9676-cfcc51e458bf"
+            ],
+            "version": 1,
+            "code": "N0084",
+            "createdAt": 1790440828720,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 9,
+            "difficulty": "easy",
+            "evidence": "3 kills/3 jogos atuais; média 1.00",
+            "label": "9 kills no torneio",
+            "teamKey": "8739b089-543b-4a82-82d8-6fa7941b3262:927f62de-b612-4539-bf2b-a9d918ac5ac6",
+            "teamName": "Tidi / Julle",
+            "playerIds": [
+              "8739b089-543b-4a82-82d8-6fa7941b3262",
+              "927f62de-b612-4539-bf2b-a9d918ac5ac6"
+            ],
+            "version": 1,
+            "code": "N0085",
+            "createdAt": 1790440830725,
             "available": true,
             "reason": null
           }
