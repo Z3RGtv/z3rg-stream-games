@@ -29,5 +29,6 @@ window.renderBingoFncs = function(data,user){
  root.prepend(cardArea);
  if(card){select.hidden=true;command.hidden=true;copy.hidden=true;hint.hidden=true;list.hidden=true;}
  root.append(el('h3','Classificação Bingo FNCS'));const ranking=el('ol');for(const c of [...data.cards].sort((a,b)=>b.completed-a.completed||b.lines-a.lines||a.name.localeCompare(b.name)))ranking.append(el('li',`${c.name} — ${c.completed}/16 · ${c.lines} linhas`));root.append(ranking);
+ root.scrollTop=innerScroll;window.scrollTo({top:pageScroll,behavior:'instant'});
 };
 if(root?.dataset.local==='true'){const refresh=async()=>{try{const r=await fetch('http://127.0.0.1:3210/api/bingo-fncs/state');if(!r.ok)throw Error();window.renderBingoFncs(await r.json(),currentUser);}catch{root.replaceChildren(el('p','Liga o motor do jogo para consultar o bingo.'));}};refresh();setInterval(refresh,5000);}
