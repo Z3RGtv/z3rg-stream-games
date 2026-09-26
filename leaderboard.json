@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T16:02:44.432Z",
+  "updatedAt": "2026-09-26T16:03:24.895Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": false,
         "connected": true,
         "firstRound": 1,
-        "updatedAt": 1790438563218,
+        "updatedAt": 1790438602124,
         "champions": [
           {
             "code": "C01",
@@ -1954,11 +1954,194 @@
         "overlay": null
       },
       "periods": {
-        "day1": [],
+        "day1": [
+          {
+            "id": "twitch:505385285",
+            "platform": "twitch",
+            "name": "hst_playz_pt",
+            "points": 200,
+            "exact": 2,
+            "near": 0,
+            "answered": 2,
+            "rank": 1
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 2,
+            "rank": 2
+          },
+          {
+            "id": "twitch:972248156",
+            "platform": "twitch",
+            "name": "marquesrcarol",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 2,
+            "rank": 2
+          },
+          {
+            "id": "twitch:645555689",
+            "platform": "twitch",
+            "name": "sheisdani",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 2,
+            "rank": 2
+          },
+          {
+            "id": "twitch:717212869",
+            "platform": "twitch",
+            "name": "curtes8",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
+            "rank": 5
+          },
+          {
+            "id": "twitch:1456923742",
+            "platform": "twitch",
+            "name": "matoswar2003",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 2,
+            "rank": 5
+          }
+        ],
         "day2": [],
-        "event": []
+        "event": [
+          {
+            "id": "twitch:505385285",
+            "platform": "twitch",
+            "name": "hst_playz_pt",
+            "points": 200,
+            "exact": 2,
+            "near": 0,
+            "answered": 2,
+            "rank": 1
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 2,
+            "rank": 2
+          },
+          {
+            "id": "twitch:972248156",
+            "platform": "twitch",
+            "name": "marquesrcarol",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 2,
+            "rank": 2
+          },
+          {
+            "id": "twitch:645555689",
+            "platform": "twitch",
+            "name": "sheisdani",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 2,
+            "rank": 2
+          },
+          {
+            "id": "twitch:717212869",
+            "platform": "twitch",
+            "name": "curtes8",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
+            "rank": 5
+          },
+          {
+            "id": "twitch:1456923742",
+            "platform": "twitch",
+            "name": "matoswar2003",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 2,
+            "rank": 5
+          }
+        ]
       },
-      "players": []
+      "players": [
+        {
+          "id": "twitch:505385285",
+          "platform": "twitch",
+          "name": "hst_playz_pt",
+          "points": 200,
+          "exact": 2,
+          "near": 0,
+          "answered": 2,
+          "rank": 1
+        },
+        {
+          "id": "twitch:932779495",
+          "platform": "twitch",
+          "name": "gui_z0",
+          "points": 100,
+          "exact": 1,
+          "near": 0,
+          "answered": 2,
+          "rank": 2
+        },
+        {
+          "id": "twitch:972248156",
+          "platform": "twitch",
+          "name": "marquesrcarol",
+          "points": 100,
+          "exact": 1,
+          "near": 0,
+          "answered": 2,
+          "rank": 2
+        },
+        {
+          "id": "twitch:645555689",
+          "platform": "twitch",
+          "name": "sheisdani",
+          "points": 100,
+          "exact": 1,
+          "near": 0,
+          "answered": 2,
+          "rank": 2
+        },
+        {
+          "id": "twitch:717212869",
+          "platform": "twitch",
+          "name": "curtes8",
+          "points": 0,
+          "exact": 0,
+          "near": 0,
+          "answered": 1,
+          "rank": 5
+        },
+        {
+          "id": "twitch:1456923742",
+          "platform": "twitch",
+          "name": "matoswar2003",
+          "points": 0,
+          "exact": 0,
+          "near": 0,
+          "answered": 2,
+          "rank": 5
+        }
+      ]
     },
     "words-on-ztr3am": {
       "id": "words-on-ztr3am",
