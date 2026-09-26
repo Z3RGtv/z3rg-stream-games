@@ -93,6 +93,8 @@ let twitchProfiles = new Map();
 let multiplierTiers = [...DEFAULT_MULTIPLIER_TIERS];
 let leaderboardDocument = null;
 let activeGameId = 'words-on-ztr3am';
+let fncsPeriod = 'event';
+const isFncs = () => activeGameId === 'palpites-fncs';
 
 function escapeHtml(value) {
   return String(value ?? '')
@@ -250,12 +252,12 @@ function closePowerupsDialog() {
   elements.powerupsDialog.close();
 }
 
-async function loadLeaderboard() {
+async function loadLeaderboard(preserveSelection = false) {
   const response = await fetch(`leaderboard.json?t=${Date.now()}`, { cache: 'no-store' });
   if (!response.ok) throw new Error('Não foi possível carregar a leaderboard.');
   leaderboardDocument = await response.json();
   renderGameSwitcher();
-  selectGame(leaderboardDocument.defaultGameId || 'words-on-ztr3am', false);
+  selectGame(preserveSelection && leaderboardDocument.games?.[activeGameId] ? activeGameId : leaderboardDocument.defaultGameId || 'words-on-ztr3am', false);
   elements.updatedAt.textContent = leaderboardDocument.updatedAt
     ? new Intl.DateTimeFormat('pt-PT', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' }).format(new Date(leaderboardDocument.updatedAt))
     : '—';
@@ -291,6 +293,13 @@ function selectGame(gameId, rerender = true) {
   if (!game) return;
   activeGameId = gameId;
   leaderboard = Array.isArray(game.players) ? game.players : [];
+  if (isFncs()) leaderboard = game.periods?.[fncsPeriod] ?? leaderboard;
+  const periodLabel = document.querySelector('#fncs-period-label');
+  if (periodLabel) periodLabel.hidden = !isFncs();
+  const headings = isFncs() ? ['#', 'Jogador', 'Pontos', 'Exatos', 'Próximos', 'Respondidas'] : ['#', 'Jogador', 'Recorde', 'Melhor nível', 'Runs', 'Multiplicador', 'Última run'];
+  document.querySelector('.table-wrap thead tr').innerHTML = headings.map(h => `<th scope="col">${h}</th>`).join('');
+  document.querySelector('#ranking-explanation').textContent = isFncs() ? 'Exato: 100 pts · ±1 kill: 50 pts · ±2 kills: 25 pts. Sim/não: apenas acertos. Empates partilham a posição.' : 'O melhor resultado de sempre de cada jogador, numa tabela conjunta.';
+  elements.topScore.nextElementSibling.textContent = isFncs() ? 'pontos do líder' : 'recorde';
   multiplierTiers = [...DEFAULT_MULTIPLIER_TIERS];
   if (Array.isArray(game.multiplierTiers) && game.multiplierTiers.length > 0) {
     multiplierTiers = game.multiplierTiers
@@ -307,9 +316,9 @@ function selectGame(gameId, rerender = true) {
   document.querySelectorAll('[data-game-id]').forEach((button) => button.classList.toggle('is-active', button.dataset.gameId === activeGameId));
   const presentation = presentationFor(activeGameId, game);
   elements.gameEyebrow.textContent = presentation.eyebrow;
-  elements.rankingTitle.textContent = `Recordes · ${game.name || activeGameId}`;
+  elements.rankingTitle.textContent = `${isFncs() ? 'Classificação' : 'Recordes'} · ${game.name || activeGameId}`;
   elements.openPowerupsBtn.hidden = gamePowerups.length === 0;
-  elements.welcome.textContent = presentation.welcome;
+  elements.welcome.textContent = isFncs() ? 'Os palpites do chat durante o campeonato. Os pontos aparecem quando os resultados são confirmados.' : presentation.welcome;
   renderPowerups(activeRarityFilter);
   if (rerender) { renderPublicLeaderboard(); renderMyProfile(); }
 }
@@ -524,6 +533,11 @@ function openPlayerHistory(playerId) {
 function renderRows(filter = '') {
   const normalizedFilter = filter.trim().toLocaleLowerCase('pt-PT');
   const filtered = leaderboard.filter((player) => player.name.toLocaleLowerCase('pt-PT').includes(normalizedFilter));
+  if (isFncs()) {
+    elements.body.innerHTML = filtered.map(p => `<tr class="${playerIsMe(p) ? 'is-me' : ''}"><td class="rank">${Number(p.rank)}</td><td><div class="player-cell">${avatarMarkup(p)}<div>${escapeHtml(p.name)} ${platformBadge(p)}</div></div></td><td class="score">${formatPoints(p.points)} pts</td><td>${Number(p.exact)}</td><td>${Number(p.near)}</td><td>${Number(p.answered)}</td></tr>`).join('');
+    elements.empty.hidden = filtered.length > 0;
+    return;
+  }
   elements.body.innerHTML = filtered.map((player) => {
     const position = leaderboard.indexOf(player) + 1;
     const platform = platformOf(player);
@@ -542,6 +556,7 @@ function renderRows(filter = '') {
 }
 
 function renderMyProfile() {
+  if (isFncs()) { elements.myProfile.hidden = true; return; }
   if (!twitchUser && !youtubeUser) {
     elements.myProfile.hidden = true;
     return;
@@ -655,12 +670,16 @@ function checkYouTubeSession() {
 
 function renderPublicLeaderboard() {
   elements.playerCount.textContent = leaderboard.length;
-  elements.topScore.textContent = formatPoints(leaderboard[0]?.maxPoints ?? 0);
+  elements.topScore.textContent = formatPoints((isFncs() ? leaderboard[0]?.points : leaderboard[0]?.maxPoints) ?? 0);
   if (!twitchUser && !youtubeUser) renderSignedOutAccount();
   renderRows();
 }
 
 async function initialize() {
+  document.querySelector('#fncs-period')?.addEventListener('change', (event) => {
+    fncsPeriod = event.target.value;
+    selectGame(activeGameId);
+  });
   elements.gameSwitcher?.addEventListener('click', (event) => {
     const button = event.target.closest('[data-game-id]');
     if (button) selectGame(button.dataset.gameId);
@@ -735,3 +754,7 @@ async function initialize() {
 }
 
 initialize();
+setInterval(async () => {
+  try { await loadLeaderboard(true); renderPublicLeaderboard(); renderMyProfile(); }
+  catch { /* Keep the last confirmed leaderboard on transient network failures. */ }
+}, 30000);
