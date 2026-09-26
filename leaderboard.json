@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T18:49:13.384Z",
+  "updatedAt": "2026-09-26T18:49:51.570Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": false,
         "connected": true,
         "firstRound": 6,
-        "updatedAt": 1790448551128,
+        "updatedAt": 1790448590999,
         "champions": [
           {
             "code": "C01",
@@ -4653,11 +4653,21 @@
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 350,
-            "exact": 3,
+            "points": 450,
+            "exact": 4,
             "near": 1,
-            "answered": 4,
+            "answered": 5,
             "rank": 1
+          },
+          {
+            "id": "twitch:895327657",
+            "platform": "twitch",
+            "name": "z3rgtv",
+            "points": 250,
+            "exact": 2,
+            "near": 1,
+            "answered": 3,
+            "rank": 2
           },
           {
             "id": "twitch:932779495",
@@ -4667,17 +4677,27 @@
             "exact": 2,
             "near": 1,
             "answered": 7,
-            "rank": 2
+            "rank": 3
           },
           {
-            "id": "twitch:895327657",
+            "id": "twitch:972248156",
             "platform": "twitch",
-            "name": "z3rgtv",
-            "points": 150,
-            "exact": 1,
-            "near": 1,
-            "answered": 2,
-            "rank": 3
+            "name": "marquesrcarol",
+            "points": 200,
+            "exact": 2,
+            "near": 0,
+            "answered": 6,
+            "rank": 4
+          },
+          {
+            "id": "twitch:645555689",
+            "platform": "twitch",
+            "name": "sheisdani",
+            "points": 200,
+            "exact": 2,
+            "near": 0,
+            "answered": 6,
+            "rank": 4
           },
           {
             "id": "twitch:717212869",
@@ -4687,7 +4707,7 @@
             "exact": 1,
             "near": 0,
             "answered": 2,
-            "rank": 4
+            "rank": 6
           },
           {
             "id": "twitch:1069376937",
@@ -4697,17 +4717,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 4
-          },
-          {
-            "id": "twitch:972248156",
-            "platform": "twitch",
-            "name": "marquesrcarol",
-            "points": 100,
-            "exact": 1,
-            "near": 0,
-            "answered": 5,
-            "rank": 4
+            "rank": 6
           },
           {
             "id": "twitch:1456923742",
@@ -4717,17 +4727,17 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 4
+            "rank": 6
           },
           {
-            "id": "twitch:645555689",
+            "id": "twitch:164609804",
             "platform": "twitch",
-            "name": "sheisdani",
+            "name": "soniagoncalves",
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 5,
-            "rank": 4
+            "answered": 3,
+            "rank": 6
           },
           {
             "id": "twitch:423908473",
@@ -4737,7 +4747,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 9
+            "rank": 10
           },
           {
             "id": "twitch:636817789",
@@ -4747,7 +4757,7 @@
             "exact": 0,
             "near": 0,
             "answered": 5,
-            "rank": 9
+            "rank": 10
           },
           {
             "id": "twitch:1352711259",
@@ -4757,7 +4767,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 9
+            "rank": 10
           },
           {
             "id": "twitch:134395626",
@@ -4767,17 +4777,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 9
-          },
-          {
-            "id": "twitch:164609804",
-            "platform": "twitch",
-            "name": "soniagoncalves",
-            "points": 0,
-            "exact": 0,
-            "near": 0,
-            "answered": 2,
-            "rank": 9
+            "rank": 10
           }
         ],
         "day2": [],
@@ -4786,11 +4786,21 @@
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 350,
-            "exact": 3,
+            "points": 450,
+            "exact": 4,
             "near": 1,
-            "answered": 4,
+            "answered": 5,
             "rank": 1
+          },
+          {
+            "id": "twitch:895327657",
+            "platform": "twitch",
+            "name": "z3rgtv",
+            "points": 250,
+            "exact": 2,
+            "near": 1,
+            "answered": 3,
+            "rank": 2
           },
           {
             "id": "twitch:932779495",
@@ -4800,17 +4810,27 @@
             "exact": 2,
             "near": 1,
             "answered": 7,
-            "rank": 2
+            "rank": 3
           },
           {
-            "id": "twitch:895327657",
+            "id": "twitch:972248156",
             "platform": "twitch",
-            "name": "z3rgtv",
-            "points": 150,
-            "exact": 1,
-            "near": 1,
-            "answered": 2,
-            "rank": 3
+            "name": "marquesrcarol",
+            "points": 200,
+            "exact": 2,
+            "near": 0,
+            "answered": 6,
+            "rank": 4
+          },
+          {
+            "id": "twitch:645555689",
+            "platform": "twitch",
+            "name": "sheisdani",
+            "points": 200,
+            "exact": 2,
+            "near": 0,
+            "answered": 6,
+            "rank": 4
           },
           {
             "id": "twitch:717212869",
@@ -4820,7 +4840,7 @@
             "exact": 1,
             "near": 0,
             "answered": 2,
-            "rank": 4
+            "rank": 6
           },
           {
             "id": "twitch:1069376937",
@@ -4830,17 +4850,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 4
-          },
-          {
-            "id": "twitch:972248156",
-            "platform": "twitch",
-            "name": "marquesrcarol",
-            "points": 100,
-            "exact": 1,
-            "near": 0,
-            "answered": 5,
-            "rank": 4
+            "rank": 6
           },
           {
             "id": "twitch:1456923742",
@@ -4850,17 +4860,17 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 4
+            "rank": 6
           },
           {
-            "id": "twitch:645555689",
+            "id": "twitch:164609804",
             "platform": "twitch",
-            "name": "sheisdani",
+            "name": "soniagoncalves",
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 5,
-            "rank": 4
+            "answered": 3,
+            "rank": 6
           },
           {
             "id": "twitch:423908473",
@@ -4870,7 +4880,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 9
+            "rank": 10
           },
           {
             "id": "twitch:636817789",
@@ -4880,7 +4890,7 @@
             "exact": 0,
             "near": 0,
             "answered": 5,
-            "rank": 9
+            "rank": 10
           },
           {
             "id": "twitch:1352711259",
@@ -4890,7 +4900,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 9
+            "rank": 10
           },
           {
             "id": "twitch:134395626",
@@ -4900,17 +4910,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 9
-          },
-          {
-            "id": "twitch:164609804",
-            "platform": "twitch",
-            "name": "soniagoncalves",
-            "points": 0,
-            "exact": 0,
-            "near": 0,
-            "answered": 2,
-            "rank": 9
+            "rank": 10
           }
         ]
       },
@@ -4919,11 +4919,21 @@
           "id": "twitch:505385285",
           "platform": "twitch",
           "name": "hst_playz_pt",
-          "points": 350,
-          "exact": 3,
+          "points": 450,
+          "exact": 4,
           "near": 1,
-          "answered": 4,
+          "answered": 5,
           "rank": 1
+        },
+        {
+          "id": "twitch:895327657",
+          "platform": "twitch",
+          "name": "z3rgtv",
+          "points": 250,
+          "exact": 2,
+          "near": 1,
+          "answered": 3,
+          "rank": 2
         },
         {
           "id": "twitch:932779495",
@@ -4933,17 +4943,27 @@
           "exact": 2,
           "near": 1,
           "answered": 7,
-          "rank": 2
+          "rank": 3
         },
         {
-          "id": "twitch:895327657",
+          "id": "twitch:972248156",
           "platform": "twitch",
-          "name": "z3rgtv",
-          "points": 150,
-          "exact": 1,
-          "near": 1,
-          "answered": 2,
-          "rank": 3
+          "name": "marquesrcarol",
+          "points": 200,
+          "exact": 2,
+          "near": 0,
+          "answered": 6,
+          "rank": 4
+        },
+        {
+          "id": "twitch:645555689",
+          "platform": "twitch",
+          "name": "sheisdani",
+          "points": 200,
+          "exact": 2,
+          "near": 0,
+          "answered": 6,
+          "rank": 4
         },
         {
           "id": "twitch:717212869",
@@ -4953,7 +4973,7 @@
           "exact": 1,
           "near": 0,
           "answered": 2,
-          "rank": 4
+          "rank": 6
         },
         {
           "id": "twitch:1069376937",
@@ -4963,17 +4983,7 @@
           "exact": 1,
           "near": 0,
           "answered": 1,
-          "rank": 4
-        },
-        {
-          "id": "twitch:972248156",
-          "platform": "twitch",
-          "name": "marquesrcarol",
-          "points": 100,
-          "exact": 1,
-          "near": 0,
-          "answered": 5,
-          "rank": 4
+          "rank": 6
         },
         {
           "id": "twitch:1456923742",
@@ -4983,17 +4993,17 @@
           "exact": 1,
           "near": 0,
           "answered": 5,
-          "rank": 4
+          "rank": 6
         },
         {
-          "id": "twitch:645555689",
+          "id": "twitch:164609804",
           "platform": "twitch",
-          "name": "sheisdani",
+          "name": "soniagoncalves",
           "points": 100,
           "exact": 1,
           "near": 0,
-          "answered": 5,
-          "rank": 4
+          "answered": 3,
+          "rank": 6
         },
         {
           "id": "twitch:423908473",
@@ -5003,7 +5013,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "twitch:636817789",
@@ -5013,7 +5023,7 @@
           "exact": 0,
           "near": 0,
           "answered": 5,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "twitch:1352711259",
@@ -5023,7 +5033,7 @@
           "exact": 0,
           "near": 0,
           "answered": 1,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "twitch:134395626",
@@ -5033,17 +5043,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 9
-        },
-        {
-          "id": "twitch:164609804",
-          "platform": "twitch",
-          "name": "soniagoncalves",
-          "points": 0,
-          "exact": 0,
-          "near": 0,
-          "answered": 2,
-          "rank": 9
+          "rank": 10
         }
       ]
     },
