@@ -298,7 +298,7 @@ function selectGame(gameId, rerender = true) {
   if (periodLabel) periodLabel.hidden = !isFncs();
   const headings = isFncs() ? ['#', 'Jogador', 'Pontos', 'Exatos', 'Próximos', 'Respondidas'] : ['#', 'Jogador', 'Recorde', 'Melhor nível', 'Runs', 'Multiplicador', 'Última run'];
   document.querySelector('.table-wrap thead tr').innerHTML = headings.map(h => `<th scope="col">${h}</th>`).join('');
-  document.querySelector('#ranking-explanation').textContent = isFncs() ? 'Exato: 100 pts · ±1 kill: 50 pts · ±2 kills: 25 pts. Sim/não: apenas acertos. Empates partilham a posição.' : 'O melhor resultado de sempre de cada jogador, numa tabela conjunta.';
+  document.querySelector('#ranking-explanation').textContent = isFncs() ? 'Números: exato 100 pts · diferença de 1: 50 pts · de 2: 25 pts. Sim/não e duelos: 100 pts por acerto, sem proximidade. Empates partilham a posição.' : 'O melhor resultado de sempre de cada jogador, numa tabela conjunta.';
   elements.topScore.nextElementSibling.textContent = isFncs() ? 'pontos do líder' : 'recorde';
   multiplierTiers = [...DEFAULT_MULTIPLIER_TIERS];
   if (Array.isArray(game.multiplierTiers) && game.multiplierTiers.length > 0) {
