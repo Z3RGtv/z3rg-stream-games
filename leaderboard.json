@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T18:10:24.606Z",
+  "updatedAt": "2026-09-26T18:11:05.315Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 6,
-        "updatedAt": 1790446224230,
+        "updatedAt": 1790446260614,
         "champions": [
           {
             "code": "C01",
@@ -4456,11 +4456,21 @@
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 200,
+            "points": 250,
             "exact": 2,
-            "near": 0,
-            "answered": 2,
+            "near": 1,
+            "answered": 3,
             "rank": 1
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
+            "points": 125,
+            "exact": 1,
+            "near": 1,
+            "answered": 6,
+            "rank": 2
           },
           {
             "id": "twitch:717212869",
@@ -4470,17 +4480,7 @@
             "exact": 1,
             "near": 0,
             "answered": 2,
-            "rank": 2
-          },
-          {
-            "id": "twitch:932779495",
-            "platform": "twitch",
-            "name": "gui_z0",
-            "points": 100,
-            "exact": 1,
-            "near": 0,
-            "answered": 5,
-            "rank": 2
+            "rank": 3
           },
           {
             "id": "twitch:972248156",
@@ -4490,7 +4490,7 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 2
+            "rank": 3
           },
           {
             "id": "twitch:1456923742",
@@ -4500,7 +4500,7 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 2
+            "rank": 3
           },
           {
             "id": "twitch:645555689",
@@ -4510,7 +4510,17 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 2
+            "rank": 3
+          },
+          {
+            "id": "twitch:895327657",
+            "platform": "twitch",
+            "name": "z3rgtv",
+            "points": 50,
+            "exact": 0,
+            "near": 1,
+            "answered": 1,
+            "rank": 7
           },
           {
             "id": "twitch:423908473",
@@ -4520,7 +4530,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:636817789",
@@ -4529,8 +4539,8 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 4,
-            "rank": 7
+            "answered": 5,
+            "rank": 8
           },
           {
             "id": "twitch:1352711259",
@@ -4540,7 +4550,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:134395626",
@@ -4550,7 +4560,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:164609804",
@@ -4560,7 +4570,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 7
+            "rank": 8
           }
         ],
         "day2": [],
@@ -4569,11 +4579,21 @@
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 200,
+            "points": 250,
             "exact": 2,
-            "near": 0,
-            "answered": 2,
+            "near": 1,
+            "answered": 3,
             "rank": 1
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
+            "points": 125,
+            "exact": 1,
+            "near": 1,
+            "answered": 6,
+            "rank": 2
           },
           {
             "id": "twitch:717212869",
@@ -4583,17 +4603,7 @@
             "exact": 1,
             "near": 0,
             "answered": 2,
-            "rank": 2
-          },
-          {
-            "id": "twitch:932779495",
-            "platform": "twitch",
-            "name": "gui_z0",
-            "points": 100,
-            "exact": 1,
-            "near": 0,
-            "answered": 5,
-            "rank": 2
+            "rank": 3
           },
           {
             "id": "twitch:972248156",
@@ -4603,7 +4613,7 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 2
+            "rank": 3
           },
           {
             "id": "twitch:1456923742",
@@ -4613,7 +4623,7 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 2
+            "rank": 3
           },
           {
             "id": "twitch:645555689",
@@ -4623,7 +4633,17 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 2
+            "rank": 3
+          },
+          {
+            "id": "twitch:895327657",
+            "platform": "twitch",
+            "name": "z3rgtv",
+            "points": 50,
+            "exact": 0,
+            "near": 1,
+            "answered": 1,
+            "rank": 7
           },
           {
             "id": "twitch:423908473",
@@ -4633,7 +4653,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:636817789",
@@ -4642,8 +4662,8 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 4,
-            "rank": 7
+            "answered": 5,
+            "rank": 8
           },
           {
             "id": "twitch:1352711259",
@@ -4653,7 +4673,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:134395626",
@@ -4663,7 +4683,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:164609804",
@@ -4673,7 +4693,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 7
+            "rank": 8
           }
         ]
       },
@@ -4682,11 +4702,21 @@
           "id": "twitch:505385285",
           "platform": "twitch",
           "name": "hst_playz_pt",
-          "points": 200,
+          "points": 250,
           "exact": 2,
-          "near": 0,
-          "answered": 2,
+          "near": 1,
+          "answered": 3,
           "rank": 1
+        },
+        {
+          "id": "twitch:932779495",
+          "platform": "twitch",
+          "name": "gui_z0",
+          "points": 125,
+          "exact": 1,
+          "near": 1,
+          "answered": 6,
+          "rank": 2
         },
         {
           "id": "twitch:717212869",
@@ -4696,17 +4726,7 @@
           "exact": 1,
           "near": 0,
           "answered": 2,
-          "rank": 2
-        },
-        {
-          "id": "twitch:932779495",
-          "platform": "twitch",
-          "name": "gui_z0",
-          "points": 100,
-          "exact": 1,
-          "near": 0,
-          "answered": 5,
-          "rank": 2
+          "rank": 3
         },
         {
           "id": "twitch:972248156",
@@ -4716,7 +4736,7 @@
           "exact": 1,
           "near": 0,
           "answered": 5,
-          "rank": 2
+          "rank": 3
         },
         {
           "id": "twitch:1456923742",
@@ -4726,7 +4746,7 @@
           "exact": 1,
           "near": 0,
           "answered": 5,
-          "rank": 2
+          "rank": 3
         },
         {
           "id": "twitch:645555689",
@@ -4736,7 +4756,17 @@
           "exact": 1,
           "near": 0,
           "answered": 5,
-          "rank": 2
+          "rank": 3
+        },
+        {
+          "id": "twitch:895327657",
+          "platform": "twitch",
+          "name": "z3rgtv",
+          "points": 50,
+          "exact": 0,
+          "near": 1,
+          "answered": 1,
+          "rank": 7
         },
         {
           "id": "twitch:423908473",
@@ -4746,7 +4776,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "twitch:636817789",
@@ -4755,8 +4785,8 @@
           "points": 0,
           "exact": 0,
           "near": 0,
-          "answered": 4,
-          "rank": 7
+          "answered": 5,
+          "rank": 8
         },
         {
           "id": "twitch:1352711259",
@@ -4766,7 +4796,7 @@
           "exact": 0,
           "near": 0,
           "answered": 1,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "twitch:134395626",
@@ -4776,7 +4806,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "twitch:164609804",
@@ -4786,7 +4816,7 @@
           "exact": 0,
           "near": 0,
           "answered": 1,
-          "rank": 7
+          "rank": 8
         }
       ]
     },
