@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T18:01:20.912Z",
+  "updatedAt": "2026-09-26T18:04:39.367Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 6,
-        "updatedAt": 1790445648966,
+        "updatedAt": 1790445874341,
         "champions": [
           {
             "code": "C01",
@@ -2390,7 +2390,8 @@
                 "label": "Top 15",
                 "evidence": "2/8 jogos",
                 "code": "B053",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "teamKey": "77999a7f-609d-40bb-b621-223df590b4d2:f899b6ef-72c7-4f03-af0a-eca85b2bedca",
@@ -2406,7 +2407,8 @@
                 "label": "20 kills no torneio",
                 "evidence": "12/8 jogos; referência 12 jogos: 18",
                 "code": "B057",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
@@ -2422,7 +2424,8 @@
                 "label": "30 kills no torneio",
                 "evidence": "16/8 jogos; referência 12 jogos: 24",
                 "code": "B039",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "kind": "countTop",
@@ -2439,7 +2442,8 @@
                 ],
                 "version": 1,
                 "code": "N0070",
-                "createdAt": 1790438676727
+                "createdAt": 1790438676727,
+                "proof": null
               },
               {
                 "teamKey": "2fc6c760-b950-4e61-87cd-e71d86d314c8:990f29fa-76f9-482f-8078-20dd4807f464",
@@ -2455,7 +2459,8 @@
                 "label": "25 kills no torneio",
                 "evidence": "15/8 jogos; referência 12 jogos: 22.5",
                 "code": "B048",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "kind": "total",
@@ -2471,7 +2476,8 @@
                 ],
                 "version": 1,
                 "code": "N0074",
-                "createdAt": 1790438692518
+                "createdAt": 1790438692518,
+                "proof": null
               },
               {
                 "kind": "total",
@@ -2487,7 +2493,8 @@
                 ],
                 "version": 1,
                 "code": "N0081",
-                "createdAt": 1790440789909
+                "createdAt": 1790440789909,
+                "proof": null
               },
               {
                 "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
@@ -2504,7 +2511,8 @@
                 "label": "Top 5",
                 "evidence": "3/8 jogos",
                 "code": "B005",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "kind": "total",
@@ -2520,7 +2528,8 @@
                 ],
                 "version": 1,
                 "code": "N0069",
-                "createdAt": 1790438676726
+                "createdAt": 1790438676726,
+                "proof": null
               },
               {
                 "teamKey": "34009ee2-0b02-4cfb-843d-984e5b9b30aa:a28109dd-beb7-48ad-93b9-4e205e5a2048",
@@ -2537,7 +2546,8 @@
                 "label": "Top 5",
                 "evidence": "2/8 jogos",
                 "code": "B023",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
@@ -2554,7 +2564,8 @@
                 "label": "Top 5",
                 "evidence": "3/8 jogos",
                 "code": "B017",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "kind": "countTop",
@@ -2571,7 +2582,8 @@
                 ],
                 "version": 1,
                 "code": "N0073",
-                "createdAt": 1790438691969
+                "createdAt": 1790438691969,
+                "proof": null
               },
               {
                 "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
@@ -2588,7 +2600,8 @@
                 "label": "Top 10",
                 "evidence": "3/8 jogos",
                 "code": "B029",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
@@ -2605,7 +2618,8 @@
                 "label": "Top 5",
                 "evidence": "2/8 jogos",
                 "code": "B041",
-                "version": 1
+                "version": 1,
+                "proof": null
               },
               {
                 "kind": "total",
@@ -2621,7 +2635,8 @@
                 ],
                 "version": 1,
                 "code": "N0083",
-                "createdAt": 1790440790274
+                "createdAt": 1790440790274,
+                "proof": null
               },
               {
                 "code": "C38",
@@ -2634,7 +2649,8 @@
                 "kind": "champion",
                 "difficulty": "hard",
                 "label": "Vence a FNCS",
-                "version": 1
+                "version": 1,
+                "proof": null
               }
             ],
             "completed": 0,
