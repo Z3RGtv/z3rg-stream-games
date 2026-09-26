@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T16:37:40.976Z",
+  "updatedAt": "2026-09-26T16:37:46.228Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 4,
-        "updatedAt": 1790440659564,
+        "updatedAt": 1790440662897,
         "champions": [
           {
             "code": "C01",
@@ -1784,8 +1784,8 @@
             "evidence": "2/8 jogos",
             "code": "B059",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -2110,6 +2110,24 @@
             "version": 1,
             "code": "N0077",
             "createdAt": 1790438694760,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 3,
+            "difficulty": "easy",
+            "evidence": "1 kills/3 jogos atuais; média 0.33",
+            "label": "3 kills no torneio",
+            "teamKey": "256ac806-d5ef-4f3e-a3fe-c16fdab72f13:5a372883-0d83-4bd7-8307-cfe968ce374f",
+            "teamName": "Ark / Khanada",
+            "playerIds": [
+              "256ac806-d5ef-4f3e-a3fe-c16fdab72f13",
+              "5a372883-0d83-4bd7-8307-cfe968ce374f"
+            ],
+            "version": 1,
+            "code": "N0078",
+            "createdAt": 1790440662132,
             "available": true,
             "reason": null
           }
