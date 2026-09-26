@@ -257,7 +257,7 @@ async function loadLeaderboard(preserveSelection = false) {
   if (!response.ok) throw new Error('Não foi possível carregar a leaderboard.');
   leaderboardDocument = await response.json();
   renderGameSwitcher();
-  selectGame(preserveSelection && leaderboardDocument.games?.[activeGameId] ? activeGameId : leaderboardDocument.defaultGameId || 'words-on-ztr3am', false);
+  selectGame(preserveSelection && (activeGameId === 'bingo-fncs' || leaderboardDocument.games?.[activeGameId]) ? activeGameId : location.hash === '#bingo-fncs' ? 'bingo-fncs' : leaderboardDocument.defaultGameId || 'words-on-ztr3am', false);
   elements.updatedAt.textContent = leaderboardDocument.updatedAt
     ? new Intl.DateTimeFormat('pt-PT', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' }).format(new Date(leaderboardDocument.updatedAt))
     : '—';
@@ -284,10 +284,19 @@ function renderGameSwitcher() {
       <span class="switcher-mark" aria-hidden="true">${escapeHtml(presentation.mark)}</span>
       <span><strong>${escapeHtml(game.name || gameId)}</strong><small>${escapeHtml(presentation.description)}</small></span>
     </button>`;
-  }).join('');
+  }).join('') + '<button type="button" data-game-id="bingo-fncs"><span class="switcher-mark" aria-hidden="true">B</span><span><strong>Bingo FNCS</strong><small>Cartão 4 × 4 · 300 pontos</small></span></button>';
 }
 
 function selectGame(gameId, rerender = true) {
+  if (gameId === 'bingo-fncs') {
+    activeGameId = gameId;
+    history.replaceState(null, '', '#bingo-fncs');
+    document.querySelectorAll('[data-game-id]').forEach(button => button.classList.toggle('is-active', button.dataset.gameId === gameId));
+    renderBingo();
+    return;
+  }
+  if (location.hash === '#bingo-fncs') history.replaceState(null, '', location.pathname + location.search);
+  document.getElementById('leaderboard-view').hidden = false;
   const fallback = { ...leaderboardDocument?.game, players: leaderboardDocument?.players || [] };
   const game = leaderboardDocument?.games?.[gameId] || (gameId === 'words-on-ztr3am' ? fallback : null);
   if (!game) return;
@@ -669,7 +678,7 @@ function checkYouTubeSession() {
   }
 }
 
-function renderBingo(){const root=document.getElementById('bingo-fncs');if(root)root.hidden=!isFncs();if(isFncs())window.renderBingoFncs?.(leaderboardDocument?.games?.['palpites-fncs']?.bingo,twitchUser);}
+function renderBingo(){const bingo=activeGameId==='bingo-fncs';const root=document.getElementById('bingo-fncs');document.getElementById('leaderboard-view').hidden=bingo;if(root)root.hidden=!bingo;if(bingo)window.renderBingoFncs?.(leaderboardDocument?.games?.['palpites-fncs']?.bingo,twitchUser);}
 function renderPublicLeaderboard() {
   renderBingo();
   elements.playerCount.textContent = leaderboard.length;
