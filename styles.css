@@ -482,3 +482,6 @@ tbody tr:focus-visible { outline: 2px solid var(--gold); outline-offset: -2px; }
   .powerup-description { font-size: 12px; }
   .powerup-facts { grid-template-columns: 1fr; }
 }
+/* Keep optional game controls hidden even when component styles set display. */
+[hidden] { display: none !important; }
+#fncs-period { margin-left: 8px; padding: 10px; background: #082f2c; color: #fff; border: 1px solid #65f0dc66; border-radius: 8px; }
