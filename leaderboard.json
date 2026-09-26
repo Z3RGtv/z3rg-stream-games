@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T16:39:49.249Z",
+  "updatedAt": "2026-09-26T16:39:54.551Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 5,
-        "updatedAt": 1790440789148,
+        "updatedAt": 1790440790274,
         "champions": [
           {
             "code": "C01",
@@ -1261,8 +1261,8 @@
             "evidence": "6/8 jogos; média 3.38",
             "code": "B031",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
@@ -1280,8 +1280,8 @@
             "evidence": "3/8 jogos",
             "code": "B032",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
@@ -1485,8 +1485,8 @@
             "evidence": "5/8 jogos; média 2.00",
             "code": "B043",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "6f29ff7f-0061-40da-bccc-9c18d5c8db42:ae8ac6f7-115f-4d8e-a2da-979848ae9f7a",
@@ -1504,8 +1504,8 @@
             "evidence": "4/8 jogos",
             "code": "B044",
             "version": 1,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "6f29ff7f-0061-40da-bccc-9c18d5c8db42:ae8ac6f7-115f-4d8e-a2da-979848ae9f7a",
@@ -2146,6 +2146,78 @@
             "version": 1,
             "code": "N0079",
             "createdAt": 1790440787375,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 21,
+            "difficulty": "easy",
+            "evidence": "7 kills/3 jogos atuais; média 2.33",
+            "label": "21 kills no torneio",
+            "teamKey": "3dd15740-1bdc-4ae3-9cf3-a467f4535e14:dbd606be-bc17-4bae-8c9b-a2c56bd91e25",
+            "teamName": "Huty / F1shyX",
+            "playerIds": [
+              "3dd15740-1bdc-4ae3-9cf3-a467f4535e14",
+              "dbd606be-bc17-4bae-8c9b-a2c56bd91e25"
+            ],
+            "version": 1,
+            "code": "N0080",
+            "createdAt": 1790440789909,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 18,
+            "difficulty": "easy",
+            "evidence": "6 kills/3 jogos atuais; média 2.00",
+            "label": "18 kills no torneio",
+            "teamKey": "3ce9c64d-8286-4894-80d1-aceeb206589a:52447924-0707-4052-a08c-be04c830726d",
+            "teamName": "Higgs / Curve",
+            "playerIds": [
+              "3ce9c64d-8286-4894-80d1-aceeb206589a",
+              "52447924-0707-4052-a08c-be04c830726d"
+            ],
+            "version": 1,
+            "code": "N0081",
+            "createdAt": 1790440789909,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 6,
+            "difficulty": "easy",
+            "evidence": "2 kills/3 jogos atuais; média 0.67",
+            "label": "6 kills no torneio",
+            "teamKey": "07d9ab69-cfce-4aea-be7f-cdf99dba3e1e:d5e9dc74-c49e-4825-bd81-a9d69056c683",
+            "teamName": "Pinq / Rura",
+            "playerIds": [
+              "07d9ab69-cfce-4aea-be7f-cdf99dba3e1e",
+              "d5e9dc74-c49e-4825-bd81-a9d69056c683"
+            ],
+            "version": 1,
+            "code": "N0082",
+            "createdAt": 1790440790274,
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 30,
+            "difficulty": "easy",
+            "evidence": "10 kills/3 jogos atuais; média 3.33",
+            "label": "30 kills no torneio",
+            "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
+            "teamName": "yuma / Koyota",
+            "playerIds": [
+              "72b80d98-d7d9-4670-ba31-ef9a208e2934",
+              "785aa4de-6a84-4a29-badb-195ba05a3e74"
+            ],
+            "version": 1,
+            "code": "N0083",
+            "createdAt": 1790440790274,
             "available": true,
             "reason": null
           }
