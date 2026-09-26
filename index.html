@@ -11,7 +11,8 @@
   <link rel="preconnect" href="https://static-cdn.jtvnw.net">
   <link rel="stylesheet" href="styles.css?v=18">
   <script src="https://accounts.google.com/gsi/client" async defer></script>
-  <script src="app.js?v=20" defer></script>
+  <link rel="stylesheet" href="bingo-fncs.css?v=1"><script src="bingo-fncs.js?v=1" defer></script>
+  <script src="app.js?v=21" defer></script>
 </head>
 <body>
   <div class="wood-frame" aria-hidden="true"></div>
@@ -83,7 +84,8 @@
     </section>
 
     <div id="status-message" class="status-message" role="status" aria-live="polite"></div>
-  </main>
+  <section id="bingo-fncs" hidden></section>
+</main>
   <dialog id="player-history-dialog" class="player-history-dialog" aria-labelledby="history-title">
     <button id="history-close" class="history-close" type="button" aria-label="Fechar histórico">×</button>
     <div id="player-history-content"></div>
