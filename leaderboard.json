@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-26T16:37:05.918Z",
+  "updatedAt": "2026-09-26T16:37:40.976Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,7 +31,7 @@
         "open": true,
         "connected": true,
         "firstRound": 4,
-        "updatedAt": 1790440621818,
+        "updatedAt": 1790440659564,
         "champions": [
           {
             "code": "C01",
@@ -2130,13 +2130,23 @@
             "rank": 1
           },
           {
+            "id": "twitch:717212869",
+            "platform": "twitch",
+            "name": "curtes8",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 2,
+            "rank": 2
+          },
+          {
             "id": "twitch:932779495",
             "platform": "twitch",
             "name": "gui_z0",
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 2,
+            "answered": 4,
             "rank": 2
           },
           {
@@ -2146,7 +2156,17 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 3,
+            "answered": 5,
+            "rank": 2
+          },
+          {
+            "id": "twitch:1456923742",
+            "platform": "twitch",
+            "name": "matoswar2003",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 5,
             "rank": 2
           },
           {
@@ -2156,18 +2176,8 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 3,
+            "answered": 5,
             "rank": 2
-          },
-          {
-            "id": "twitch:717212869",
-            "platform": "twitch",
-            "name": "curtes8",
-            "points": 0,
-            "exact": 0,
-            "near": 0,
-            "answered": 1,
-            "rank": 5
           },
           {
             "id": "twitch:423908473",
@@ -2176,8 +2186,8 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 1,
-            "rank": 5
+            "answered": 2,
+            "rank": 7
           },
           {
             "id": "twitch:636817789",
@@ -2186,18 +2196,18 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 1,
-            "rank": 5
+            "answered": 3,
+            "rank": 7
           },
           {
-            "id": "twitch:1456923742",
+            "id": "twitch:1352711259",
             "platform": "twitch",
-            "name": "matoswar2003",
+            "name": "igl_migaas",
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 3,
-            "rank": 5
+            "answered": 1,
+            "rank": 7
           },
           {
             "id": "twitch:134395626",
@@ -2206,8 +2216,8 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 1,
-            "rank": 5
+            "answered": 2,
+            "rank": 7
           }
         ],
         "day2": [],
@@ -2223,13 +2233,23 @@
             "rank": 1
           },
           {
+            "id": "twitch:717212869",
+            "platform": "twitch",
+            "name": "curtes8",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 2,
+            "rank": 2
+          },
+          {
             "id": "twitch:932779495",
             "platform": "twitch",
             "name": "gui_z0",
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 2,
+            "answered": 4,
             "rank": 2
           },
           {
@@ -2239,7 +2259,17 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 3,
+            "answered": 5,
+            "rank": 2
+          },
+          {
+            "id": "twitch:1456923742",
+            "platform": "twitch",
+            "name": "matoswar2003",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 5,
             "rank": 2
           },
           {
@@ -2249,18 +2279,8 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 3,
+            "answered": 5,
             "rank": 2
-          },
-          {
-            "id": "twitch:717212869",
-            "platform": "twitch",
-            "name": "curtes8",
-            "points": 0,
-            "exact": 0,
-            "near": 0,
-            "answered": 1,
-            "rank": 5
           },
           {
             "id": "twitch:423908473",
@@ -2269,8 +2289,8 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 1,
-            "rank": 5
+            "answered": 2,
+            "rank": 7
           },
           {
             "id": "twitch:636817789",
@@ -2279,18 +2299,18 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 1,
-            "rank": 5
+            "answered": 3,
+            "rank": 7
           },
           {
-            "id": "twitch:1456923742",
+            "id": "twitch:1352711259",
             "platform": "twitch",
-            "name": "matoswar2003",
+            "name": "igl_migaas",
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 3,
-            "rank": 5
+            "answered": 1,
+            "rank": 7
           },
           {
             "id": "twitch:134395626",
@@ -2299,8 +2319,8 @@
             "points": 0,
             "exact": 0,
             "near": 0,
-            "answered": 1,
-            "rank": 5
+            "answered": 2,
+            "rank": 7
           }
         ]
       },
@@ -2316,13 +2336,23 @@
           "rank": 1
         },
         {
+          "id": "twitch:717212869",
+          "platform": "twitch",
+          "name": "curtes8",
+          "points": 100,
+          "exact": 1,
+          "near": 0,
+          "answered": 2,
+          "rank": 2
+        },
+        {
           "id": "twitch:932779495",
           "platform": "twitch",
           "name": "gui_z0",
           "points": 100,
           "exact": 1,
           "near": 0,
-          "answered": 2,
+          "answered": 4,
           "rank": 2
         },
         {
@@ -2332,7 +2362,17 @@
           "points": 100,
           "exact": 1,
           "near": 0,
-          "answered": 3,
+          "answered": 5,
+          "rank": 2
+        },
+        {
+          "id": "twitch:1456923742",
+          "platform": "twitch",
+          "name": "matoswar2003",
+          "points": 100,
+          "exact": 1,
+          "near": 0,
+          "answered": 5,
           "rank": 2
         },
         {
@@ -2342,18 +2382,8 @@
           "points": 100,
           "exact": 1,
           "near": 0,
-          "answered": 3,
+          "answered": 5,
           "rank": 2
-        },
-        {
-          "id": "twitch:717212869",
-          "platform": "twitch",
-          "name": "curtes8",
-          "points": 0,
-          "exact": 0,
-          "near": 0,
-          "answered": 1,
-          "rank": 5
         },
         {
           "id": "twitch:423908473",
@@ -2362,8 +2392,8 @@
           "points": 0,
           "exact": 0,
           "near": 0,
-          "answered": 1,
-          "rank": 5
+          "answered": 2,
+          "rank": 7
         },
         {
           "id": "twitch:636817789",
@@ -2372,18 +2402,18 @@
           "points": 0,
           "exact": 0,
           "near": 0,
-          "answered": 1,
-          "rank": 5
+          "answered": 3,
+          "rank": 7
         },
         {
-          "id": "twitch:1456923742",
+          "id": "twitch:1352711259",
           "platform": "twitch",
-          "name": "matoswar2003",
+          "name": "igl_migaas",
           "points": 0,
           "exact": 0,
           "near": 0,
-          "answered": 3,
-          "rank": 5
+          "answered": 1,
+          "rank": 7
         },
         {
           "id": "twitch:134395626",
@@ -2392,8 +2422,8 @@
           "points": 0,
           "exact": 0,
           "near": 0,
-          "answered": 1,
-          "rank": 5
+          "answered": 2,
+          "rank": 7
         }
       ]
     },
