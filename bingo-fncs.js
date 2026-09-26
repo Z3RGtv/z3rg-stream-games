@@ -1,7 +1,13 @@
 const root = document.getElementById('bingo-fncs');
-let selected = new Set(), champion = '', latest = null, currentUser = null;
+let selected = new Set(), champion = '', latest = null, currentUser = null, renderedVersion = '';
 const el=(tag,text)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;return n;};
-window.renderBingoFncs = function(data,user){latest=data;currentUser=user;if(!root)return;root.replaceChildren();if(!data){root.append(el('p','Bingo FNCS: à espera da primeira publicação.'));return;}
+window.renderBingoFncs = function(data,user){
+ latest=data;currentUser=user;if(!root)return;
+ const version=JSON.stringify([data?.open,data?.firstRound,data?.objectives,data?.cards,user?.id]);
+ if(version===renderedVersion)return;
+ const pageScroll=window.scrollY, innerScroll=root.scrollTop;
+ renderedVersion=version;
+ root.replaceChildren();if(!data){root.append(el('p','Bingo FNCS: à espera da primeira publicação.'));return;}
  root.append(el('h2','Bingo FNCS · 300 pontos'),el('p',data.open?'Escolhe campeão, duas médias e uma fácil. Resgata Bingo FNCS e envia os códigos no chat.':'Inscrições fechadas. Podes consultar os objetivos e cartões.'));
  root.append(el('p',`Cartão 4 × 4 · mínimo 8 duplas · válido a partir do jogo ${data.firstRound}. A confirmação no chat volta a verificar a disponibilidade.`));
  const select=el('select');select.setAttribute('aria-label','Dupla campeã');select.append(new Option('Escolher campeão',''));for(const c of data.champions)select.append(new Option(c.teamName,c.code));select.value=champion;select.onchange=()=>{champion=select.value;update();};root.append(select);
