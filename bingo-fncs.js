@@ -1,0 +1,20 @@
+const root = document.getElementById('bingo-fncs');
+let selected = new Set(), champion = '', latest = null, currentUser = null;
+const el=(tag,text)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;return n;};
+window.renderBingoFncs = function(data,user){latest=data;currentUser=user;if(!root)return;root.replaceChildren();if(!data){root.append(el('p','Bingo FNCS: à espera da primeira publicação.'));return;}
+ root.append(el('h2','Bingo FNCS · 300 pontos'),el('p',data.open?'Escolhe campeão, duas médias e uma fácil. Resgata Bingo FNCS e envia os códigos no chat.':'Inscrições fechadas. Podes consultar os objetivos e cartões.'));
+ root.append(el('p',`Cartão 4 × 4 · mínimo 8 duplas · válido a partir do jogo ${data.firstRound}. A confirmação no chat volta a verificar a disponibilidade.`));
+ const select=el('select');select.setAttribute('aria-label','Dupla campeã');select.append(new Option('Escolher campeão',''));for(const c of data.champions)select.append(new Option(c.teamName,c.code));select.value=champion;select.onchange=()=>{champion=select.value;update();};root.append(select);
+ const command=el('input');command.readOnly=true;command.setAttribute('aria-label','Comando para o chat');const copy=el('button','Copiar comando');copy.onclick=async()=>{try{await navigator.clipboard.writeText(command.value);copy.textContent='Copiado — cola no chat';}catch{command.select();copy.textContent='Selecionado — copia com Ctrl+C';}};
+ const hint=el('p');root.append(command,copy,hint);
+ const list=el('div');list.className='bingo-options';
+ for(const c of data.objectives){const label=el('label');const check=el('input');check.type='checkbox';check.checked=selected.has(c.code);check.disabled=(!c.available&&!check.checked)||c.difficulty==='hard';check.onchange=()=>{if(check.checked)selected.add(c.code);else selected.delete(c.code);update();};label.append(check,el('strong',`${c.code} · ${c.teamName} · ${c.label}`),el('small',`${{easy:'Fácil',medium:'Média',hard:'Difícil · sorteada'}[c.difficulty]} — ${c.available?c.evidence:c.reason}`));list.append(label);}root.append(list);
+ function update(){const cs=[...selected].map(code=>latest.objectives.find(c=>c.code===code));const valid=!!champion&&cs.length===3&&cs.every(c=>c?.available)&&cs.filter(c=>c.difficulty==='easy').length===1&&cs.filter(c=>c.difficulty==='medium').length===2;command.value=`!bingo ${champion} ${[...selected].join(' ')}`.trim();copy.disabled=!valid||!data.open;hint.textContent=valid?'Confirma no chat depois de resgatar a recompensa.':'Seleciona uma fácil, duas médias e a dupla campeã.';}
+ update();root.append(el('h3','O meu cartão'));
+ const card=user?data.cards.find(c=>c.userId===String(user.id)):null;
+ if(!user)root.append(el('p','Entra com a Twitch no site para encontrares o teu cartão.'));
+ else if(!card)root.append(el('p','Ainda não tens um cartão confirmado.'));
+ else{root.append(el('p',`${card.name}: ${card.completed}/16 casas · ${card.lines} linhas`));const grid=el('div');grid.className='bingo-grid';for(const c of card.cells){const cell=el('div');cell.className=c.proof?'done':'';cell.append(el('strong',c.teamName),el('span',c.label),el('b',c.proof?'✓':''));if(c.proof?.sessionId){const a=el('a','Ver resultado');a.href='https://fortnitetracker.com/events/sessions/'+c.proof.sessionId;a.target='_blank';a.rel='noreferrer';cell.append(a);}grid.append(cell);}root.append(grid);}
+ root.append(el('h3','Classificação Bingo FNCS'));const ranking=el('ol');for(const c of [...data.cards].sort((a,b)=>b.completed-a.completed||b.lines-a.lines||a.name.localeCompare(b.name)))ranking.append(el('li',`${c.name} — ${c.completed}/16 · ${c.lines} linhas`));root.append(ranking);
+};
+if(root?.dataset.local==='true'){const refresh=async()=>{try{const r=await fetch('http://127.0.0.1:3210/api/bingo-fncs/state');if(!r.ok)throw Error();window.renderBingoFncs(await r.json(),currentUser);}catch{root.replaceChildren(el('p','Liga o motor do jogo para consultar o bingo.'));}};refresh();setInterval(refresh,5000);}
