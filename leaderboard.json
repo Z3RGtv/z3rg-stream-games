@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:58:05.454Z",
+  "updatedAt": "2026-09-27T18:58:10.574Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -2227,7 +2227,7 @@
         "open": false,
         "connected": true,
         "firstRound": 13,
-        "updatedAt": 1790535485067,
+        "updatedAt": 1790535488331,
         "champions": [
           {
             "code": "C01",
@@ -3833,10 +3833,10 @@
             "code": "B045",
             "version": 1,
             "progress": {
-              "current": 14,
+              "current": 20,
               "target": 30,
-              "remaining": 16,
-              "text": "14/30 kills no torneio"
+              "remaining": 10,
+              "text": "20/30 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -4201,10 +4201,10 @@
             "code": "N0062",
             "createdAt": 1790438385020,
             "progress": {
-              "current": 15,
+              "current": 18,
               "target": 22,
-              "remaining": 7,
-              "text": "15/22 kills no torneio"
+              "remaining": 4,
+              "text": "18/22 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -4539,10 +4539,10 @@
             "code": "N0076",
             "createdAt": 1790438694579,
             "progress": {
-              "current": 15,
+              "current": 20,
               "target": 9,
               "remaining": 0,
-              "text": "15/9 kills no torneio"
+              "text": "20/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -5192,10 +5192,10 @@
             "code": "N0103",
             "createdAt": 1790448768969,
             "progress": {
-              "current": 15,
+              "current": 18,
               "target": 9,
               "remaining": 0,
-              "text": "15/9 kills no torneio"
+              "text": "18/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -5277,7 +5277,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 4,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "4 jogos no top 15",
             "evidence": "2 top 15 em 6 jogos atuais; faltam 2",
             "teamKey": "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1:f49c5582-7898-4adf-a62b-53865c0a2b13",
@@ -5290,10 +5290,10 @@
             "code": "N0107",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 4,
-              "remaining": 2,
-              "text": "2/4 top 15 no torneio"
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -5302,7 +5302,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 3,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "3 jogos no top 15",
             "evidence": "2 top 15 em 6 jogos atuais",
             "teamKey": "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1:f49c5582-7898-4adf-a62b-53865c0a2b13",
@@ -5315,13 +5315,13 @@
             "code": "N0108",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 3,
-              "remaining": 1,
-              "text": "2/3 top 15 no torneio"
+              "remaining": 0,
+              "text": "3/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -5339,13 +5339,13 @@
             "code": "N0109",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 15,
+              "current": 20,
               "target": 20,
-              "remaining": 5,
-              "text": "15/20 kills no torneio"
+              "remaining": 0,
+              "text": "20/20 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -7173,10 +7173,10 @@
             "code": "N0184",
             "createdAt": 1790522661390,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 4,
               "remaining": 0,
-              "text": "4/4 top 15 no torneio"
+              "text": "5/4 top 15 no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -7321,10 +7321,10 @@
             "code": "N0190",
             "createdAt": 1790525056314,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 3,
               "remaining": 0,
-              "text": "4/3 top 15 no torneio"
+              "text": "5/3 top 15 no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -7505,7 +7505,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 6,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "6 jogos no top 15",
             "evidence": "4 top 15 em 8 jogos atuais; faltam 2",
             "teamKey": "6f29ff7f-0061-40da-bccc-9c18d5c8db42:ae8ac6f7-115f-4d8e-a2da-979848ae9f7a",
@@ -7518,10 +7518,10 @@
             "code": "N0198",
             "createdAt": 1790525095790,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 6,
-              "remaining": 2,
-              "text": "4/6 top 15 no torneio"
+              "remaining": 1,
+              "text": "5/6 top 15 no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -7530,7 +7530,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 5,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "5 jogos no top 15",
             "evidence": "4 top 15 em 8 jogos atuais",
             "teamKey": "6f29ff7f-0061-40da-bccc-9c18d5c8db42:ae8ac6f7-115f-4d8e-a2da-979848ae9f7a",
@@ -7543,13 +7543,13 @@
             "code": "N0199",
             "createdAt": 1790525095790,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 5,
-              "remaining": 1,
-              "text": "4/5 top 15 no torneio"
+              "remaining": 0,
+              "text": "5/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -8289,7 +8289,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 5,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "5 jogos no top 15",
             "evidence": "3 top 15 em 8 jogos atuais; faltam 2",
             "teamKey": "8175b84a-680c-4f8d-ae3b-bfc23239290a:9485ffab-f7b8-4719-956c-56612ca00c27",
@@ -8302,13 +8302,13 @@
             "code": "N0230",
             "createdAt": 1790526733530,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 5,
-              "remaining": 1,
-              "text": "4/5 top 15 no torneio"
+              "remaining": 0,
+              "text": "5/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -8374,13 +8374,13 @@
             "code": "N0233",
             "createdAt": 1790526734125,
             "progress": {
-              "current": 15,
+              "current": 20,
               "target": 19,
-              "remaining": 4,
-              "text": "15/19 kills no torneio"
+              "remaining": 0,
+              "text": "20/19 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -9061,10 +9061,10 @@
             "code": "N0261",
             "createdAt": 1790526739788,
             "progress": {
-              "current": 15,
+              "current": 18,
               "target": 12,
               "remaining": 0,
-              "text": "15/12 kills no torneio"
+              "text": "18/12 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -9133,10 +9133,10 @@
             "code": "N0264",
             "createdAt": 1790526739788,
             "progress": {
-              "current": 14,
+              "current": 20,
               "target": 14,
               "remaining": 0,
-              "text": "14/14 kills no torneio"
+              "text": "20/14 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -9398,10 +9398,10 @@
             "code": "N0275",
             "createdAt": 1790526958462,
             "progress": {
-              "current": 14,
+              "current": 20,
               "target": 13,
               "remaining": 0,
-              "text": "14/13 kills no torneio"
+              "text": "20/13 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -10167,7 +10167,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 6,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "6 jogos no top 15",
             "evidence": "4 top 15 em 9 jogos atuais; faltam 2",
             "teamKey": "8175b84a-680c-4f8d-ae3b-bfc23239290a:9485ffab-f7b8-4719-956c-56612ca00c27",
@@ -10180,10 +10180,10 @@
             "code": "N0307",
             "createdAt": 1790527229927,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 6,
-              "remaining": 2,
-              "text": "4/6 top 15 no torneio"
+              "remaining": 1,
+              "text": "5/6 top 15 no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -10204,10 +10204,10 @@
             "code": "N0308",
             "createdAt": 1790527229927,
             "progress": {
-              "current": 15,
+              "current": 18,
               "target": 19,
-              "remaining": 4,
-              "text": "15/19 kills no torneio"
+              "remaining": 1,
+              "text": "18/19 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -10399,13 +10399,13 @@
             "code": "N0316",
             "createdAt": 1790529800158,
             "progress": {
-              "current": 15,
+              "current": 20,
               "target": 17,
-              "remaining": 2,
-              "text": "15/17 kills no torneio"
+              "remaining": 0,
+              "text": "20/17 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -10567,13 +10567,13 @@
             "code": "N0323",
             "createdAt": 1790530242588,
             "progress": {
-              "current": 15,
+              "current": 18,
               "target": 17,
-              "remaining": 2,
-              "text": "15/17 kills no torneio"
+              "remaining": 0,
+              "text": "18/17 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -11689,13 +11689,13 @@
             "code": "N0369",
             "createdAt": 1790532743396,
             "progress": {
-              "current": 15,
+              "current": 20,
               "target": 16,
-              "remaining": 1,
-              "text": "15/16 kills no torneio"
+              "remaining": 0,
+              "text": "20/16 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -11809,13 +11809,13 @@
             "code": "N0374",
             "createdAt": 1790532919641,
             "progress": {
-              "current": 15,
+              "current": 18,
               "target": 16,
-              "remaining": 1,
-              "text": "15/16 kills no torneio"
+              "remaining": 0,
+              "text": "18/16 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -11977,13 +11977,13 @@
             "code": "N0381",
             "createdAt": 1790533054347,
             "progress": {
-              "current": 14,
+              "current": 20,
               "target": 15,
-              "remaining": 1,
-              "text": "14/15 kills no torneio"
+              "remaining": 0,
+              "text": "20/15 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -13971,10 +13971,10 @@
                 "code": "B045",
                 "version": 1,
                 "progress": {
-                  "current": 14,
+                  "current": 20,
                   "target": 30,
-                  "remaining": 16,
-                  "text": "14/30 kills no torneio"
+                  "remaining": 10,
+                  "text": "20/30 kills no torneio"
                 }
               },
               {
@@ -14321,10 +14321,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 15,
+                  "current": 20,
                   "target": 9,
                   "remaining": 0,
-                  "text": "15/9 kills no torneio"
+                  "text": "20/9 kills no torneio"
                 }
               },
               {
@@ -15165,10 +15165,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 15,
+                  "current": 20,
                   "target": 9,
                   "remaining": 0,
-                  "text": "15/9 kills no torneio"
+                  "text": "20/9 kills no torneio"
                 }
               },
               {
@@ -15466,10 +15466,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 14,
+                  "current": 20,
                   "target": 30,
-                  "remaining": 16,
-                  "text": "14/30 kills no torneio"
+                  "remaining": 10,
+                  "text": "20/30 kills no torneio"
                 }
               },
               {
@@ -15743,10 +15743,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 15,
+                  "current": 20,
                   "target": 9,
                   "remaining": 0,
-                  "text": "15/9 kills no torneio"
+                  "text": "20/9 kills no torneio"
                 }
               },
               {
@@ -16919,10 +16919,10 @@
                 "code": "N0062",
                 "createdAt": 1790438385020,
                 "progress": {
-                  "current": 15,
+                  "current": 18,
                   "target": 22,
-                  "remaining": 7,
-                  "text": "15/22 kills no torneio"
+                  "remaining": 4,
+                  "text": "18/22 kills no torneio"
                 }
               },
               {
@@ -17064,10 +17064,10 @@
                 "code": "N0107",
                 "createdAt": 1790467324752,
                 "progress": {
-                  "current": 2,
+                  "current": 3,
                   "target": 4,
-                  "remaining": 2,
-                  "text": "2/4 top 15 no torneio"
+                  "remaining": 1,
+                  "text": "3/4 top 15 no torneio"
                 }
               },
               {
