@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:03:31.888Z",
+  "updatedAt": "2026-09-27T16:03:38.033Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -281,36 +281,36 @@
           "day": 2,
           "match": 2,
           "label": "Fant / Volko supera as 0 kills da partida anterior?",
-          "status": "LOCKED",
-          "result": null,
+          "status": "SETTLED",
+          "result": "SIM",
           "answers": [
             {
               "id": "twitch:636817789",
               "name": "hugoandre07",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:645555689",
               "name": "sheisdani",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:505385285",
               "name": "hst_playz_pt",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:972248156",
               "name": "marquesrcarol",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 0
             }
           ]
         },
@@ -1270,7 +1270,7 @@
         "open": true,
         "connected": true,
         "firstRound": 9,
-        "updatedAt": 1790525006848,
+        "updatedAt": 1790525014079,
         "champions": [
           {
             "code": "C01",
@@ -3068,10 +3068,10 @@
             "code": "B054",
             "version": 1,
             "progress": {
-              "current": 2,
+              "current": 4,
               "target": 25,
-              "remaining": 23,
-              "text": "2/25 kills no torneio"
+              "remaining": 21,
+              "text": "4/25 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -3316,10 +3316,10 @@
             "code": "N0065",
             "createdAt": 1790438387118,
             "progress": {
-              "current": 7,
+              "current": 8,
               "target": 17,
-              "remaining": 10,
-              "text": "7/17 kills no torneio"
+              "remaining": 9,
+              "text": "8/17 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -3388,13 +3388,13 @@
             "code": "N0068",
             "createdAt": 1790438389351,
             "progress": {
-              "current": 6,
+              "current": 9,
               "target": 9,
-              "remaining": 3,
-              "text": "6/9 kills no torneio"
+              "remaining": 0,
+              "text": "9/9 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -3630,10 +3630,10 @@
             "code": "N0078",
             "createdAt": 1790440662132,
             "progress": {
-              "current": 4,
+              "current": 8,
               "target": 3,
               "remaining": 0,
-              "text": "4/3 kills no torneio"
+              "text": "8/3 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -4021,8 +4021,8 @@
               "remaining": 6,
               "text": "6/12 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "countTop",
@@ -4089,13 +4089,13 @@
             "code": "N0097",
             "createdAt": 1790448505562,
             "progress": {
-              "current": 7,
+              "current": 8,
               "target": 8,
-              "remaining": 1,
-              "text": "7/8 kills no torneio"
+              "remaining": 0,
+              "text": "8/8 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -4138,13 +4138,13 @@
             "code": "N0099",
             "createdAt": 1790448637912,
             "progress": {
-              "current": 4,
+              "current": 8,
               "target": 5,
-              "remaining": 1,
-              "text": "4/5 kills no torneio"
+              "remaining": 0,
+              "text": "8/5 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -4211,10 +4211,10 @@
             "code": "N0102",
             "createdAt": 1790448728422,
             "progress": {
-              "current": 6,
+              "current": 9,
               "target": 10,
-              "remaining": 4,
-              "text": "6/10 kills no torneio"
+              "remaining": 1,
+              "text": "9/10 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -5238,10 +5238,10 @@
             "code": "N0144",
             "createdAt": 1790518237968,
             "progress": {
-              "current": 7,
+              "current": 8,
               "target": 12,
-              "remaining": 5,
-              "text": "7/12 kills no torneio"
+              "remaining": 4,
+              "text": "8/12 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -5703,10 +5703,10 @@
             "code": "N0163",
             "createdAt": 1790518619801,
             "progress": {
-              "current": 2,
+              "current": 4,
               "target": 2,
               "remaining": 0,
-              "text": "2/2 kills no torneio"
+              "text": "4/2 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6019,10 +6019,10 @@
             "code": "N0176",
             "createdAt": 1790522527862,
             "progress": {
-              "current": 7,
+              "current": 8,
               "target": 11,
-              "remaining": 4,
-              "text": "7/11 kills no torneio"
+              "remaining": 3,
+              "text": "8/11 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -6166,13 +6166,13 @@
             "code": "N0182",
             "createdAt": 1790522573317,
             "progress": {
-              "current": 4,
+              "current": 8,
               "target": 6,
-              "remaining": 2,
-              "text": "4/6 kills no torneio"
+              "remaining": 0,
+              "text": "8/6 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -6872,10 +6872,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 2,
+                  "current": 4,
                   "target": 25,
-                  "remaining": 23,
-                  "text": "2/25 kills no torneio"
+                  "remaining": 21,
+                  "text": "4/25 kills no torneio"
                 }
               },
               {
@@ -7704,10 +7704,10 @@
                 "code": "N0068",
                 "createdAt": 1790438389351,
                 "progress": {
-                  "current": 6,
+                  "current": 9,
                   "target": 9,
-                  "remaining": 3,
-                  "text": "6/9 kills no torneio"
+                  "remaining": 0,
+                  "text": "9/9 kills no torneio"
                 }
               },
               {
@@ -8200,10 +8200,10 @@
                   "total": 3
                 },
                 "progress": {
-                  "current": 4,
+                  "current": 8,
                   "target": 3,
                   "remaining": 0,
-                  "text": "4/3 kills no torneio"
+                  "text": "8/3 kills no torneio"
                 }
               },
               {
@@ -8348,10 +8348,10 @@
                 "createdAt": 1790438389351,
                 "proof": null,
                 "progress": {
-                  "current": 6,
+                  "current": 9,
                   "target": 9,
-                  "remaining": 3,
-                  "text": "6/9 kills no torneio"
+                  "remaining": 0,
+                  "text": "9/9 kills no torneio"
                 }
               },
               {
@@ -8426,10 +8426,10 @@
                 "createdAt": 1790438387118,
                 "proof": null,
                 "progress": {
-                  "current": 7,
+                  "current": 8,
                   "target": 17,
-                  "remaining": 10,
-                  "text": "7/17 kills no torneio"
+                  "remaining": 9,
+                  "text": "8/17 kills no torneio"
                 }
               },
               {
@@ -8586,10 +8586,10 @@
                   "total": 3
                 },
                 "progress": {
-                  "current": 4,
+                  "current": 8,
                   "target": 3,
                   "remaining": 0,
-                  "text": "4/3 kills no torneio"
+                  "text": "8/3 kills no torneio"
                 }
               },
               {
@@ -9447,10 +9447,10 @@
                 "createdAt": 1790438387118,
                 "proof": null,
                 "progress": {
-                  "current": 7,
+                  "current": 8,
                   "target": 17,
-                  "remaining": 10,
-                  "text": "7/17 kills no torneio"
+                  "remaining": 9,
+                  "text": "8/17 kills no torneio"
                 }
               },
               {
@@ -9818,23 +9818,23 @@
         ],
         "day2": [
           {
+            "id": "twitch:636817789",
+            "platform": "twitch",
+            "name": "hugoandre07",
+            "points": 600,
+            "exact": 6,
+            "near": 0,
+            "answered": 8,
+            "rank": 1
+          },
+          {
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
             "points": 550,
             "exact": 5,
             "near": 1,
-            "answered": 7,
-            "rank": 1
-          },
-          {
-            "id": "twitch:636817789",
-            "platform": "twitch",
-            "name": "hugoandre07",
-            "points": 500,
-            "exact": 5,
-            "near": 0,
-            "answered": 7,
+            "answered": 8,
             "rank": 2
           },
           {
@@ -9844,7 +9844,7 @@
             "points": 425,
             "exact": 4,
             "near": 1,
-            "answered": 7,
+            "answered": 8,
             "rank": 3
           },
           {
@@ -9864,7 +9864,7 @@
             "points": 225,
             "exact": 2,
             "near": 1,
-            "answered": 4,
+            "answered": 5,
             "rank": 5
           },
           {
@@ -9916,7 +9916,7 @@
             "points": 1100,
             "exact": 10,
             "near": 2,
-            "answered": 14,
+            "answered": 15,
             "rank": 1
           },
           {
@@ -9926,7 +9926,7 @@
             "points": 775,
             "exact": 7,
             "near": 2,
-            "answered": 15,
+            "answered": 16,
             "rank": 2
           },
           {
@@ -9940,22 +9940,22 @@
             "rank": 3
           },
           {
+            "id": "twitch:636817789",
+            "platform": "twitch",
+            "name": "hugoandre07",
+            "points": 650,
+            "exact": 6,
+            "near": 1,
+            "answered": 14,
+            "rank": 4
+          },
+          {
             "id": "twitch:972248156",
             "platform": "twitch",
             "name": "marquesrcarol",
             "points": 575,
             "exact": 5,
             "near": 2,
-            "answered": 12,
-            "rank": 4
-          },
-          {
-            "id": "twitch:636817789",
-            "platform": "twitch",
-            "name": "hugoandre07",
-            "points": 550,
-            "exact": 5,
-            "near": 1,
             "answered": 13,
             "rank": 5
           },
@@ -10069,7 +10069,7 @@
           "points": 1100,
           "exact": 10,
           "near": 2,
-          "answered": 14,
+          "answered": 15,
           "rank": 1
         },
         {
@@ -10079,7 +10079,7 @@
           "points": 775,
           "exact": 7,
           "near": 2,
-          "answered": 15,
+          "answered": 16,
           "rank": 2
         },
         {
@@ -10093,22 +10093,22 @@
           "rank": 3
         },
         {
+          "id": "twitch:636817789",
+          "platform": "twitch",
+          "name": "hugoandre07",
+          "points": 650,
+          "exact": 6,
+          "near": 1,
+          "answered": 14,
+          "rank": 4
+        },
+        {
           "id": "twitch:972248156",
           "platform": "twitch",
           "name": "marquesrcarol",
           "points": 575,
           "exact": 5,
           "near": 2,
-          "answered": 12,
-          "rank": 4
-        },
-        {
-          "id": "twitch:636817789",
-          "platform": "twitch",
-          "name": "hugoandre07",
-          "points": 550,
-          "exact": 5,
-          "near": 1,
           "answered": 13,
           "rank": 5
         },
