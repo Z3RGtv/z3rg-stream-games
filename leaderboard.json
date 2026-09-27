@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:06:37.050Z",
+  "updatedAt": "2026-09-27T18:10:56.908Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790532391986,
+        "updatedAt": 1790532651847,
         "champions": [
           {
             "code": "C01",
@@ -10842,7 +10842,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -11305,6 +11305,30 @@
               "target": 15,
               "remaining": 1,
               "text": "14/15 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 25,
+            "difficulty": "easy",
+            "evidence": "23 kills/11 jogos atuais; média 2.09",
+            "label": "25 kills no torneio",
+            "teamKey": "2b3da27c-62d1-4887-bd6d-aa865df33487:ef29a568-e9c1-45a7-85da-2903fe81114b",
+            "teamName": "IDrop / Ghonzo",
+            "playerIds": [
+              "2b3da27c-62d1-4887-bd6d-aa865df33487",
+              "ef29a568-e9c1-45a7-85da-2903fe81114b"
+            ],
+            "version": 1,
+            "code": "N0368",
+            "createdAt": 1790532651855,
+            "progress": {
+              "current": 23,
+              "target": 25,
+              "remaining": 2,
+              "text": "23/25 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
