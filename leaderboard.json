@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:03:30.273Z",
+  "updatedAt": "2026-09-27T18:04:10.715Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790532205213,
+        "updatedAt": 1790532245656,
         "champions": [
           {
             "code": "C01",
@@ -10768,7 +10768,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -11257,6 +11257,30 @@
               "target": 19,
               "remaining": 2,
               "text": "17/19 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 30,
+            "difficulty": "easy",
+            "evidence": "28 kills/11 jogos atuais; média 2.55",
+            "label": "30 kills no torneio",
+            "teamKey": "77999a7f-609d-40bb-b621-223df590b4d2:f899b6ef-72c7-4f03-af0a-eca85b2bedca",
+            "teamName": "Lewa / Romero",
+            "playerIds": [
+              "77999a7f-609d-40bb-b621-223df590b4d2",
+              "f899b6ef-72c7-4f03-af0a-eca85b2bedca"
+            ],
+            "version": 1,
+            "code": "N0366",
+            "createdAt": 1790532245664,
+            "progress": {
+              "current": 28,
+              "target": 30,
+              "remaining": 2,
+              "text": "28/30 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
