@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:40:58.669Z",
+  "updatedAt": "2026-09-27T15:44:09.566Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1197,7 +1197,7 @@
         "open": true,
         "connected": true,
         "firstRound": 8,
-        "updatedAt": 1790522756845,
+        "updatedAt": 1790523844516,
         "champions": [
           {
             "code": "C01",
