@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T14:42:11.641Z",
+  "updatedAt": "2026-09-27T15:03:20.529Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -34,7 +34,7 @@
         "open": true,
         "connected": true,
         "firstRound": 7,
-        "updatedAt": 1790518621802,
+        "updatedAt": 1790521395484,
         "champions": [
           {
             "code": "C01",
@@ -4618,6 +4618,30 @@
               "target": 7,
               "remaining": 3,
               "text": "4/7 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 9,
+            "difficulty": "easy",
+            "evidence": "6 kills/7 jogos atuais; média 0.86",
+            "label": "9 kills no torneio",
+            "teamKey": "4fb6deaf-5440-4468-8f11-d3be09eafe49:85bf29cb-0d8c-4be0-8807-5adaa5c582d1",
+            "teamName": "Mack / Diguera",
+            "playerIds": [
+              "4fb6deaf-5440-4468-8f11-d3be09eafe49",
+              "85bf29cb-0d8c-4be0-8807-5adaa5c582d1"
+            ],
+            "version": 1,
+            "code": "N0170",
+            "createdAt": 1790521395490,
+            "progress": {
+              "current": 6,
+              "target": 9,
+              "remaining": 3,
+              "text": "6/9 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
