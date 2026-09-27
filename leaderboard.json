@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:45:32.244Z",
+  "updatedAt": "2026-09-27T18:48:20.038Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -253,50 +253,50 @@
           "day": 2,
           "match": 6,
           "label": "vic0 / Malibuca melhora o 34.º lugar da partida anterior?",
-          "status": "LOCKED",
-          "result": null,
+          "status": "SETTLED",
+          "result": "NÃO",
           "answers": [
             {
               "id": "twitch:645555689",
               "name": "sheisdani",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:505385285",
               "name": "hst_playz_pt",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:895327657",
               "name": "z3rgtv",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:972248156",
               "name": "marquesrcarol",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:932779495",
               "name": "gui_z0",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:491270065",
               "name": "manodrico",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             }
           ]
         },
@@ -2161,7 +2161,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790534727189,
+        "updatedAt": 1790534895018,
         "champions": [
           {
             "code": "C01",
@@ -2877,7 +2877,7 @@
               "text": "42/55 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
@@ -8534,7 +8534,7 @@
               "text": "42/47 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -9604,7 +9604,7 @@
               "text": "7/8 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9628,7 +9628,7 @@
               "text": "42/48 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10943,7 +10943,7 @@
               "text": "7/9 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11725,7 +11725,7 @@
               "text": "42/45 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -17150,7 +17150,7 @@
             "points": 1525,
             "exact": 14,
             "near": 3,
-            "answered": 23,
+            "answered": 24,
             "rank": 1
           },
           {
@@ -17160,7 +17160,7 @@
             "points": 1175,
             "exact": 11,
             "near": 2,
-            "answered": 19,
+            "answered": 20,
             "rank": 2
           },
           {
@@ -17170,7 +17170,7 @@
             "points": 1050,
             "exact": 10,
             "near": 1,
-            "answered": 16,
+            "answered": 17,
             "rank": 3
           },
           {
@@ -17190,7 +17190,7 @@
             "points": 975,
             "exact": 9,
             "near": 3,
-            "answered": 17,
+            "answered": 18,
             "rank": 5
           },
           {
@@ -17200,7 +17200,7 @@
             "points": 950,
             "exact": 9,
             "near": 1,
-            "answered": 19,
+            "answered": 20,
             "rank": 6
           },
           {
@@ -17234,6 +17234,16 @@
             "rank": 9
           },
           {
+            "id": "twitch:491270065",
+            "platform": "twitch",
+            "name": "manodrico",
+            "points": 200,
+            "exact": 1,
+            "near": 2,
+            "answered": 5,
+            "rank": 10
+          },
+          {
             "id": "twitch:1418907276",
             "platform": "twitch",
             "name": "donkapo7",
@@ -17241,17 +17251,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 10
-          },
-          {
-            "id": "twitch:491270065",
-            "platform": "twitch",
-            "name": "manodrico",
-            "points": 100,
-            "exact": 0,
-            "near": 2,
-            "answered": 4,
-            "rank": 10
+            "rank": 11
           },
           {
             "id": "twitch:1069376937",
@@ -17261,7 +17261,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 10
+            "rank": 11
           },
           {
             "id": "twitch:905030592",
@@ -17271,7 +17271,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 10
+            "rank": 11
           },
           {
             "id": "twitch:1456923742",
@@ -17281,7 +17281,7 @@
             "exact": 1,
             "near": 0,
             "answered": 3,
-            "rank": 10
+            "rank": 11
           },
           {
             "id": "twitch:439693424",
@@ -17291,7 +17291,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 10
+            "rank": 11
           }
         ],
         "event": [
@@ -17302,7 +17302,7 @@
             "points": 1875,
             "exact": 17,
             "near": 4,
-            "answered": 31,
+            "answered": 32,
             "rank": 1
           },
           {
@@ -17312,7 +17312,7 @@
             "points": 1600,
             "exact": 15,
             "near": 2,
-            "answered": 23,
+            "answered": 24,
             "rank": 2
           },
           {
@@ -17322,7 +17322,7 @@
             "points": 1425,
             "exact": 13,
             "near": 3,
-            "answered": 23,
+            "answered": 24,
             "rank": 3
           },
           {
@@ -17332,7 +17332,7 @@
             "points": 1325,
             "exact": 12,
             "near": 4,
-            "answered": 25,
+            "answered": 26,
             "rank": 4
           },
           {
@@ -17342,7 +17342,7 @@
             "points": 1275,
             "exact": 12,
             "near": 2,
-            "answered": 27,
+            "answered": 28,
             "rank": 5
           },
           {
@@ -17386,6 +17386,16 @@
             "rank": 9
           },
           {
+            "id": "twitch:491270065",
+            "platform": "twitch",
+            "name": "manodrico",
+            "points": 200,
+            "exact": 1,
+            "near": 2,
+            "answered": 5,
+            "rank": 10
+          },
+          {
             "id": "twitch:1069376937",
             "platform": "twitch",
             "name": "manu12321_",
@@ -17413,7 +17423,7 @@
             "exact": 1,
             "near": 0,
             "answered": 2,
-            "rank": 12
+            "rank": 13
           },
           {
             "id": "twitch:1418907276",
@@ -17423,17 +17433,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 12
-          },
-          {
-            "id": "twitch:491270065",
-            "platform": "twitch",
-            "name": "manodrico",
-            "points": 100,
-            "exact": 0,
-            "near": 2,
-            "answered": 4,
-            "rank": 12
+            "rank": 13
           },
           {
             "id": "twitch:905030592",
@@ -17443,7 +17443,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 12
+            "rank": 13
           },
           {
             "id": "twitch:439693424",
@@ -17453,7 +17453,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 12
+            "rank": 13
           },
           {
             "id": "twitch:423908473",
@@ -17485,7 +17485,7 @@
           "points": 1875,
           "exact": 17,
           "near": 4,
-          "answered": 31,
+          "answered": 32,
           "rank": 1
         },
         {
@@ -17495,7 +17495,7 @@
           "points": 1600,
           "exact": 15,
           "near": 2,
-          "answered": 23,
+          "answered": 24,
           "rank": 2
         },
         {
@@ -17505,7 +17505,7 @@
           "points": 1425,
           "exact": 13,
           "near": 3,
-          "answered": 23,
+          "answered": 24,
           "rank": 3
         },
         {
@@ -17515,7 +17515,7 @@
           "points": 1325,
           "exact": 12,
           "near": 4,
-          "answered": 25,
+          "answered": 26,
           "rank": 4
         },
         {
@@ -17525,7 +17525,7 @@
           "points": 1275,
           "exact": 12,
           "near": 2,
-          "answered": 27,
+          "answered": 28,
           "rank": 5
         },
         {
@@ -17569,6 +17569,16 @@
           "rank": 9
         },
         {
+          "id": "twitch:491270065",
+          "platform": "twitch",
+          "name": "manodrico",
+          "points": 200,
+          "exact": 1,
+          "near": 2,
+          "answered": 5,
+          "rank": 10
+        },
+        {
           "id": "twitch:1069376937",
           "platform": "twitch",
           "name": "manu12321_",
@@ -17596,7 +17606,7 @@
           "exact": 1,
           "near": 0,
           "answered": 2,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "twitch:1418907276",
@@ -17606,17 +17616,7 @@
           "exact": 1,
           "near": 0,
           "answered": 1,
-          "rank": 12
-        },
-        {
-          "id": "twitch:491270065",
-          "platform": "twitch",
-          "name": "manodrico",
-          "points": 100,
-          "exact": 0,
-          "near": 2,
-          "answered": 4,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "twitch:905030592",
@@ -17626,7 +17626,7 @@
           "exact": 1,
           "near": 0,
           "answered": 1,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "twitch:439693424",
@@ -17636,7 +17636,7 @@
           "exact": 1,
           "near": 0,
           "answered": 1,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "twitch:423908473",
