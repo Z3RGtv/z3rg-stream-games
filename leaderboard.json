@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:50:01.688Z",
+  "updatedAt": "2026-09-27T18:51:34.879Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -2161,7 +2161,7 @@
         "open": false,
         "connected": true,
         "firstRound": 13,
-        "updatedAt": 1790534998906,
+        "updatedAt": 1790535089803,
         "champions": [
           {
             "code": "C01",
@@ -3319,10 +3319,10 @@
             "code": "B024",
             "version": 1,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 35,
-              "remaining": 31,
-              "text": "4/35 kills no torneio"
+              "remaining": 30,
+              "text": "5/35 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -6741,10 +6741,10 @@
             "code": "N0169",
             "createdAt": 1790518621805,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 7,
-              "remaining": 3,
-              "text": "4/7 kills no torneio"
+              "remaining": 2,
+              "text": "5/7 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -8332,13 +8332,13 @@
             "code": "N0234",
             "createdAt": 1790526734125,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 5,
-              "remaining": 1,
-              "text": "4/5 kills no torneio"
+              "remaining": 0,
+              "text": "5/5 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -12817,10 +12817,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 4,
+                  "current": 5,
                   "target": 35,
-                  "remaining": 31,
-                  "text": "4/35 kills no torneio"
+                  "remaining": 30,
+                  "text": "5/35 kills no torneio"
                 }
               },
               {
@@ -15828,10 +15828,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 4,
+                  "current": 5,
                   "target": 35,
-                  "remaining": 31,
-                  "text": "4/35 kills no torneio"
+                  "remaining": 30,
+                  "text": "5/35 kills no torneio"
                 }
               },
               {
