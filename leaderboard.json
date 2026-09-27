@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:01:42.030Z",
+  "updatedAt": "2026-09-27T18:03:30.273Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790532096969,
+        "updatedAt": 1790532205213,
         "champions": [
           {
             "code": "C01",
@@ -6813,8 +6813,8 @@
               "remaining": 2,
               "text": "2/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -7869,7 +7869,7 @@
               "text": "17/22 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -9673,8 +9673,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -11233,6 +11233,30 @@
               "target": 39,
               "remaining": 3,
               "text": "36/39 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 19,
+            "difficulty": "easy",
+            "evidence": "17 kills/11 jogos atuais; média 1.55",
+            "label": "19 kills no torneio",
+            "teamKey": "71ae89ef-0425-47b4-be1b-ed58713cef03:a2d547c8-4c04-4935-8949-ebb51b3c671b",
+            "teamName": "Mshary / BySaLva",
+            "playerIds": [
+              "71ae89ef-0425-47b4-be1b-ed58713cef03",
+              "a2d547c8-4c04-4935-8949-ebb51b3c671b"
+            ],
+            "version": 1,
+            "code": "N0365",
+            "createdAt": 1790532205220,
+            "progress": {
+              "current": 17,
+              "target": 19,
+              "remaining": 2,
+              "text": "17/19 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
