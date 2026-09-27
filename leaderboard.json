@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:19:44.986Z",
+  "updatedAt": "2026-09-27T17:21:13.126Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790529579941,
+        "updatedAt": 1790529668076,
         "champions": [
           {
             "code": "C01",
@@ -9699,6 +9699,30 @@
               "target": 7,
               "remaining": 1,
               "text": "6/7 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 14,
+            "difficulty": "easy",
+            "evidence": "12 kills/10 jogos atuais; média 1.20",
+            "label": "14 kills no torneio",
+            "teamKey": "05587202-00b9-408b-9e2a-9242f02d7812:6a7e6e0e-72ee-477b-9e08-f4919e17414a",
+            "teamName": "Slepzi / Wagers",
+            "playerIds": [
+              "05587202-00b9-408b-9e2a-9242f02d7812",
+              "6a7e6e0e-72ee-477b-9e08-f4919e17414a"
+            ],
+            "version": 1,
+            "code": "N0315",
+            "createdAt": 1790529668082,
+            "progress": {
+              "current": 12,
+              "target": 14,
+              "remaining": 2,
+              "text": "12/14 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
