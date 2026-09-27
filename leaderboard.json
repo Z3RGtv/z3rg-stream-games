@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:52:11.042Z",
+  "updatedAt": "2026-09-27T18:52:18.114Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -2161,7 +2161,7 @@
         "open": false,
         "connected": true,
         "firstRound": 13,
-        "updatedAt": 1790535130854,
+        "updatedAt": 1790535134662,
         "champions": [
           {
             "code": "C01",
@@ -4159,10 +4159,10 @@
             "code": "N0063",
             "createdAt": 1790438385581,
             "progress": {
-              "current": 14,
+              "current": 15,
               "target": 22,
-              "remaining": 8,
-              "text": "14/22 kills no torneio"
+              "remaining": 7,
+              "text": "15/22 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -5493,10 +5493,10 @@
             "code": "N0118",
             "createdAt": 1790467324753,
             "progress": {
-              "current": 14,
+              "current": 15,
               "target": 19,
-              "remaining": 5,
-              "text": "14/19 kills no torneio"
+              "remaining": 4,
+              "text": "15/19 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -6838,10 +6838,10 @@
             "code": "N0173",
             "createdAt": 1790522527650,
             "progress": {
-              "current": 14,
+              "current": 15,
               "target": 18,
-              "remaining": 4,
-              "text": "14/18 kills no torneio"
+              "remaining": 3,
+              "text": "15/18 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -10477,10 +10477,10 @@
             "code": "N0322",
             "createdAt": 1790530201647,
             "progress": {
-              "current": 14,
+              "current": 15,
               "target": 16,
-              "remaining": 2,
-              "text": "14/16 kills no torneio"
+              "remaining": 1,
+              "text": "15/16 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -11575,13 +11575,13 @@
             "code": "N0367",
             "createdAt": 1790532297326,
             "progress": {
-              "current": 14,
+              "current": 15,
               "target": 15,
-              "remaining": 1,
-              "text": "14/15 kills no torneio"
+              "remaining": 0,
+              "text": "15/15 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
