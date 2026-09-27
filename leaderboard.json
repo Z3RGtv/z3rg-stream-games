@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:30:52.216Z",
+  "updatedAt": "2026-09-27T17:31:28.486Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790530249036,
+        "updatedAt": 1790530286478,
         "champions": [
           {
             "code": "C01",
@@ -3177,10 +3177,10 @@
             "code": "B045",
             "version": 1,
             "progress": {
-              "current": 10,
+              "current": 12,
               "target": 30,
-              "remaining": 20,
-              "text": "10/30 kills no torneio"
+              "remaining": 18,
+              "text": "12/30 kills no torneio"
             },
             "available": false,
             "reason": "Poucos jogos para este objetivo"
@@ -8477,10 +8477,10 @@
             "code": "N0264",
             "createdAt": 1790526739788,
             "progress": {
-              "current": 10,
+              "current": 12,
               "target": 14,
-              "remaining": 4,
-              "text": "10/14 kills no torneio"
+              "remaining": 2,
+              "text": "12/14 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -8742,10 +8742,10 @@
             "code": "N0275",
             "createdAt": 1790526958462,
             "progress": {
-              "current": 10,
+              "current": 12,
               "target": 13,
-              "remaining": 3,
-              "text": "10/13 kills no torneio"
+              "remaining": 1,
+              "text": "12/13 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -9939,6 +9939,30 @@
               "target": 22,
               "remaining": 3,
               "text": "19/22 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 40,
+            "difficulty": "easy",
+            "evidence": "35 kills/10 jogos atuais; média 3.50",
+            "label": "40 kills no torneio",
+            "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
+            "teamName": "yuma / Koyota",
+            "playerIds": [
+              "72b80d98-d7d9-4670-ba31-ef9a208e2934",
+              "785aa4de-6a84-4a29-badb-195ba05a3e74"
+            ],
+            "version": 1,
+            "code": "N0325",
+            "createdAt": 1790530283429,
+            "progress": {
+              "current": 35,
+              "target": 40,
+              "remaining": 5,
+              "text": "35/40 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -11433,10 +11457,10 @@
                 "code": "B045",
                 "version": 1,
                 "progress": {
-                  "current": 10,
+                  "current": 12,
                   "target": 30,
-                  "remaining": 20,
-                  "text": "10/30 kills no torneio"
+                  "remaining": 18,
+                  "text": "12/30 kills no torneio"
                 }
               },
               {
@@ -12837,10 +12861,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 10,
+                  "current": 12,
                   "target": 30,
-                  "remaining": 20,
-                  "text": "10/30 kills no torneio"
+                  "remaining": 18,
+                  "text": "12/30 kills no torneio"
                 }
               },
               {
