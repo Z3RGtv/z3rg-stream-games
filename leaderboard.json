@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:22:10.773Z",
+  "updatedAt": "2026-09-27T15:22:16.150Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -34,7 +34,7 @@
         "open": true,
         "connected": true,
         "firstRound": 8,
-        "updatedAt": 1790522529043,
+        "updatedAt": 1790522534705,
         "champions": [
           {
             "code": "C01",
@@ -1089,8 +1089,8 @@
             "code": "B019",
             "version": 1,
             "progress": null,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "c51a36b2-50f5-45df-bf31-31abef2a7151:fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b",
@@ -1128,10 +1128,10 @@
             "code": "B021",
             "version": 1,
             "progress": {
-              "current": 3,
+              "current": 7,
               "target": 45,
-              "remaining": 42,
-              "text": "3/45 kills no torneio"
+              "remaining": 38,
+              "text": "7/45 kills no torneio"
             },
             "available": false,
             "reason": "Poucos jogos para este objetivo"
@@ -2008,10 +2008,10 @@
             "code": "N0062",
             "createdAt": 1790438385020,
             "progress": {
-              "current": 5,
+              "current": 6,
               "target": 22,
-              "remaining": 17,
-              "text": "5/22 kills no torneio"
+              "remaining": 16,
+              "text": "6/22 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -2128,10 +2128,10 @@
             "code": "N0067",
             "createdAt": 1790438388990,
             "progress": {
-              "current": 7,
+              "current": 9,
               "target": 13,
-              "remaining": 6,
-              "text": "7/13 kills no torneio"
+              "remaining": 4,
+              "text": "9/13 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -2370,10 +2370,10 @@
             "code": "N0077",
             "createdAt": 1790438694760,
             "progress": {
-              "current": 4,
+              "current": 8,
               "target": 13,
-              "remaining": 9,
-              "text": "4/13 kills no torneio"
+              "remaining": 5,
+              "text": "8/13 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -2394,10 +2394,10 @@
             "code": "N0078",
             "createdAt": 1790440662132,
             "progress": {
-              "current": 3,
+              "current": 4,
               "target": 3,
               "remaining": 0,
-              "text": "3/3 kills no torneio"
+              "text": "4/3 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -2538,13 +2538,13 @@
             "code": "N0084",
             "createdAt": 1790440828720,
             "progress": {
-              "current": 13,
+              "current": 19,
               "target": 18,
-              "remaining": 5,
-              "text": "13/18 kills no torneio"
+              "remaining": 0,
+              "text": "19/18 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -2592,8 +2592,8 @@
               "remaining": 1,
               "text": "3/4 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -2616,8 +2616,8 @@
               "remaining": 5,
               "text": "16/21 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -2902,10 +2902,10 @@
             "code": "N0099",
             "createdAt": 1790448637912,
             "progress": {
-              "current": 3,
+              "current": 4,
               "target": 5,
-              "remaining": 2,
-              "text": "3/5 kills no torneio"
+              "remaining": 1,
+              "text": "4/5 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -2999,10 +2999,10 @@
             "code": "N0103",
             "createdAt": 1790448768969,
             "progress": {
-              "current": 5,
+              "current": 6,
               "target": 9,
-              "remaining": 4,
-              "text": "5/9 kills no torneio"
+              "remaining": 3,
+              "text": "6/9 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -3072,10 +3072,10 @@
             "code": "N0106",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 7,
+              "current": 9,
               "target": 12,
-              "remaining": 5,
-              "text": "7/12 kills no torneio"
+              "remaining": 3,
+              "text": "9/12 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -3170,13 +3170,13 @@
             "code": "N0110",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 4,
+              "current": 8,
               "target": 7,
-              "remaining": 3,
-              "text": "4/7 kills no torneio"
+              "remaining": 0,
+              "text": "8/7 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -3488,10 +3488,10 @@
             "code": "N0123",
             "createdAt": 1790467324753,
             "progress": {
-              "current": 13,
+              "current": 19,
               "target": 22,
-              "remaining": 9,
-              "text": "13/22 kills no torneio"
+              "remaining": 3,
+              "text": "19/22 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -4840,6 +4840,79 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 28,
+            "difficulty": "easy",
+            "evidence": "19 kills/7 jogos atuais; média 2.71",
+            "label": "28 kills no torneio",
+            "teamKey": "14caafa7-dc96-4c28-b800-96bcd5b38e30:5b9f90e5-0d36-4431-9676-cfcc51e458bf",
+            "teamName": "Ajerss / Veno",
+            "playerIds": [
+              "14caafa7-dc96-4c28-b800-96bcd5b38e30",
+              "5b9f90e5-0d36-4431-9676-cfcc51e458bf"
+            ],
+            "version": 1,
+            "code": "N0179",
+            "createdAt": 1790522531116,
+            "progress": {
+              "current": 19,
+              "target": 28,
+              "remaining": 9,
+              "text": "19/28 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 14,
+            "difficulty": "easy",
+            "evidence": "9 kills/7 jogos atuais; média 1.29",
+            "label": "14 kills no torneio",
+            "teamKey": "234887ea-510f-41d4-8d59-e3042f944c6e:e5556b32-69cf-4e34-9919-8774adc4cac2",
+            "teamName": "Muz / Rise",
+            "playerIds": [
+              "234887ea-510f-41d4-8d59-e3042f944c6e",
+              "e5556b32-69cf-4e34-9919-8774adc4cac2"
+            ],
+            "version": 1,
+            "code": "N0180",
+            "createdAt": 1790522531931,
+            "progress": {
+              "current": 9,
+              "target": 14,
+              "remaining": 5,
+              "text": "9/14 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 7 jogos atuais; faltam 2",
+            "teamKey": "5a020a9f-cf1d-4dad-a99f-0f62c1877c68:b6744324-45d4-48fb-ba99-eb24bd5240a8",
+            "teamName": "Hcube / Encrypted",
+            "playerIds": [
+              "5a020a9f-cf1d-4dad-a99f-0f62c1877c68",
+              "b6744324-45d4-48fb-ba99-eb24bd5240a8"
+            ],
+            "version": 1,
+            "code": "N0181",
+            "createdAt": 1790522532568,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
           }
         ],
         "cards": [
@@ -6018,10 +6091,10 @@
                 "code": "N0077",
                 "createdAt": 1790438694760,
                 "progress": {
-                  "current": 4,
+                  "current": 8,
                   "target": 13,
-                  "remaining": 9,
-                  "text": "4/13 kills no torneio"
+                  "remaining": 5,
+                  "text": "8/13 kills no torneio"
                 }
               },
               {
@@ -6592,10 +6665,10 @@
                 "createdAt": 1790440828720,
                 "proof": null,
                 "progress": {
-                  "current": 13,
+                  "current": 19,
                   "target": 18,
-                  "remaining": 5,
-                  "text": "13/18 kills no torneio"
+                  "remaining": 0,
+                  "text": "19/18 kills no torneio"
                 }
               },
               {
@@ -6768,10 +6841,10 @@
                   "total": 3
                 },
                 "progress": {
-                  "current": 3,
+                  "current": 4,
                   "target": 3,
                   "remaining": 0,
-                  "text": "3/3 kills no torneio"
+                  "text": "4/3 kills no torneio"
                 }
               },
               {
@@ -6791,10 +6864,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 3,
+                  "current": 7,
                   "target": 45,
-                  "remaining": 42,
-                  "text": "3/45 kills no torneio"
+                  "remaining": 38,
+                  "text": "7/45 kills no torneio"
                 }
               },
               {
@@ -7154,10 +7227,10 @@
                   "total": 3
                 },
                 "progress": {
-                  "current": 3,
+                  "current": 4,
                   "target": 3,
                   "remaining": 0,
-                  "text": "3/3 kills no torneio"
+                  "text": "4/3 kills no torneio"
                 }
               },
               {
@@ -8381,30 +8454,30 @@
             "id": "twitch:932779495",
             "platform": "twitch",
             "name": "gui_z0",
-            "points": 300,
-            "exact": 3,
+            "points": 400,
+            "exact": 4,
             "near": 0,
-            "answered": 4,
+            "answered": 5,
             "rank": 1
           },
           {
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 300,
-            "exact": 3,
+            "points": 400,
+            "exact": 4,
             "near": 0,
-            "answered": 4,
+            "answered": 5,
             "rank": 1
           },
           {
             "id": "twitch:636817789",
             "platform": "twitch",
             "name": "hugoandre07",
-            "points": 300,
-            "exact": 3,
+            "points": 400,
+            "exact": 4,
             "near": 0,
-            "answered": 4,
+            "answered": 5,
             "rank": 1
           },
           {
@@ -8414,13 +8487,23 @@
             "points": 300,
             "exact": 3,
             "near": 0,
-            "answered": 4,
-            "rank": 1
+            "answered": 5,
+            "rank": 4
           },
           {
             "id": "twitch:972248156",
             "platform": "twitch",
             "name": "marquesrcarol",
+            "points": 200,
+            "exact": 2,
+            "near": 0,
+            "answered": 3,
+            "rank": 5
+          },
+          {
+            "id": "twitch:895327657",
+            "platform": "twitch",
+            "name": "z3rgtv",
             "points": 200,
             "exact": 2,
             "near": 0,
@@ -8435,7 +8518,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 6
+            "rank": 7
           },
           {
             "id": "twitch:1069376937",
@@ -8445,7 +8528,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 6
+            "rank": 7
           },
           {
             "id": "twitch:439693424",
@@ -8455,17 +8538,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 6
-          },
-          {
-            "id": "twitch:895327657",
-            "platform": "twitch",
-            "name": "z3rgtv",
-            "points": 100,
-            "exact": 1,
-            "near": 0,
-            "answered": 2,
-            "rank": 6
+            "rank": 7
           }
         ],
         "event": [
@@ -8473,11 +8546,21 @@
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 850,
-            "exact": 8,
+            "points": 950,
+            "exact": 9,
             "near": 1,
-            "answered": 11,
+            "answered": 12,
             "rank": 1
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
+            "points": 725,
+            "exact": 7,
+            "near": 1,
+            "answered": 13,
+            "rank": 2
           },
           {
             "id": "twitch:645555689",
@@ -8486,17 +8569,7 @@
             "points": 650,
             "exact": 6,
             "near": 1,
-            "answered": 12,
-            "rank": 2
-          },
-          {
-            "id": "twitch:932779495",
-            "platform": "twitch",
-            "name": "gui_z0",
-            "points": 625,
-            "exact": 6,
-            "near": 1,
-            "answered": 12,
+            "answered": 13,
             "rank": 3
           },
           {
@@ -8513,20 +8586,20 @@
             "id": "twitch:636817789",
             "platform": "twitch",
             "name": "hugoandre07",
-            "points": 350,
-            "exact": 3,
+            "points": 450,
+            "exact": 4,
             "near": 1,
-            "answered": 10,
+            "answered": 11,
             "rank": 5
           },
           {
             "id": "twitch:895327657",
             "platform": "twitch",
             "name": "z3rgtv",
-            "points": 350,
-            "exact": 3,
+            "points": 450,
+            "exact": 4,
             "near": 1,
-            "answered": 6,
+            "answered": 7,
             "rank": 5
           },
           {
@@ -8626,11 +8699,21 @@
           "id": "twitch:505385285",
           "platform": "twitch",
           "name": "hst_playz_pt",
-          "points": 850,
-          "exact": 8,
+          "points": 950,
+          "exact": 9,
           "near": 1,
-          "answered": 11,
+          "answered": 12,
           "rank": 1
+        },
+        {
+          "id": "twitch:932779495",
+          "platform": "twitch",
+          "name": "gui_z0",
+          "points": 725,
+          "exact": 7,
+          "near": 1,
+          "answered": 13,
+          "rank": 2
         },
         {
           "id": "twitch:645555689",
@@ -8639,17 +8722,7 @@
           "points": 650,
           "exact": 6,
           "near": 1,
-          "answered": 12,
-          "rank": 2
-        },
-        {
-          "id": "twitch:932779495",
-          "platform": "twitch",
-          "name": "gui_z0",
-          "points": 625,
-          "exact": 6,
-          "near": 1,
-          "answered": 12,
+          "answered": 13,
           "rank": 3
         },
         {
@@ -8666,20 +8739,20 @@
           "id": "twitch:636817789",
           "platform": "twitch",
           "name": "hugoandre07",
-          "points": 350,
-          "exact": 3,
+          "points": 450,
+          "exact": 4,
           "near": 1,
-          "answered": 10,
+          "answered": 11,
           "rank": 5
         },
         {
           "id": "twitch:895327657",
           "platform": "twitch",
           "name": "z3rgtv",
-          "points": 350,
-          "exact": 3,
+          "points": 450,
+          "exact": 4,
           "near": 1,
-          "answered": 6,
+          "answered": 7,
           "rank": 5
         },
         {
