@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:19:31.325Z",
+  "updatedAt": "2026-09-27T16:19:39.231Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -69,36 +69,36 @@
           "day": 2,
           "match": 3,
           "label": "Mack / Diguera termina sem kills?",
-          "status": "LOCKED",
-          "result": null,
+          "status": "SETTLED",
+          "result": "SIM",
           "answers": [
             {
               "id": "twitch:895327657",
               "name": "z3rgtv",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:134395626",
               "name": "minichef9",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:932779495",
               "name": "gui_z0",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:645555689",
               "name": "sheisdani",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 100
             }
           ]
         },
@@ -1391,7 +1391,7 @@
         "open": true,
         "connected": true,
         "firstRound": 9,
-        "updatedAt": 1790525966283,
+        "updatedAt": 1790525975017,
         "champions": [
           {
             "code": "C01",
@@ -3346,8 +3346,8 @@
               "remaining": 20,
               "text": "6/26 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -4337,8 +4337,8 @@
               "remaining": 1,
               "text": "9/10 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -10402,20 +10402,20 @@
             "rank": 1
           },
           {
+            "id": "twitch:645555689",
+            "platform": "twitch",
+            "name": "sheisdani",
+            "points": 725,
+            "exact": 7,
+            "near": 1,
+            "answered": 12,
+            "rank": 2
+          },
+          {
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
             "points": 650,
-            "exact": 6,
-            "near": 1,
-            "answered": 11,
-            "rank": 2
-          },
-          {
-            "id": "twitch:645555689",
-            "platform": "twitch",
-            "name": "sheisdani",
-            "points": 625,
             "exact": 6,
             "near": 1,
             "answered": 11,
@@ -10428,7 +10428,7 @@
             "points": 500,
             "exact": 5,
             "near": 0,
-            "answered": 10,
+            "answered": 11,
             "rank": 4
           },
           {
@@ -10438,7 +10438,7 @@
             "points": 425,
             "exact": 4,
             "near": 1,
-            "answered": 8,
+            "answered": 9,
             "rank": 5
           },
           {
@@ -10458,7 +10458,7 @@
             "points": 200,
             "exact": 2,
             "near": 0,
-            "answered": 3,
+            "answered": 4,
             "rank": 7
           },
           {
@@ -10527,10 +10527,10 @@
             "id": "twitch:645555689",
             "platform": "twitch",
             "name": "sheisdani",
-            "points": 975,
-            "exact": 9,
+            "points": 1075,
+            "exact": 10,
             "near": 2,
-            "answered": 19,
+            "answered": 20,
             "rank": 2
           },
           {
@@ -10550,7 +10550,7 @@
             "points": 825,
             "exact": 8,
             "near": 1,
-            "answered": 18,
+            "answered": 19,
             "rank": 4
           },
           {
@@ -10570,7 +10570,7 @@
             "points": 675,
             "exact": 6,
             "near": 2,
-            "answered": 12,
+            "answered": 13,
             "rank": 5
           },
           {
@@ -10600,7 +10600,7 @@
             "points": 200,
             "exact": 2,
             "near": 0,
-            "answered": 5,
+            "answered": 6,
             "rank": 7
           },
           {
@@ -10690,10 +10690,10 @@
           "id": "twitch:645555689",
           "platform": "twitch",
           "name": "sheisdani",
-          "points": 975,
-          "exact": 9,
+          "points": 1075,
+          "exact": 10,
           "near": 2,
-          "answered": 19,
+          "answered": 20,
           "rank": 2
         },
         {
@@ -10713,7 +10713,7 @@
           "points": 825,
           "exact": 8,
           "near": 1,
-          "answered": 18,
+          "answered": 19,
           "rank": 4
         },
         {
@@ -10733,7 +10733,7 @@
           "points": 675,
           "exact": 6,
           "near": 2,
-          "answered": 12,
+          "answered": 13,
           "rank": 5
         },
         {
@@ -10763,7 +10763,7 @@
           "points": 200,
           "exact": 2,
           "near": 0,
-          "answered": 5,
+          "answered": 6,
           "rank": 7
         },
         {
