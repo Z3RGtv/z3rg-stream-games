@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:03:52.068Z",
+  "updatedAt": "2026-09-27T16:03:58.514Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -7717,6 +7717,15 @@
                   "target": 9,
                   "remaining": 0,
                   "text": "9/9 kills no torneio"
+                },
+                "proof": {
+                  "sessionId": "0025d7932ef449c59c13bac77761672b",
+                  "kills": 3,
+                  "place": 16,
+                  "endedAt": 1790524860000,
+                  "round": 8,
+                  "day": 2,
+                  "total": 9
                 }
               },
               {
@@ -7760,7 +7769,7 @@
                 "progress": null
               }
             ],
-            "completed": 2,
+            "completed": 3,
             "lines": 0
           },
           {
@@ -8355,7 +8364,15 @@
                 "version": 1,
                 "code": "N0068",
                 "createdAt": 1790438389351,
-                "proof": null,
+                "proof": {
+                  "sessionId": "0025d7932ef449c59c13bac77761672b",
+                  "kills": 3,
+                  "place": 16,
+                  "endedAt": 1790524860000,
+                  "round": 8,
+                  "day": 2,
+                  "total": 9
+                },
                 "progress": {
                   "current": 9,
                   "target": 9,
@@ -8537,7 +8554,7 @@
                 "progress": null
               }
             ],
-            "completed": 5,
+            "completed": 6,
             "lines": 0
           },
           {
@@ -9691,12 +9708,12 @@
           }
         ],
         "overlay": {
-          "id": "64539e6e-bb33-489d-a525-114b0537a7a2",
+          "id": "d04104de-9518-4c53-a8d1-4d067429d599",
           "userId": "505385285",
-          "code": "N0133",
+          "code": "N0068",
           "completed": true,
-          "startAt": 1790525027017,
-          "expiresAt": 1790525033517,
+          "startAt": 1790525033517,
+          "expiresAt": 1790525040017,
           "card": {
             "userId": "505385285",
             "name": "hst_playz_pt",
@@ -10413,6 +10430,15 @@
                   "target": 9,
                   "remaining": 0,
                   "text": "9/9 kills no torneio"
+                },
+                "proof": {
+                  "sessionId": "0025d7932ef449c59c13bac77761672b",
+                  "kills": 3,
+                  "place": 16,
+                  "endedAt": 1790524860000,
+                  "round": 8,
+                  "day": 2,
+                  "total": 9
                 }
               },
               {
@@ -10456,7 +10482,7 @@
                 "progress": null
               }
             ],
-            "completed": 2,
+            "completed": 3,
             "lines": 0
           }
         }
