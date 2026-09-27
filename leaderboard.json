@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:31:28.486Z",
+  "updatedAt": "2026-09-27T17:31:33.599Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790530286478,
+        "updatedAt": 1790530291180,
         "champions": [
           {
             "code": "C01",
@@ -3617,13 +3617,13 @@
             "code": "N0065",
             "createdAt": 1790438387118,
             "progress": {
-              "current": 8,
+              "current": 12,
               "target": 17,
-              "remaining": 9,
-              "text": "8/17 kills no torneio"
+              "remaining": 5,
+              "text": "12/17 kills no torneio"
             },
-            "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -4390,10 +4390,10 @@
             "code": "N0097",
             "createdAt": 1790448505562,
             "progress": {
-              "current": 8,
+              "current": 12,
               "target": 8,
               "remaining": 0,
-              "text": "8/8 kills no torneio"
+              "text": "12/8 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -4664,8 +4664,8 @@
               "remaining": 1,
               "text": "2/3 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Em arquivo"
           },
           {
             "kind": "total",
@@ -5539,13 +5539,13 @@
             "code": "N0144",
             "createdAt": 1790518237968,
             "progress": {
-              "current": 8,
+              "current": 12,
               "target": 12,
-              "remaining": 4,
-              "text": "8/12 kills no torneio"
+              "remaining": 0,
+              "text": "12/12 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -6320,13 +6320,13 @@
             "code": "N0176",
             "createdAt": 1790522527862,
             "progress": {
-              "current": 8,
+              "current": 12,
               "target": 11,
-              "remaining": 3,
-              "text": "8/11 kills no torneio"
+              "remaining": 0,
+              "text": "12/11 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -8109,13 +8109,13 @@
             "code": "N0249",
             "createdAt": 1790526738123,
             "progress": {
-              "current": 8,
+              "current": 12,
               "target": 10,
-              "remaining": 2,
-              "text": "8/10 kills no torneio"
+              "remaining": 0,
+              "text": "12/10 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -9963,6 +9963,54 @@
               "target": 40,
               "remaining": 5,
               "text": "35/40 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 17,
+            "difficulty": "easy",
+            "evidence": "15 kills/10 jogos atuais; média 1.50",
+            "label": "17 kills no torneio",
+            "teamKey": "9b108368-8c3e-4364-b0c4-48d7bc9b4c06:ebbc1eda-a769-417e-b582-1b56d722c3f5",
+            "teamName": "Velo / Zynox",
+            "playerIds": [
+              "9b108368-8c3e-4364-b0c4-48d7bc9b4c06",
+              "ebbc1eda-a769-417e-b582-1b56d722c3f5"
+            ],
+            "version": 1,
+            "code": "N0326",
+            "createdAt": 1790530288552,
+            "progress": {
+              "current": 15,
+              "target": 17,
+              "remaining": 2,
+              "text": "15/17 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 14,
+            "difficulty": "easy",
+            "evidence": "12 kills/10 jogos atuais; média 1.20",
+            "label": "14 kills no torneio",
+            "teamKey": "278c95a8-671d-432d-a211-0578a5120e7b:55e5ae95-186e-4724-955a-14e57d0c5601",
+            "teamName": "5AALD / 27Q8",
+            "playerIds": [
+              "278c95a8-671d-432d-a211-0578a5120e7b",
+              "55e5ae95-186e-4724-955a-14e57d0c5601"
+            ],
+            "version": 1,
+            "code": "N0327",
+            "createdAt": 1790530291187,
+            "progress": {
+              "current": 12,
+              "target": 14,
+              "remaining": 2,
+              "text": "12/14 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -12251,10 +12299,10 @@
                 "createdAt": 1790438387118,
                 "proof": null,
                 "progress": {
-                  "current": 8,
+                  "current": 12,
                   "target": 17,
-                  "remaining": 9,
-                  "text": "8/17 kills no torneio"
+                  "remaining": 5,
+                  "text": "12/17 kills no torneio"
                 }
               },
               {
@@ -13319,10 +13367,10 @@
                 "createdAt": 1790438387118,
                 "proof": null,
                 "progress": {
-                  "current": 8,
+                  "current": 12,
                   "target": 17,
-                  "remaining": 9,
-                  "text": "8/17 kills no torneio"
+                  "remaining": 5,
+                  "text": "12/17 kills no torneio"
                 }
               },
               {
