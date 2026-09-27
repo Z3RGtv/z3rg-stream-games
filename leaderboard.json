@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:57:41.062Z",
+  "updatedAt": "2026-09-27T15:58:23.642Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1270,7 +1270,7 @@
         "open": true,
         "connected": true,
         "firstRound": 9,
-        "updatedAt": 1790524658104,
+        "updatedAt": 1790524701848,
         "champions": [
           {
             "code": "C01",
@@ -3340,10 +3340,10 @@
             "code": "N0066",
             "createdAt": 1790438388806,
             "progress": {
-              "current": 13,
+              "current": 16,
               "target": 13,
               "remaining": 0,
-              "text": "13/13 kills no torneio"
+              "text": "16/13 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -3582,10 +3582,10 @@
             "code": "N0076",
             "createdAt": 1790438694579,
             "progress": {
-              "current": 14,
+              "current": 15,
               "target": 9,
               "remaining": 0,
-              "text": "14/9 kills no torneio"
+              "text": "15/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -4187,10 +4187,10 @@
             "code": "N0101",
             "createdAt": 1790448643778,
             "progress": {
-              "current": 13,
+              "current": 16,
               "target": 20,
-              "remaining": 7,
-              "text": "13/20 kills no torneio"
+              "remaining": 4,
+              "text": "16/20 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -4382,10 +4382,10 @@
             "code": "N0109",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 14,
+              "current": 15,
               "target": 20,
-              "remaining": 6,
-              "text": "14/20 kills no torneio"
+              "remaining": 5,
+              "text": "15/20 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -6991,10 +6991,10 @@
                   "total": 13
                 },
                 "progress": {
-                  "current": 13,
+                  "current": 16,
                   "target": 13,
                   "remaining": 0,
-                  "text": "13/13 kills no torneio"
+                  "text": "16/13 kills no torneio"
                 }
               }
             ],
@@ -7974,10 +7974,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 14,
+                  "current": 15,
                   "target": 9,
                   "remaining": 0,
-                  "text": "14/9 kills no torneio"
+                  "text": "15/9 kills no torneio"
                 }
               },
               {
@@ -8735,10 +8735,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 14,
+                  "current": 15,
                   "target": 9,
                   "remaining": 0,
-                  "text": "14/9 kills no torneio"
+                  "text": "15/9 kills no torneio"
                 }
               },
               {
@@ -9260,10 +9260,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 14,
+                  "current": 15,
                   "target": 9,
                   "remaining": 0,
-                  "text": "14/9 kills no torneio"
+                  "text": "15/9 kills no torneio"
                 }
               },
               {
