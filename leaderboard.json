@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:13:06.856Z",
+  "updatedAt": "2026-09-27T18:13:14.911Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,50 +31,50 @@
           "day": 2,
           "match": 5,
           "label": "5AALD / 27Q8 melhora o 30.º lugar da partida anterior?",
-          "status": "LOCKED",
-          "result": null,
+          "status": "SETTLED",
+          "result": "NÃO",
           "answers": [
             {
               "id": "twitch:505385285",
               "name": "hst_playz_pt",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:895327657",
               "name": "z3rgtv",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:645555689",
               "name": "sheisdani",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:134395626",
               "name": "minichef9",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:491270065",
               "name": "manodrico",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:932779495",
               "name": "gui_z0",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             }
           ]
         },
@@ -1887,7 +1887,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790532785606,
+        "updatedAt": 1790532791253,
         "champions": [
           {
             "code": "C01",
@@ -11380,6 +11380,54 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 13,
+            "difficulty": "easy",
+            "evidence": "12 kills/11 jogos atuais; média 1.09",
+            "label": "13 kills no torneio",
+            "teamKey": "05587202-00b9-408b-9e2a-9242f02d7812:6a7e6e0e-72ee-477b-9e08-f4919e17414a",
+            "teamName": "Slepzi / Wagers",
+            "playerIds": [
+              "05587202-00b9-408b-9e2a-9242f02d7812",
+              "6a7e6e0e-72ee-477b-9e08-f4919e17414a"
+            ],
+            "version": 1,
+            "code": "N0371",
+            "createdAt": 1790532789859,
+            "progress": {
+              "current": 12,
+              "target": 13,
+              "remaining": 1,
+              "text": "12/13 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 13,
+            "difficulty": "easy",
+            "evidence": "12 kills/11 jogos atuais; média 1.09",
+            "label": "13 kills no torneio",
+            "teamKey": "278c95a8-671d-432d-a211-0578a5120e7b:55e5ae95-186e-4724-955a-14e57d0c5601",
+            "teamName": "5AALD / 27Q8",
+            "playerIds": [
+              "278c95a8-671d-432d-a211-0578a5120e7b",
+              "55e5ae95-186e-4724-955a-14e57d0c5601"
+            ],
+            "version": 1,
+            "code": "N0372",
+            "createdAt": 1790532791261,
+            "progress": {
+              "current": 12,
+              "target": 13,
+              "remaining": 1,
+              "text": "12/13 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
           }
         ],
         "cards": [
@@ -16092,10 +16140,10 @@
             "id": "twitch:645555689",
             "platform": "twitch",
             "name": "sheisdani",
-            "points": 1275,
-            "exact": 12,
+            "points": 1375,
+            "exact": 13,
             "near": 2,
-            "answered": 19,
+            "answered": 20,
             "rank": 1
           },
           {
@@ -16112,21 +16160,31 @@
             "id": "twitch:895327657",
             "platform": "twitch",
             "name": "z3rgtv",
-            "points": 875,
-            "exact": 8,
+            "points": 975,
+            "exact": 9,
             "near": 2,
-            "answered": 15,
+            "answered": 16,
             "rank": 3
           },
           {
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 750,
-            "exact": 7,
+            "points": 850,
+            "exact": 8,
             "near": 1,
-            "answered": 12,
+            "answered": 13,
             "rank": 4
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
+            "points": 800,
+            "exact": 8,
+            "near": 0,
+            "answered": 16,
+            "rank": 5
           },
           {
             "id": "twitch:972248156",
@@ -16136,26 +16194,16 @@
             "exact": 7,
             "near": 2,
             "answered": 14,
-            "rank": 4
-          },
-          {
-            "id": "twitch:932779495",
-            "platform": "twitch",
-            "name": "gui_z0",
-            "points": 700,
-            "exact": 7,
-            "near": 0,
-            "answered": 15,
             "rank": 6
           },
           {
             "id": "twitch:134395626",
             "platform": "twitch",
             "name": "minichef9",
-            "points": 350,
-            "exact": 3,
+            "points": 450,
+            "exact": 4,
             "near": 1,
-            "answered": 6,
+            "answered": 7,
             "rank": 7
           },
           {
@@ -16227,6 +16275,16 @@
             "near": 0,
             "answered": 1,
             "rank": 10
+          },
+          {
+            "id": "twitch:491270065",
+            "platform": "twitch",
+            "name": "manodrico",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
+            "rank": 15
           }
         ],
         "event": [
@@ -16234,31 +16292,41 @@
             "id": "twitch:645555689",
             "platform": "twitch",
             "name": "sheisdani",
-            "points": 1625,
-            "exact": 15,
+            "points": 1725,
+            "exact": 16,
             "near": 3,
-            "answered": 27,
+            "answered": 28,
             "rank": 1
           },
           {
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 1300,
-            "exact": 12,
+            "points": 1400,
+            "exact": 13,
             "near": 2,
-            "answered": 19,
+            "answered": 20,
             "rank": 2
           },
           {
             "id": "twitch:895327657",
             "platform": "twitch",
             "name": "z3rgtv",
-            "points": 1125,
-            "exact": 10,
+            "points": 1225,
+            "exact": 11,
             "near": 3,
-            "answered": 19,
+            "answered": 20,
             "rank": 3
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
+            "points": 1125,
+            "exact": 11,
+            "near": 1,
+            "answered": 24,
+            "rank": 4
           },
           {
             "id": "twitch:972248156",
@@ -16268,7 +16336,7 @@
             "exact": 10,
             "near": 3,
             "answered": 22,
-            "rank": 4
+            "rank": 5
           },
           {
             "id": "twitch:636817789",
@@ -16278,26 +16346,16 @@
             "exact": 10,
             "near": 1,
             "answered": 19,
-            "rank": 5
-          },
-          {
-            "id": "twitch:932779495",
-            "platform": "twitch",
-            "name": "gui_z0",
-            "points": 1025,
-            "exact": 10,
-            "near": 1,
-            "answered": 23,
             "rank": 6
           },
           {
             "id": "twitch:134395626",
             "platform": "twitch",
             "name": "minichef9",
-            "points": 350,
-            "exact": 3,
+            "points": 450,
+            "exact": 4,
             "near": 1,
-            "answered": 8,
+            "answered": 9,
             "rank": 7
           },
           {
@@ -16308,7 +16366,7 @@
             "exact": 3,
             "near": 1,
             "answered": 8,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:1119954079",
@@ -16399,6 +16457,16 @@
             "near": 0,
             "answered": 1,
             "rank": 16
+          },
+          {
+            "id": "twitch:491270065",
+            "platform": "twitch",
+            "name": "manodrico",
+            "points": 0,
+            "exact": 0,
+            "near": 0,
+            "answered": 1,
+            "rank": 16
           }
         ]
       },
@@ -16407,31 +16475,41 @@
           "id": "twitch:645555689",
           "platform": "twitch",
           "name": "sheisdani",
-          "points": 1625,
-          "exact": 15,
+          "points": 1725,
+          "exact": 16,
           "near": 3,
-          "answered": 27,
+          "answered": 28,
           "rank": 1
         },
         {
           "id": "twitch:505385285",
           "platform": "twitch",
           "name": "hst_playz_pt",
-          "points": 1300,
-          "exact": 12,
+          "points": 1400,
+          "exact": 13,
           "near": 2,
-          "answered": 19,
+          "answered": 20,
           "rank": 2
         },
         {
           "id": "twitch:895327657",
           "platform": "twitch",
           "name": "z3rgtv",
-          "points": 1125,
-          "exact": 10,
+          "points": 1225,
+          "exact": 11,
           "near": 3,
-          "answered": 19,
+          "answered": 20,
           "rank": 3
+        },
+        {
+          "id": "twitch:932779495",
+          "platform": "twitch",
+          "name": "gui_z0",
+          "points": 1125,
+          "exact": 11,
+          "near": 1,
+          "answered": 24,
+          "rank": 4
         },
         {
           "id": "twitch:972248156",
@@ -16441,7 +16519,7 @@
           "exact": 10,
           "near": 3,
           "answered": 22,
-          "rank": 4
+          "rank": 5
         },
         {
           "id": "twitch:636817789",
@@ -16451,26 +16529,16 @@
           "exact": 10,
           "near": 1,
           "answered": 19,
-          "rank": 5
-        },
-        {
-          "id": "twitch:932779495",
-          "platform": "twitch",
-          "name": "gui_z0",
-          "points": 1025,
-          "exact": 10,
-          "near": 1,
-          "answered": 23,
           "rank": 6
         },
         {
           "id": "twitch:134395626",
           "platform": "twitch",
           "name": "minichef9",
-          "points": 350,
-          "exact": 3,
+          "points": 450,
+          "exact": 4,
           "near": 1,
-          "answered": 8,
+          "answered": 9,
           "rank": 7
         },
         {
@@ -16481,7 +16549,7 @@
           "exact": 3,
           "near": 1,
           "answered": 8,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "twitch:1119954079",
@@ -16567,6 +16635,16 @@
           "id": "twitch:1352711259",
           "platform": "twitch",
           "name": "igl_migaas",
+          "points": 0,
+          "exact": 0,
+          "near": 0,
+          "answered": 1,
+          "rank": 16
+        },
+        {
+          "id": "twitch:491270065",
+          "platform": "twitch",
+          "name": "manodrico",
           "points": 0,
           "exact": 0,
           "near": 0,
