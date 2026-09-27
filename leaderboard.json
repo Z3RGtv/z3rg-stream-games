@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:37:02.258Z",
+  "updatedAt": "2026-09-27T17:37:23.343Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790530601582,
+        "updatedAt": 1790530640403,
         "champions": [
           {
             "code": "C01",
@@ -2409,10 +2409,10 @@
             "code": "B009",
             "version": 1,
             "progress": {
-              "current": 32,
+              "current": 35,
               "target": 50,
-              "remaining": 18,
-              "text": "32/50 kills no torneio"
+              "remaining": 15,
+              "text": "35/50 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -3049,13 +3049,13 @@
             "code": "B039",
             "version": 1,
             "progress": {
-              "current": 21,
+              "current": 33,
               "target": 30,
-              "remaining": 9,
-              "text": "21/30 kills no torneio"
+              "remaining": 0,
+              "text": "33/30 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
@@ -3113,13 +3113,13 @@
             "code": "B042",
             "version": 1,
             "progress": {
-              "current": 26,
+              "current": 35,
               "target": 35,
-              "remaining": 9,
-              "text": "26/35 kills no torneio"
+              "remaining": 0,
+              "text": "35/35 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "6f29ff7f-0061-40da-bccc-9c18d5c8db42:ae8ac6f7-115f-4d8e-a2da-979848ae9f7a",
@@ -3593,10 +3593,10 @@
             "code": "N0064",
             "createdAt": 1790438385581,
             "progress": {
-              "current": 21,
+              "current": 33,
               "target": 9,
               "remaining": 0,
-              "text": "21/9 kills no torneio"
+              "text": "33/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -5796,7 +5796,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 5,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "5 jogos no top 15",
             "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
             "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
@@ -5809,13 +5809,13 @@
             "code": "N0155",
             "createdAt": 1790518615703,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 5,
-              "remaining": 1,
-              "text": "4/5 top 15 no torneio"
+              "remaining": 0,
+              "text": "5/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -5834,10 +5834,10 @@
             "code": "N0156",
             "createdAt": 1790518615703,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 4,
               "remaining": 0,
-              "text": "4/4 top 15 no torneio"
+              "text": "5/4 top 15 no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -5858,13 +5858,13 @@
             "code": "N0157",
             "createdAt": 1790518615703,
             "progress": {
-              "current": 26,
+              "current": 35,
               "target": 29,
-              "remaining": 3,
-              "text": "26/29 kills no torneio"
+              "remaining": 0,
+              "text": "35/29 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -6924,7 +6924,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 7,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "7 jogos no top 15",
             "evidence": "5 top 15 em 8 jogos atuais; faltam 2",
             "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
@@ -6937,13 +6937,13 @@
             "code": "N0201",
             "createdAt": 1790526687584,
             "progress": {
-              "current": 6,
+              "current": 7,
               "target": 7,
-              "remaining": 1,
-              "text": "6/7 top 15 no torneio"
+              "remaining": 0,
+              "text": "7/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -6962,10 +6962,10 @@
             "code": "N0202",
             "createdAt": 1790526687584,
             "progress": {
-              "current": 6,
+              "current": 7,
               "target": 6,
               "remaining": 0,
-              "text": "6/6 top 15 no torneio"
+              "text": "7/6 top 15 no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6986,10 +6986,10 @@
             "code": "N0203",
             "createdAt": 1790526687584,
             "progress": {
-              "current": 32,
+              "current": 35,
               "target": 42,
-              "remaining": 10,
-              "text": "32/42 kills no torneio"
+              "remaining": 7,
+              "text": "35/42 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -7559,7 +7559,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 7,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "7 jogos no top 15",
             "evidence": "5 top 15 em 8 jogos atuais; faltam 2",
             "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
@@ -7572,19 +7572,19 @@
             "code": "N0227",
             "createdAt": 1790526733530,
             "progress": {
-              "current": 5,
+              "current": 6,
               "target": 7,
-              "remaining": 2,
-              "text": "5/7 top 15 no torneio"
+              "remaining": 1,
+              "text": "6/7 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Em arquivo"
           },
           {
             "kind": "countTop",
             "place": 15,
             "threshold": 6,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "6 jogos no top 15",
             "evidence": "5 top 15 em 8 jogos atuais",
             "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
@@ -7597,13 +7597,13 @@
             "code": "N0228",
             "createdAt": 1790526733530,
             "progress": {
-              "current": 5,
+              "current": 6,
               "target": 6,
-              "remaining": 1,
-              "text": "5/6 top 15 no torneio"
+              "remaining": 0,
+              "text": "6/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -7621,13 +7621,13 @@
             "code": "N0229",
             "createdAt": 1790526733530,
             "progress": {
-              "current": 21,
+              "current": 33,
               "target": 26,
-              "remaining": 5,
-              "text": "21/26 kills no torneio"
+              "remaining": 0,
+              "text": "33/26 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -8598,13 +8598,13 @@
             "code": "N0269",
             "createdAt": 1790526775787,
             "progress": {
-              "current": 26,
+              "current": 35,
               "target": 27,
-              "remaining": 1,
-              "text": "26/27 kills no torneio"
+              "remaining": 0,
+              "text": "35/27 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -9044,7 +9044,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 8,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "8 jogos no top 15",
             "evidence": "6 top 15 em 9 jogos atuais; faltam 2",
             "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
@@ -9057,13 +9057,13 @@
             "code": "N0288",
             "createdAt": 1790527089014,
             "progress": {
-              "current": 6,
+              "current": 7,
               "target": 8,
-              "remaining": 2,
-              "text": "6/8 top 15 no torneio"
+              "remaining": 1,
+              "text": "7/8 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Em arquivo"
           },
           {
             "kind": "total",
@@ -9081,10 +9081,10 @@
             "code": "N0289",
             "createdAt": 1790527089014,
             "progress": {
-              "current": 32,
+              "current": 35,
               "target": 39,
-              "remaining": 7,
-              "text": "32/39 kills no torneio"
+              "remaining": 4,
+              "text": "35/39 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -9191,7 +9191,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 6,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "6 jogos no top 15",
             "evidence": "4 top 15 em 9 jogos atuais; faltam 2",
             "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
@@ -9204,10 +9204,10 @@
             "code": "N0294",
             "createdAt": 1790527093825,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 6,
-              "remaining": 2,
-              "text": "4/6 top 15 no torneio"
+              "remaining": 1,
+              "text": "5/6 top 15 no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -9228,13 +9228,13 @@
             "code": "N0295",
             "createdAt": 1790527093825,
             "progress": {
-              "current": 26,
+              "current": 35,
               "target": 32,
-              "remaining": 6,
-              "text": "26/32 kills no torneio"
+              "remaining": 0,
+              "text": "35/32 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -9258,8 +9258,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "countTop",
@@ -9283,8 +9283,8 @@
               "remaining": 2,
               "text": "5/7 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "countTop",
@@ -10675,6 +10675,153 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 9,
+            "difficulty": "medium",
+            "label": "9 jogos no top 15",
+            "evidence": "7 top 15 em 10 jogos atuais; faltam 2",
+            "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
+            "teamName": "Shxrk / t3eny",
+            "playerIds": [
+              "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4",
+              "e7987ee7-c7fa-43dd-8142-52eedc06af2f"
+            ],
+            "version": 1,
+            "code": "N0355",
+            "createdAt": 1790530638290,
+            "progress": {
+              "current": 7,
+              "target": 9,
+              "remaining": 2,
+              "text": "7/9 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 40,
+            "difficulty": "easy",
+            "evidence": "35 kills/10 jogos atuais; média 3.50",
+            "label": "40 kills no torneio",
+            "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
+            "teamName": "Shxrk / t3eny",
+            "playerIds": [
+              "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4",
+              "e7987ee7-c7fa-43dd-8142-52eedc06af2f"
+            ],
+            "version": 1,
+            "code": "N0356",
+            "createdAt": 1790530638291,
+            "progress": {
+              "current": 35,
+              "target": 40,
+              "remaining": 5,
+              "text": "35/40 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 8,
+            "difficulty": "medium",
+            "label": "8 jogos no top 15",
+            "evidence": "6 top 15 em 10 jogos atuais; faltam 2",
+            "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
+            "teamName": "SwizzY / Pixie",
+            "playerIds": [
+              "072e8b9f-8188-405a-b0eb-52544e1dc906",
+              "b39cded9-3b0f-4aa5-9ffd-adf0db18e853"
+            ],
+            "version": 1,
+            "code": "N0357",
+            "createdAt": 1790530639676,
+            "progress": {
+              "current": 6,
+              "target": 8,
+              "remaining": 2,
+              "text": "6/8 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 38,
+            "difficulty": "easy",
+            "evidence": "33 kills/10 jogos atuais; média 3.30",
+            "label": "38 kills no torneio",
+            "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
+            "teamName": "SwizzY / Pixie",
+            "playerIds": [
+              "072e8b9f-8188-405a-b0eb-52544e1dc906",
+              "b39cded9-3b0f-4aa5-9ffd-adf0db18e853"
+            ],
+            "version": 1,
+            "code": "N0358",
+            "createdAt": 1790530639676,
+            "progress": {
+              "current": 33,
+              "target": 38,
+              "remaining": 5,
+              "text": "33/38 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 7,
+            "difficulty": "medium",
+            "label": "7 jogos no top 15",
+            "evidence": "5 top 15 em 10 jogos atuais; faltam 2",
+            "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
+            "teamName": "Tjino / PabloWingu",
+            "playerIds": [
+              "137b42eb-15ad-4c0e-aed6-68678ef884a6",
+              "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
+            ],
+            "version": 1,
+            "code": "N0359",
+            "createdAt": 1790530640409,
+            "progress": {
+              "current": 5,
+              "target": 7,
+              "remaining": 2,
+              "text": "5/7 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 40,
+            "difficulty": "easy",
+            "evidence": "35 kills/10 jogos atuais; média 3.50",
+            "label": "40 kills no torneio",
+            "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
+            "teamName": "Tjino / PabloWingu",
+            "playerIds": [
+              "137b42eb-15ad-4c0e-aed6-68678ef884a6",
+              "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
+            ],
+            "version": 1,
+            "code": "N0360",
+            "createdAt": 1790530640409,
+            "progress": {
+              "current": 35,
+              "target": 40,
+              "remaining": 5,
+              "text": "35/40 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
           }
         ],
         "cards": [
@@ -10758,10 +10905,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 21,
+                  "current": 33,
                   "target": 30,
-                  "remaining": 9,
-                  "text": "21/30 kills no torneio"
+                  "remaining": 0,
+                  "text": "33/30 kills no torneio"
                 }
               },
               {
@@ -12069,10 +12216,10 @@
                 "code": "N0155",
                 "createdAt": 1790518615703,
                 "progress": {
-                  "current": 4,
+                  "current": 5,
                   "target": 5,
-                  "remaining": 1,
-                  "text": "4/5 top 15 no torneio"
+                  "remaining": 0,
+                  "text": "5/5 top 15 no torneio"
                 }
               },
               {
@@ -12833,10 +12980,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 21,
+                  "current": 33,
                   "target": 30,
-                  "remaining": 9,
-                  "text": "21/30 kills no torneio"
+                  "remaining": 0,
+                  "text": "33/30 kills no torneio"
                 }
               },
               {
@@ -14282,10 +14429,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 32,
+                  "current": 35,
                   "target": 50,
-                  "remaining": 18,
-                  "text": "32/50 kills no torneio"
+                  "remaining": 15,
+                  "text": "35/50 kills no torneio"
                 }
               }
             ],
@@ -14882,10 +15029,10 @@
                 "code": "B009",
                 "version": 1,
                 "progress": {
-                  "current": 32,
+                  "current": 35,
                   "target": 50,
-                  "remaining": 18,
-                  "text": "32/50 kills no torneio"
+                  "remaining": 15,
+                  "text": "35/50 kills no torneio"
                 }
               },
               {
@@ -15145,10 +15292,10 @@
                 "code": "N0155",
                 "createdAt": 1790518615703,
                 "progress": {
-                  "current": 4,
+                  "current": 5,
                   "target": 5,
-                  "remaining": 1,
-                  "text": "4/5 top 15 no torneio"
+                  "remaining": 0,
+                  "text": "5/5 top 15 no torneio"
                 }
               }
             ],
@@ -15156,432 +15303,7 @@
             "lines": 0
           }
         ],
-        "overlay": {
-          "id": "8bdc08f2-7a59-471e-b1be-65d27f31f76e",
-          "userId": "164609804",
-          "code": "N0074",
-          "completed": true,
-          "startAt": 1790530617213,
-          "expiresAt": 1790530623713,
-          "card": {
-            "userId": "164609804",
-            "name": "soniagoncalves",
-            "createdAt": 1790445670676,
-            "firstRound": 6,
-            "cells": [
-              {
-                "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
-                "teamName": "Resignz / Tinka",
-                "playerIds": [
-                  "15221258-a561-4a82-89d6-60cb116aa4d2",
-                  "22cf7972-39f5-42ca-af59-7660403c97a6"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "single",
-                "kills": 0,
-                "place": 15,
-                "difficulty": "medium",
-                "label": "Top 15",
-                "evidence": "2/8 jogos",
-                "code": "B053",
-                "version": 1,
-                "proof": {
-                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
-                  "kills": 0,
-                  "place": 15,
-                  "endedAt": 1790448480000,
-                  "round": 6,
-                  "day": 1
-                },
-                "progress": null
-              },
-              {
-                "teamKey": "77999a7f-609d-40bb-b621-223df590b4d2:f899b6ef-72c7-4f03-af0a-eca85b2bedca",
-                "teamName": "Lewa / Romero",
-                "playerIds": [
-                  "77999a7f-609d-40bb-b621-223df590b4d2",
-                  "f899b6ef-72c7-4f03-af0a-eca85b2bedca"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "total",
-                "threshold": 20,
-                "difficulty": "hard",
-                "label": "20 kills no torneio",
-                "evidence": "12/8 jogos; referência 12 jogos: 18",
-                "code": "B057",
-                "version": 1,
-                "proof": {
-                  "sessionId": "15b5314de44c4d39bd2a3c928540ec72",
-                  "kills": 5,
-                  "place": 16,
-                  "endedAt": 1790522400000,
-                  "round": 7,
-                  "day": 2,
-                  "total": 24
-                },
-                "progress": {
-                  "current": 28,
-                  "target": 20,
-                  "remaining": 0,
-                  "text": "28/20 kills no torneio"
-                }
-              },
-              {
-                "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
-                "teamName": "SwizzY / Pixie",
-                "playerIds": [
-                  "072e8b9f-8188-405a-b0eb-52544e1dc906",
-                  "b39cded9-3b0f-4aa5-9ffd-adf0db18e853"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "total",
-                "threshold": 30,
-                "difficulty": "hard",
-                "label": "30 kills no torneio",
-                "evidence": "16/8 jogos; referência 12 jogos: 24",
-                "code": "B039",
-                "version": 1,
-                "proof": null,
-                "progress": {
-                  "current": 21,
-                  "target": 30,
-                  "remaining": 9,
-                  "text": "21/30 kills no torneio"
-                }
-              },
-              {
-                "kind": "countTop",
-                "place": 15,
-                "threshold": 3,
-                "difficulty": "medium",
-                "label": "3 jogos no top 15",
-                "evidence": "2 top 15 em 2 jogos atuais",
-                "teamKey": "9b108368-8c3e-4364-b0c4-48d7bc9b4c06:ebbc1eda-a769-417e-b582-1b56d722c3f5",
-                "teamName": "Velo / Zynox",
-                "playerIds": [
-                  "9b108368-8c3e-4364-b0c4-48d7bc9b4c06",
-                  "ebbc1eda-a769-417e-b582-1b56d722c3f5"
-                ],
-                "version": 1,
-                "code": "N0070",
-                "createdAt": 1790438676727,
-                "proof": null,
-                "progress": {
-                  "current": 2,
-                  "target": 3,
-                  "remaining": 1,
-                  "text": "2/3 top 15 no torneio"
-                }
-              },
-              {
-                "teamKey": "2fc6c760-b950-4e61-87cd-e71d86d314c8:990f29fa-76f9-482f-8078-20dd4807f464",
-                "teamName": "Cr1nge / Twi",
-                "playerIds": [
-                  "2fc6c760-b950-4e61-87cd-e71d86d314c8",
-                  "990f29fa-76f9-482f-8078-20dd4807f464"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "total",
-                "threshold": 25,
-                "difficulty": "hard",
-                "label": "25 kills no torneio",
-                "evidence": "15/8 jogos; referência 12 jogos: 22.5",
-                "code": "B048",
-                "version": 1,
-                "proof": {
-                  "sessionId": "16bc3e1c09dd46d89711623f2e165eea",
-                  "kills": 3,
-                  "place": 4,
-                  "endedAt": 1790527080000,
-                  "round": 9,
-                  "day": 2,
-                  "total": 25
-                },
-                "progress": {
-                  "current": 28,
-                  "target": 25,
-                  "remaining": 0,
-                  "text": "28/25 kills no torneio"
-                }
-              },
-              {
-                "kind": "total",
-                "threshold": 22,
-                "difficulty": "easy",
-                "evidence": "5 kills/2 jogos atuais; média 2.50",
-                "label": "22 kills no torneio",
-                "teamKey": "2b3da27c-62d1-4887-bd6d-aa865df33487:ef29a568-e9c1-45a7-85da-2903fe81114b",
-                "teamName": "IDrop / Ghonzo",
-                "playerIds": [
-                  "2b3da27c-62d1-4887-bd6d-aa865df33487",
-                  "ef29a568-e9c1-45a7-85da-2903fe81114b"
-                ],
-                "version": 1,
-                "code": "N0074",
-                "createdAt": 1790438692518,
-                "proof": {
-                  "sessionId": "1b4264a019694dc49fa79f6f43bd909d",
-                  "kills": 5,
-                  "place": 6,
-                  "endedAt": 1790530500000,
-                  "round": 10,
-                  "day": 2,
-                  "total": 23
-                },
-                "progress": {
-                  "current": 23,
-                  "target": 22,
-                  "remaining": 0,
-                  "text": "23/22 kills no torneio"
-                }
-              },
-              {
-                "kind": "total",
-                "threshold": 18,
-                "difficulty": "easy",
-                "evidence": "6 kills/3 jogos atuais; média 2.00",
-                "label": "18 kills no torneio",
-                "teamKey": "3ce9c64d-8286-4894-80d1-aceeb206589a:52447924-0707-4052-a08c-be04c830726d",
-                "teamName": "Higgs / Curve",
-                "playerIds": [
-                  "3ce9c64d-8286-4894-80d1-aceeb206589a",
-                  "52447924-0707-4052-a08c-be04c830726d"
-                ],
-                "version": 1,
-                "code": "N0081",
-                "createdAt": 1790440789909,
-                "proof": {
-                  "sessionId": "15b5314de44c4d39bd2a3c928540ec72",
-                  "kills": 5,
-                  "place": 2,
-                  "endedAt": 1790522520000,
-                  "round": 7,
-                  "day": 2,
-                  "total": 22
-                },
-                "progress": {
-                  "current": 27,
-                  "target": 18,
-                  "remaining": 0,
-                  "text": "27/18 kills no torneio"
-                }
-              },
-              {
-                "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
-                "teamName": "Peterbot / Pollo",
-                "playerIds": [
-                  "45ce4565-b6db-452c-9419-119b12e7eac3",
-                  "9868429b-133a-42b8-a43f-737887da4673"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "single",
-                "kills": 0,
-                "place": 5,
-                "difficulty": "medium",
-                "label": "Top 5",
-                "evidence": "3/8 jogos",
-                "code": "B005",
-                "version": 1,
-                "proof": {
-                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
-                  "kills": 5,
-                  "place": 3,
-                  "endedAt": 1790448600000,
-                  "round": 6,
-                  "day": 1
-                },
-                "progress": null
-              },
-              {
-                "kind": "total",
-                "threshold": 13,
-                "difficulty": "easy",
-                "evidence": "3 kills/2 jogos atuais; média 1.50",
-                "label": "13 kills no torneio",
-                "teamKey": "0865dd0c-cabd-4156-aa6e-7757f9b5b753:b98790d7-278b-4169-947b-3c932c3a6af0",
-                "teamName": "Nebs / Nxthan",
-                "playerIds": [
-                  "0865dd0c-cabd-4156-aa6e-7757f9b5b753",
-                  "b98790d7-278b-4169-947b-3c932c3a6af0"
-                ],
-                "version": 1,
-                "code": "N0069",
-                "createdAt": 1790438676726,
-                "proof": {
-                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
-                  "kills": 7,
-                  "place": 14,
-                  "endedAt": 1790448480000,
-                  "round": 6,
-                  "day": 1,
-                  "total": 15
-                },
-                "progress": {
-                  "current": 25,
-                  "target": 13,
-                  "remaining": 0,
-                  "text": "25/13 kills no torneio"
-                }
-              },
-              {
-                "teamKey": "34009ee2-0b02-4cfb-843d-984e5b9b30aa:a28109dd-beb7-48ad-93b9-4e205e5a2048",
-                "teamName": "Shadow / Vergo",
-                "playerIds": [
-                  "34009ee2-0b02-4cfb-843d-984e5b9b30aa",
-                  "a28109dd-beb7-48ad-93b9-4e205e5a2048"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "single",
-                "kills": 0,
-                "place": 5,
-                "difficulty": "medium",
-                "label": "Top 5",
-                "evidence": "2/8 jogos",
-                "code": "B023",
-                "version": 1,
-                "proof": null,
-                "progress": null
-              },
-              {
-                "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
-                "teamName": "Reet / Cooper",
-                "playerIds": [
-                  "44a112b0-4dc2-40cb-ba85-518f99b7ff35",
-                  "5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "single",
-                "kills": 0,
-                "place": 5,
-                "difficulty": "medium",
-                "label": "Top 5",
-                "evidence": "3/8 jogos",
-                "code": "B017",
-                "version": 1,
-                "proof": null,
-                "progress": null
-              },
-              {
-                "kind": "countTop",
-                "place": 15,
-                "threshold": 3,
-                "difficulty": "medium",
-                "label": "3 jogos no top 15",
-                "evidence": "2 top 15 em 2 jogos atuais",
-                "teamKey": "87a8e3b6-5379-41d5-8bbe-e06b9ac19b6a:9d753f5a-be9b-43fa-9915-ff04a54ca3f0",
-                "teamName": "josh / Eomzo",
-                "playerIds": [
-                  "87a8e3b6-5379-41d5-8bbe-e06b9ac19b6a",
-                  "9d753f5a-be9b-43fa-9915-ff04a54ca3f0"
-                ],
-                "version": 1,
-                "code": "N0073",
-                "createdAt": 1790438691969,
-                "proof": {
-                  "sessionId": "1b4264a019694dc49fa79f6f43bd909d",
-                  "kills": 1,
-                  "place": 7,
-                  "endedAt": 1790530500000,
-                  "round": 10,
-                  "day": 2,
-                  "count": 4
-                },
-                "progress": {
-                  "current": 4,
-                  "target": 3,
-                  "remaining": 0,
-                  "text": "4/3 top 15 no torneio"
-                }
-              },
-              {
-                "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
-                "teamName": "Focus / Th0masHD",
-                "playerIds": [
-                  "30dda2a7-8184-451f-8e7f-85530e34e7af",
-                  "daff9a4a-3b01-42e5-ae58-077a3ee1b4cc"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "single",
-                "kills": 0,
-                "place": 10,
-                "difficulty": "medium",
-                "label": "Top 10",
-                "evidence": "3/8 jogos",
-                "code": "B029",
-                "version": 1,
-                "proof": null,
-                "progress": null
-              },
-              {
-                "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
-                "teamName": "Tjino / PabloWingu",
-                "playerIds": [
-                  "137b42eb-15ad-4c0e-aed6-68678ef884a6",
-                  "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
-                ],
-                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
-                "kind": "single",
-                "kills": 0,
-                "place": 5,
-                "difficulty": "medium",
-                "label": "Top 5",
-                "evidence": "2/8 jogos",
-                "code": "B041",
-                "version": 1,
-                "proof": null,
-                "progress": null
-              },
-              {
-                "kind": "total",
-                "threshold": 30,
-                "difficulty": "easy",
-                "evidence": "10 kills/3 jogos atuais; média 3.33",
-                "label": "30 kills no torneio",
-                "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
-                "teamName": "yuma / Koyota",
-                "playerIds": [
-                  "72b80d98-d7d9-4670-ba31-ef9a208e2934",
-                  "785aa4de-6a84-4a29-badb-195ba05a3e74"
-                ],
-                "version": 1,
-                "code": "N0083",
-                "createdAt": 1790440790274,
-                "proof": {
-                  "sessionId": "0025d7932ef449c59c13bac77761672b",
-                  "kills": 8,
-                  "place": 6,
-                  "endedAt": 1790524920000,
-                  "round": 8,
-                  "day": 2,
-                  "total": 35
-                },
-                "progress": {
-                  "current": 35,
-                  "target": 30,
-                  "remaining": 0,
-                  "text": "35/30 kills no torneio"
-                }
-              },
-              {
-                "code": "C38",
-                "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
-                "teamName": "yuma / Koyota",
-                "playerIds": [
-                  "72b80d98-d7d9-4670-ba31-ef9a208e2934",
-                  "785aa4de-6a84-4a29-badb-195ba05a3e74"
-                ],
-                "kind": "champion",
-                "difficulty": "hard",
-                "label": "Vence a FNCS",
-                "version": 1,
-                "proof": null,
-                "progress": null
-              }
-            ],
-            "completed": 9,
-            "lines": 1
-          }
-        }
+        "overlay": null
       },
       "periods": {
         "day1": [
