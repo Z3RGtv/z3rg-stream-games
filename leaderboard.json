@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:58:57.352Z",
+  "updatedAt": "2026-09-27T18:59:02.622Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -2227,7 +2227,7 @@
         "open": false,
         "connected": true,
         "firstRound": 13,
-        "updatedAt": 1790535536669,
+        "updatedAt": 1790535537546,
         "champions": [
           {
             "code": "C01",
@@ -4345,10 +4345,10 @@
             "code": "N0068",
             "createdAt": 1790438389351,
             "progress": {
-              "current": 11,
+              "current": 14,
               "target": 9,
               "remaining": 0,
-              "text": "11/9 kills no torneio"
+              "text": "14/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -5168,10 +5168,10 @@
             "code": "N0102",
             "createdAt": 1790448728422,
             "progress": {
-              "current": 11,
+              "current": 14,
               "target": 10,
               "remaining": 0,
-              "text": "11/10 kills no torneio"
+              "text": "14/10 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -7197,13 +7197,13 @@
             "code": "N0185",
             "createdAt": 1790525049446,
             "progress": {
-              "current": 11,
+              "current": 14,
               "target": 12,
-              "remaining": 1,
-              "text": "11/12 kills no torneio"
+              "remaining": 0,
+              "text": "14/12 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -9615,13 +9615,13 @@
             "code": "N0284",
             "createdAt": 1790527053897,
             "progress": {
-              "current": 11,
+              "current": 14,
               "target": 13,
-              "remaining": 2,
-              "text": "11/13 kills no torneio"
+              "remaining": 0,
+              "text": "14/13 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -11286,7 +11286,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 4,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "4 jogos no top 15",
             "evidence": "2 top 15 em 10 jogos atuais; faltam 2",
             "teamKey": "18fa904f-2777-4f18-96cb-6322fbbe8e86:b3df1be9-574b-4cc8-aa73-6447ab61644c",
@@ -11299,10 +11299,10 @@
             "code": "N0353",
             "createdAt": 1790530601588,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 4,
-              "remaining": 2,
-              "text": "2/4 top 15 no torneio"
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -11311,7 +11311,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 3,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "3 jogos no top 15",
             "evidence": "2 top 15 em 10 jogos atuais",
             "teamKey": "18fa904f-2777-4f18-96cb-6322fbbe8e86:b3df1be9-574b-4cc8-aa73-6447ab61644c",
@@ -11324,13 +11324,13 @@
             "code": "N0354",
             "createdAt": 1790530601588,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 3,
-              "remaining": 1,
-              "text": "2/3 top 15 no torneio"
+              "remaining": 0,
+              "text": "3/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -14019,10 +14019,10 @@
                 "code": "N0068",
                 "createdAt": 1790438389351,
                 "progress": {
-                  "current": 11,
+                  "current": 14,
                   "target": 9,
                   "remaining": 0,
-                  "text": "11/9 kills no torneio"
+                  "text": "14/9 kills no torneio"
                 },
                 "proof": {
                   "sessionId": "0025d7932ef449c59c13bac77761672b",
@@ -14747,10 +14747,10 @@
                   "total": 9
                 },
                 "progress": {
-                  "current": 11,
+                  "current": 14,
                   "target": 9,
                   "remaining": 0,
-                  "text": "11/9 kills no torneio"
+                  "text": "14/9 kills no torneio"
                 }
               },
               {
