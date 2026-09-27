@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T00:01:50.502Z",
+  "updatedAt": "2026-09-27T00:02:09.767Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -28,12 +28,12 @@
       "bingo": {
         "name": "Bingo FNCS",
         "cost": 300,
-        "autoEntry": false,
+        "autoEntry": true,
         "delaySeconds": 20,
-        "open": false,
+        "open": true,
         "connected": false,
-        "firstRound": 6,
-        "updatedAt": 1790448814054,
+        "firstRound": 7,
+        "updatedAt": 1790467324750,
         "champions": [
           {
             "code": "C01",
@@ -3054,6 +3054,471 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 12,
+            "difficulty": "easy",
+            "evidence": "7 kills/6 jogos atuais; média 1.17",
+            "label": "12 kills no torneio",
+            "teamKey": "234887ea-510f-41d4-8d59-e3042f944c6e:e5556b32-69cf-4e34-9919-8774adc4cac2",
+            "teamName": "Muz / Rise",
+            "playerIds": [
+              "234887ea-510f-41d4-8d59-e3042f944c6e",
+              "e5556b32-69cf-4e34-9919-8774adc4cac2"
+            ],
+            "version": 1,
+            "code": "N0106",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 7,
+              "target": 12,
+              "remaining": 5,
+              "text": "7/12 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1:f49c5582-7898-4adf-a62b-53865c0a2b13",
+            "teamName": "Randu / Grx",
+            "playerIds": [
+              "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1",
+              "f49c5582-7898-4adf-a62b-53865c0a2b13"
+            ],
+            "version": 1,
+            "code": "N0107",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais",
+            "teamKey": "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1:f49c5582-7898-4adf-a62b-53865c0a2b13",
+            "teamName": "Randu / Grx",
+            "playerIds": [
+              "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1",
+              "f49c5582-7898-4adf-a62b-53865c0a2b13"
+            ],
+            "version": 1,
+            "code": "N0108",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 20,
+            "difficulty": "easy",
+            "evidence": "12 kills/6 jogos atuais; média 2.00",
+            "label": "20 kills no torneio",
+            "teamKey": "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1:f49c5582-7898-4adf-a62b-53865c0a2b13",
+            "teamName": "Randu / Grx",
+            "playerIds": [
+              "bdc4d6a5-555c-4e6a-b0b1-fd3e08c19fd1",
+              "f49c5582-7898-4adf-a62b-53865c0a2b13"
+            ],
+            "version": 1,
+            "code": "N0109",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 12,
+              "target": 20,
+              "remaining": 8,
+              "text": "12/20 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 7,
+            "difficulty": "easy",
+            "evidence": "4 kills/6 jogos atuais; média 0.67",
+            "label": "7 kills no torneio",
+            "teamKey": "5a020a9f-cf1d-4dad-a99f-0f62c1877c68:b6744324-45d4-48fb-ba99-eb24bd5240a8",
+            "teamName": "Hcube / Encrypted",
+            "playerIds": [
+              "5a020a9f-cf1d-4dad-a99f-0f62c1877c68",
+              "b6744324-45d4-48fb-ba99-eb24bd5240a8"
+            ],
+            "version": 1,
+            "code": "N0110",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 4,
+              "target": 7,
+              "remaining": 3,
+              "text": "4/7 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "99318c73-03c5-41cd-b521-33a9e6380979:e8e6c534-6fe6-46ba-8fa5-dc37002eb22d",
+            "teamName": "Izzi / Nociff",
+            "playerIds": [
+              "99318c73-03c5-41cd-b521-33a9e6380979",
+              "e8e6c534-6fe6-46ba-8fa5-dc37002eb22d"
+            ],
+            "version": 1,
+            "code": "N0111",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais",
+            "teamKey": "99318c73-03c5-41cd-b521-33a9e6380979:e8e6c534-6fe6-46ba-8fa5-dc37002eb22d",
+            "teamName": "Izzi / Nociff",
+            "playerIds": [
+              "99318c73-03c5-41cd-b521-33a9e6380979",
+              "e8e6c534-6fe6-46ba-8fa5-dc37002eb22d"
+            ],
+            "version": 1,
+            "code": "N0112",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 24,
+            "difficulty": "easy",
+            "evidence": "14 kills/6 jogos atuais; média 2.33",
+            "label": "24 kills no torneio",
+            "teamKey": "99318c73-03c5-41cd-b521-33a9e6380979:e8e6c534-6fe6-46ba-8fa5-dc37002eb22d",
+            "teamName": "Izzi / Nociff",
+            "playerIds": [
+              "99318c73-03c5-41cd-b521-33a9e6380979",
+              "e8e6c534-6fe6-46ba-8fa5-dc37002eb22d"
+            ],
+            "version": 1,
+            "code": "N0113",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 14,
+              "target": 24,
+              "remaining": 10,
+              "text": "14/24 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 22,
+            "difficulty": "easy",
+            "evidence": "13 kills/6 jogos atuais; média 2.17",
+            "label": "22 kills no torneio",
+            "teamKey": "3dd15740-1bdc-4ae3-9cf3-a467f4535e14:dbd606be-bc17-4bae-8c9b-a2c56bd91e25",
+            "teamName": "Huty / F1shyX",
+            "playerIds": [
+              "3dd15740-1bdc-4ae3-9cf3-a467f4535e14",
+              "dbd606be-bc17-4bae-8c9b-a2c56bd91e25"
+            ],
+            "version": 1,
+            "code": "N0114",
+            "createdAt": 1790467324752,
+            "progress": {
+              "current": 13,
+              "target": 22,
+              "remaining": 9,
+              "text": "13/22 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "3ce9c64d-8286-4894-80d1-aceeb206589a:52447924-0707-4052-a08c-be04c830726d",
+            "teamName": "Higgs / Curve",
+            "playerIds": [
+              "3ce9c64d-8286-4894-80d1-aceeb206589a",
+              "52447924-0707-4052-a08c-be04c830726d"
+            ],
+            "version": 1,
+            "code": "N0115",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais",
+            "teamKey": "3ce9c64d-8286-4894-80d1-aceeb206589a:52447924-0707-4052-a08c-be04c830726d",
+            "teamName": "Higgs / Curve",
+            "playerIds": [
+              "3ce9c64d-8286-4894-80d1-aceeb206589a",
+              "52447924-0707-4052-a08c-be04c830726d"
+            ],
+            "version": 1,
+            "code": "N0116",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 29,
+            "difficulty": "easy",
+            "evidence": "17 kills/6 jogos atuais; média 2.83",
+            "label": "29 kills no torneio",
+            "teamKey": "3ce9c64d-8286-4894-80d1-aceeb206589a:52447924-0707-4052-a08c-be04c830726d",
+            "teamName": "Higgs / Curve",
+            "playerIds": [
+              "3ce9c64d-8286-4894-80d1-aceeb206589a",
+              "52447924-0707-4052-a08c-be04c830726d"
+            ],
+            "version": 1,
+            "code": "N0117",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 17,
+              "target": 29,
+              "remaining": 12,
+              "text": "17/29 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 19,
+            "difficulty": "easy",
+            "evidence": "11 kills/6 jogos atuais; média 1.83",
+            "label": "19 kills no torneio",
+            "teamKey": "11c2360a-c162-43db-85dd-822a8cb6ad3c:8bd1f40d-430c-4bd9-8067-2d253fbab307",
+            "teamName": "Cringe / 1Lusha",
+            "playerIds": [
+              "11c2360a-c162-43db-85dd-822a8cb6ad3c",
+              "8bd1f40d-430c-4bd9-8067-2d253fbab307"
+            ],
+            "version": 1,
+            "code": "N0118",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 11,
+              "target": 19,
+              "remaining": 8,
+              "text": "11/19 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 9,
+            "difficulty": "easy",
+            "evidence": "5 kills/6 jogos atuais; média 0.83",
+            "label": "9 kills no torneio",
+            "teamKey": "07d9ab69-cfce-4aea-be7f-cdf99dba3e1e:d5e9dc74-c49e-4825-bd81-a9d69056c683",
+            "teamName": "Pinq / Rura",
+            "playerIds": [
+              "07d9ab69-cfce-4aea-be7f-cdf99dba3e1e",
+              "d5e9dc74-c49e-4825-bd81-a9d69056c683"
+            ],
+            "version": 1,
+            "code": "N0119",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 5,
+              "target": 9,
+              "remaining": 4,
+              "text": "5/9 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
+            "teamName": "yuma / Koyota",
+            "playerIds": [
+              "72b80d98-d7d9-4670-ba31-ef9a208e2934",
+              "785aa4de-6a84-4a29-badb-195ba05a3e74"
+            ],
+            "version": 1,
+            "code": "N0120",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "easy",
+            "label": "4 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais",
+            "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
+            "teamName": "yuma / Koyota",
+            "playerIds": [
+              "72b80d98-d7d9-4670-ba31-ef9a208e2934",
+              "785aa4de-6a84-4a29-badb-195ba05a3e74"
+            ],
+            "version": 1,
+            "code": "N0121",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 3,
+              "target": 4,
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 42,
+            "difficulty": "easy",
+            "evidence": "25 kills/6 jogos atuais; média 4.17",
+            "label": "42 kills no torneio",
+            "teamKey": "72b80d98-d7d9-4670-ba31-ef9a208e2934:785aa4de-6a84-4a29-badb-195ba05a3e74",
+            "teamName": "yuma / Koyota",
+            "playerIds": [
+              "72b80d98-d7d9-4670-ba31-ef9a208e2934",
+              "785aa4de-6a84-4a29-badb-195ba05a3e74"
+            ],
+            "version": 1,
+            "code": "N0122",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 25,
+              "target": 42,
+              "remaining": 17,
+              "text": "25/42 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 22,
+            "difficulty": "easy",
+            "evidence": "13 kills/6 jogos atuais; média 2.17",
+            "label": "22 kills no torneio",
+            "teamKey": "14caafa7-dc96-4c28-b800-96bcd5b38e30:5b9f90e5-0d36-4431-9676-cfcc51e458bf",
+            "teamName": "Ajerss / Veno",
+            "playerIds": [
+              "14caafa7-dc96-4c28-b800-96bcd5b38e30",
+              "5b9f90e5-0d36-4431-9676-cfcc51e458bf"
+            ],
+            "version": 1,
+            "code": "N0123",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 13,
+              "target": 22,
+              "remaining": 9,
+              "text": "13/22 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "8739b089-543b-4a82-82d8-6fa7941b3262:927f62de-b612-4539-bf2b-a9d918ac5ac6",
+            "teamName": "Tidi / Julle",
+            "playerIds": [
+              "8739b089-543b-4a82-82d8-6fa7941b3262",
+              "927f62de-b612-4539-bf2b-a9d918ac5ac6"
+            ],
+            "version": 1,
+            "code": "N0124",
+            "createdAt": 1790467324753,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
           }
         ],
         "cards": [
