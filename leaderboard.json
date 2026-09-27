@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T14:16:58.988Z",
+  "updatedAt": "2026-09-27T14:17:04.836Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -34,7 +34,7 @@
         "open": true,
         "connected": true,
         "firstRound": 7,
-        "updatedAt": 1790518615700,
+        "updatedAt": 1790518621802,
         "champions": [
           {
             "code": "C01",
@@ -4373,6 +4373,251 @@
               "target": 10,
               "remaining": 4,
               "text": "6/10 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "68c17d1e-ea3c-42ad-98d7-2b48675242ea:dca13c06-26af-4af7-aadf-39c3ba44914b",
+            "teamName": "Darm / demus",
+            "playerIds": [
+              "68c17d1e-ea3c-42ad-98d7-2b48675242ea",
+              "dca13c06-26af-4af7-aadf-39c3ba44914b"
+            ],
+            "version": 1,
+            "code": "N0160",
+            "createdAt": 1790518619801,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "easy",
+            "label": "4 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais",
+            "teamKey": "68c17d1e-ea3c-42ad-98d7-2b48675242ea:dca13c06-26af-4af7-aadf-39c3ba44914b",
+            "teamName": "Darm / demus",
+            "playerIds": [
+              "68c17d1e-ea3c-42ad-98d7-2b48675242ea",
+              "dca13c06-26af-4af7-aadf-39c3ba44914b"
+            ],
+            "version": 1,
+            "code": "N0161",
+            "createdAt": 1790518619801,
+            "progress": {
+              "current": 3,
+              "target": 4,
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 43,
+            "difficulty": "easy",
+            "evidence": "26 kills/6 jogos atuais; média 4.33",
+            "label": "43 kills no torneio",
+            "teamKey": "68c17d1e-ea3c-42ad-98d7-2b48675242ea:dca13c06-26af-4af7-aadf-39c3ba44914b",
+            "teamName": "Darm / demus",
+            "playerIds": [
+              "68c17d1e-ea3c-42ad-98d7-2b48675242ea",
+              "dca13c06-26af-4af7-aadf-39c3ba44914b"
+            ],
+            "version": 1,
+            "code": "N0162",
+            "createdAt": 1790518619801,
+            "progress": {
+              "current": 26,
+              "target": 43,
+              "remaining": 17,
+              "text": "26/43 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 2,
+            "difficulty": "easy",
+            "evidence": "1 kills/6 jogos atuais; média 0.17",
+            "label": "2 kills no torneio",
+            "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
+            "teamName": "Resignz / Tinka",
+            "playerIds": [
+              "15221258-a561-4a82-89d6-60cb116aa4d2",
+              "22cf7972-39f5-42ca-af59-7660403c97a6"
+            ],
+            "version": 1,
+            "code": "N0163",
+            "createdAt": 1790518619801,
+            "progress": {
+              "current": 1,
+              "target": 2,
+              "remaining": 1,
+              "text": "1/2 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
+            "teamName": "Focus / Th0masHD",
+            "playerIds": [
+              "30dda2a7-8184-451f-8e7f-85530e34e7af",
+              "daff9a4a-3b01-42e5-ae58-077a3ee1b4cc"
+            ],
+            "version": 1,
+            "code": "N0164",
+            "createdAt": 1790518620353,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "easy",
+            "label": "4 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais",
+            "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
+            "teamName": "Focus / Th0masHD",
+            "playerIds": [
+              "30dda2a7-8184-451f-8e7f-85530e34e7af",
+              "daff9a4a-3b01-42e5-ae58-077a3ee1b4cc"
+            ],
+            "version": 1,
+            "code": "N0165",
+            "createdAt": 1790518620353,
+            "progress": {
+              "current": 3,
+              "target": 4,
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 20,
+            "difficulty": "easy",
+            "evidence": "12 kills/6 jogos atuais; média 2.00",
+            "label": "20 kills no torneio",
+            "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
+            "teamName": "Focus / Th0masHD",
+            "playerIds": [
+              "30dda2a7-8184-451f-8e7f-85530e34e7af",
+              "daff9a4a-3b01-42e5-ae58-077a3ee1b4cc"
+            ],
+            "version": 1,
+            "code": "N0166",
+            "createdAt": 1790518620353,
+            "progress": {
+              "current": 12,
+              "target": 20,
+              "remaining": 8,
+              "text": "12/20 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "2b3da27c-62d1-4887-bd6d-aa865df33487:ef29a568-e9c1-45a7-85da-2903fe81114b",
+            "teamName": "IDrop / Ghonzo",
+            "playerIds": [
+              "2b3da27c-62d1-4887-bd6d-aa865df33487",
+              "ef29a568-e9c1-45a7-85da-2903fe81114b"
+            ],
+            "version": 1,
+            "code": "N0167",
+            "createdAt": 1790518621656,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 20,
+            "difficulty": "easy",
+            "evidence": "12 kills/6 jogos atuais; média 2.00",
+            "label": "20 kills no torneio",
+            "teamKey": "ed795860-0321-496f-a7ca-0ed2ee544051:f5783ecc-4b07-4396-aad6-38fd7baa1c89",
+            "teamName": "charyy / Kami",
+            "playerIds": [
+              "ed795860-0321-496f-a7ca-0ed2ee544051",
+              "f5783ecc-4b07-4396-aad6-38fd7baa1c89"
+            ],
+            "version": 1,
+            "code": "N0168",
+            "createdAt": 1790518621656,
+            "progress": {
+              "current": 12,
+              "target": 20,
+              "remaining": 8,
+              "text": "12/20 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 7,
+            "difficulty": "easy",
+            "evidence": "4 kills/6 jogos atuais; média 0.67",
+            "label": "7 kills no torneio",
+            "teamKey": "34009ee2-0b02-4cfb-843d-984e5b9b30aa:a28109dd-beb7-48ad-93b9-4e205e5a2048",
+            "teamName": "Shadow / Vergo",
+            "playerIds": [
+              "34009ee2-0b02-4cfb-843d-984e5b9b30aa",
+              "a28109dd-beb7-48ad-93b9-4e205e5a2048"
+            ],
+            "version": 1,
+            "code": "N0169",
+            "createdAt": 1790518621805,
+            "progress": {
+              "current": 4,
+              "target": 7,
+              "remaining": 3,
+              "text": "4/7 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
