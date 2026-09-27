@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:38:18.256Z",
+  "updatedAt": "2026-09-27T16:38:23.689Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1443,7 +1443,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790527098128,
+        "updatedAt": 1790527100169,
         "champions": [
           {
             "code": "C01",
@@ -3803,10 +3803,10 @@
             "code": "N0078",
             "createdAt": 1790440662132,
             "progress": {
-              "current": 8,
+              "current": 9,
               "target": 3,
               "remaining": 0,
-              "text": "8/3 kills no torneio"
+              "text": "9/3 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -4311,10 +4311,10 @@
             "code": "N0099",
             "createdAt": 1790448637912,
             "progress": {
-              "current": 8,
+              "current": 9,
               "target": 5,
               "remaining": 0,
-              "text": "8/5 kills no torneio"
+              "text": "9/5 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6339,10 +6339,10 @@
             "code": "N0182",
             "createdAt": 1790522573317,
             "progress": {
-              "current": 8,
+              "current": 9,
               "target": 6,
               "remaining": 0,
-              "text": "8/6 kills no torneio"
+              "text": "9/6 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6474,7 +6474,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 4,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "4 jogos no top 15",
             "evidence": "2 top 15 em 8 jogos atuais; faltam 2",
             "teamKey": "256ac806-d5ef-4f3e-a3fe-c16fdab72f13:5a372883-0d83-4bd7-8307-cfe968ce374f",
@@ -6487,13 +6487,13 @@
             "code": "N0188",
             "createdAt": 1790525054932,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 4,
-              "remaining": 2,
-              "text": "2/4 top 15 no torneio"
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Em arquivo"
           },
           {
             "kind": "countTop",
@@ -7205,8 +7205,8 @@
               "remaining": 2,
               "text": "4/6 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -7309,7 +7309,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 3,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "3 jogos no top 15",
             "evidence": "2 top 15 em 8 jogos atuais",
             "teamKey": "256ac806-d5ef-4f3e-a3fe-c16fdab72f13:5a372883-0d83-4bd7-8307-cfe968ce374f",
@@ -7322,13 +7322,13 @@
             "code": "N0222",
             "createdAt": 1790526732730,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 3,
-              "remaining": 1,
-              "text": "2/3 top 15 no torneio"
+              "remaining": 0,
+              "text": "3/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -7346,10 +7346,10 @@
             "code": "N0223",
             "createdAt": 1790526732730,
             "progress": {
-              "current": 8,
+              "current": 9,
               "target": 11,
-              "remaining": 3,
-              "text": "8/11 kills no torneio"
+              "remaining": 2,
+              "text": "9/11 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -9104,6 +9104,31 @@
               "target": 32,
               "remaining": 6,
               "text": "26/32 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 9 jogos atuais; faltam 2",
+            "teamKey": "256ac806-d5ef-4f3e-a3fe-c16fdab72f13:5a372883-0d83-4bd7-8307-cfe968ce374f",
+            "teamName": "Ark / Khanada",
+            "playerIds": [
+              "256ac806-d5ef-4f3e-a3fe-c16fdab72f13",
+              "5a372883-0d83-4bd7-8307-cfe968ce374f"
+            ],
+            "version": 1,
+            "code": "N0296",
+            "createdAt": 1790527099750,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -11110,10 +11135,10 @@
                   "total": 3
                 },
                 "progress": {
-                  "current": 8,
+                  "current": 9,
                   "target": 3,
                   "remaining": 0,
-                  "text": "8/3 kills no torneio"
+                  "text": "9/3 kills no torneio"
                 }
               },
               {
@@ -11504,10 +11529,10 @@
                   "total": 3
                 },
                 "progress": {
-                  "current": 8,
+                  "current": 9,
                   "target": 3,
                   "remaining": 0,
-                  "text": "8/3 kills no torneio"
+                  "text": "9/3 kills no torneio"
                 }
               },
               {
