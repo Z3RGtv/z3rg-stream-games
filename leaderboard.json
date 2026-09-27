@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:16:51.320Z",
+  "updatedAt": "2026-09-27T18:16:58.589Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790533011016,
+        "updatedAt": 1790533013963,
         "champions": [
           {
             "code": "C01",
@@ -3301,10 +3301,10 @@
             "code": "B036",
             "version": 1,
             "progress": {
-              "current": 11,
+              "current": 12,
               "target": 40,
-              "remaining": 29,
-              "text": "11/40 kills no torneio"
+              "remaining": 28,
+              "text": "12/40 kills no torneio"
             },
             "available": false,
             "reason": "Poucos jogos para este objetivo"
@@ -8769,10 +8769,10 @@
             "code": "N0263",
             "createdAt": 1790526739788,
             "progress": {
-              "current": 11,
+              "current": 12,
               "target": 11,
               "remaining": 0,
-              "text": "11/11 kills no torneio"
+              "text": "12/11 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -9251,10 +9251,10 @@
             "code": "N0283",
             "createdAt": 1790527053479,
             "progress": {
-              "current": 11,
+              "current": 12,
               "target": 13,
-              "remaining": 2,
-              "text": "11/13 kills no torneio"
+              "remaining": 1,
+              "text": "12/13 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -11524,6 +11524,30 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 14,
+            "difficulty": "easy",
+            "evidence": "13 kills/11 jogos atuais; média 1.18",
+            "label": "14 kills no torneio",
+            "teamKey": "256ac806-d5ef-4f3e-a3fe-c16fdab72f13:5a372883-0d83-4bd7-8307-cfe968ce374f",
+            "teamName": "Ark / Khanada",
+            "playerIds": [
+              "256ac806-d5ef-4f3e-a3fe-c16fdab72f13",
+              "5a372883-0d83-4bd7-8307-cfe968ce374f"
+            ],
+            "version": 1,
+            "code": "N0377",
+            "createdAt": 1790533013531,
+            "progress": {
+              "current": 13,
+              "target": 14,
+              "remaining": 1,
+              "text": "13/14 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
           }
         ],
         "cards": [
@@ -13207,10 +13231,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 11,
+                  "current": 12,
                   "target": 40,
-                  "remaining": 29,
-                  "text": "11/40 kills no torneio"
+                  "remaining": 28,
+                  "text": "12/40 kills no torneio"
                 }
               },
               {
@@ -14095,10 +14119,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 11,
+                  "current": 12,
                   "target": 40,
-                  "remaining": 29,
-                  "text": "11/40 kills no torneio"
+                  "remaining": 28,
+                  "text": "12/40 kills no torneio"
                 }
               },
               {
@@ -14560,10 +14584,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 11,
+                  "current": 12,
                   "target": 40,
-                  "remaining": 29,
-                  "text": "11/40 kills no torneio"
+                  "remaining": 28,
+                  "text": "12/40 kills no torneio"
                 }
               },
               {
