@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T14:13:06.707Z",
+  "updatedAt": "2026-09-27T14:16:58.988Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -34,7 +34,7 @@
         "open": true,
         "connected": true,
         "firstRound": 7,
-        "updatedAt": 1790518237958,
+        "updatedAt": 1790518615700,
         "champions": [
           {
             "code": "C01",
@@ -4104,6 +4104,275 @@
               "target": 14,
               "remaining": 6,
               "text": "8/14 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais",
+            "teamKey": "8739b089-543b-4a82-82d8-6fa7941b3262:927f62de-b612-4539-bf2b-a9d918ac5ac6",
+            "teamName": "Tidi / Julle",
+            "playerIds": [
+              "8739b089-543b-4a82-82d8-6fa7941b3262",
+              "927f62de-b612-4539-bf2b-a9d918ac5ac6"
+            ],
+            "version": 1,
+            "code": "N0149",
+            "createdAt": 1790518613960,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 32,
+            "difficulty": "easy",
+            "evidence": "19 kills/6 jogos atuais; média 3.17",
+            "label": "32 kills no torneio",
+            "teamKey": "8739b089-543b-4a82-82d8-6fa7941b3262:927f62de-b612-4539-bf2b-a9d918ac5ac6",
+            "teamName": "Tidi / Julle",
+            "playerIds": [
+              "8739b089-543b-4a82-82d8-6fa7941b3262",
+              "927f62de-b612-4539-bf2b-a9d918ac5ac6"
+            ],
+            "version": 1,
+            "code": "N0150",
+            "createdAt": 1790518613960,
+            "progress": {
+              "current": 19,
+              "target": 32,
+              "remaining": 13,
+              "text": "19/32 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 10,
+            "difficulty": "easy",
+            "evidence": "6 kills/6 jogos atuais; média 1.00",
+            "label": "10 kills no torneio",
+            "teamKey": "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf:fd65e10f-657e-42f5-9fe1-5d3a9348004a",
+            "teamName": "Minipiyo / Fuukun",
+            "playerIds": [
+              "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf",
+              "fd65e10f-657e-42f5-9fe1-5d3a9348004a"
+            ],
+            "version": 1,
+            "code": "N0151",
+            "createdAt": 1790518613960,
+            "progress": {
+              "current": 6,
+              "target": 10,
+              "remaining": 4,
+              "text": "6/10 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
+            "teamName": "Chap / Flickzy",
+            "playerIds": [
+              "24b48d45-3b69-42d2-ad5d-c63d91bf66fc",
+              "ddf01726-1947-4dde-b19f-855dc065b80c"
+            ],
+            "version": 1,
+            "code": "N0152",
+            "createdAt": 1790518613960,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais",
+            "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
+            "teamName": "Chap / Flickzy",
+            "playerIds": [
+              "24b48d45-3b69-42d2-ad5d-c63d91bf66fc",
+              "ddf01726-1947-4dde-b19f-855dc065b80c"
+            ],
+            "version": 1,
+            "code": "N0153",
+            "createdAt": 1790518613960,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 19,
+            "difficulty": "easy",
+            "evidence": "11 kills/6 jogos atuais; média 1.83",
+            "label": "19 kills no torneio",
+            "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
+            "teamName": "Chap / Flickzy",
+            "playerIds": [
+              "24b48d45-3b69-42d2-ad5d-c63d91bf66fc",
+              "ddf01726-1947-4dde-b19f-855dc065b80c"
+            ],
+            "version": 1,
+            "code": "N0154",
+            "createdAt": 1790518613960,
+            "progress": {
+              "current": 11,
+              "target": 19,
+              "remaining": 8,
+              "text": "11/19 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
+            "teamName": "Tjino / PabloWingu",
+            "playerIds": [
+              "137b42eb-15ad-4c0e-aed6-68678ef884a6",
+              "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
+            ],
+            "version": 1,
+            "code": "N0155",
+            "createdAt": 1790518615703,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "easy",
+            "label": "4 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais",
+            "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
+            "teamName": "Tjino / PabloWingu",
+            "playerIds": [
+              "137b42eb-15ad-4c0e-aed6-68678ef884a6",
+              "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
+            ],
+            "version": 1,
+            "code": "N0156",
+            "createdAt": 1790518615703,
+            "progress": {
+              "current": 3,
+              "target": 4,
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 29,
+            "difficulty": "easy",
+            "evidence": "17 kills/6 jogos atuais; média 2.83",
+            "label": "29 kills no torneio",
+            "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
+            "teamName": "Tjino / PabloWingu",
+            "playerIds": [
+              "137b42eb-15ad-4c0e-aed6-68678ef884a6",
+              "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
+            ],
+            "version": 1,
+            "code": "N0157",
+            "createdAt": 1790518615703,
+            "progress": {
+              "current": 17,
+              "target": 29,
+              "remaining": 12,
+              "text": "17/29 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 15,
+            "difficulty": "easy",
+            "evidence": "9 kills/6 jogos atuais; média 1.50",
+            "label": "15 kills no torneio",
+            "teamKey": "2d91ad40-c738-4c8a-9c12-c4c295450d78:bce27060-4551-411a-b0a7-ffcac5f058e0",
+            "teamName": "Acorn / Boltz",
+            "playerIds": [
+              "2d91ad40-c738-4c8a-9c12-c4c295450d78",
+              "bce27060-4551-411a-b0a7-ffcac5f058e0"
+            ],
+            "version": 1,
+            "code": "N0158",
+            "createdAt": 1790518615703,
+            "progress": {
+              "current": 9,
+              "target": 15,
+              "remaining": 6,
+              "text": "9/15 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 10,
+            "difficulty": "easy",
+            "evidence": "6 kills/6 jogos atuais; média 1.00",
+            "label": "10 kills no torneio",
+            "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
+            "teamName": "Reet / Cooper",
+            "playerIds": [
+              "44a112b0-4dc2-40cb-ba85-518f99b7ff35",
+              "5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9"
+            ],
+            "version": 1,
+            "code": "N0159",
+            "createdAt": 1790518615703,
+            "progress": {
+              "current": 6,
+              "target": 10,
+              "remaining": 4,
+              "text": "6/10 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
