@@ -486,3 +486,5 @@ tbody tr:focus-visible { outline: 2px solid var(--gold); outline-offset: -2px; }
 /* Keep optional game controls hidden even when component styles set display. */
 [hidden] { display: none !important; }
 #fncs-period { margin-left: 8px; padding: 10px; background: #082f2c; color: #fff; border: 1px solid #65f0dc66; border-radius: 8px; }
+
+.fncs-answer-history{margin:20px 0;padding:18px;border:1px solid var(--line);border-radius:14px;background:var(--teal-950)}.fncs-answer-history summary{cursor:pointer;font-weight:800;font-size:18px}.fncs-answer-history select{max-width:100%;min-height:44px;margin:12px;padding:8px;color:var(--ink);background:var(--teal-900);border:1px solid var(--line);border-radius:8px}.fncs-answer-list{max-height:60vh;overflow:auto;overflow-anchor:none}.fncs-answer-list article{padding:16px 0;border-bottom:1px solid var(--line)}.fncs-answer-list strong{display:block;margin-top:7px}.fncs-answer-list small{color:var(--muted)}
