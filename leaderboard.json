@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:04:17.640Z",
+  "updatedAt": "2026-09-27T16:04:22.852Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1270,7 +1270,7 @@
         "open": true,
         "connected": true,
         "firstRound": 9,
-        "updatedAt": 1790525057206,
+        "updatedAt": 1790525058039,
         "champions": [
           {
             "code": "C01",
@@ -3485,10 +3485,10 @@
             "code": "N0072",
             "createdAt": 1790438676947,
             "progress": {
-              "current": 11,
+              "current": 15,
               "target": 9,
               "remaining": 0,
-              "text": "11/9 kills no torneio"
+              "text": "15/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -4065,13 +4065,13 @@
             "code": "N0096",
             "createdAt": 1790448277880,
             "progress": {
-              "current": 11,
+              "current": 15,
               "target": 14,
-              "remaining": 3,
-              "text": "11/14 kills no torneio"
+              "remaining": 0,
+              "text": "15/14 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -4168,8 +4168,8 @@
               "remaining": 1,
               "text": "3/4 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -5214,10 +5214,10 @@
             "code": "N0143",
             "createdAt": 1790518237968,
             "progress": {
-              "current": 11,
+              "current": 15,
               "target": 17,
-              "remaining": 6,
-              "text": "11/17 kills no torneio"
+              "remaining": 2,
+              "text": "15/17 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
