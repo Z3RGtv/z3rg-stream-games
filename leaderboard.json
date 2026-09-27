@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:24:21.021Z",
+  "updatedAt": "2026-09-27T15:24:26.426Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -34,7 +34,7 @@
         "open": true,
         "connected": true,
         "firstRound": 8,
-        "updatedAt": 1790522658737,
+        "updatedAt": 1790522666048,
         "champions": [
           {
             "code": "C01",
@@ -2466,13 +2466,13 @@
             "code": "N0081",
             "createdAt": 1790440789909,
             "progress": {
-              "current": 17,
+              "current": 22,
               "target": 18,
-              "remaining": 1,
-              "text": "17/18 kills no torneio"
+              "remaining": 0,
+              "text": "22/18 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -2635,10 +2635,10 @@
             "code": "N0088",
             "createdAt": 1790444902079,
             "progress": {
-              "current": 4,
+              "current": 11,
               "target": 3,
               "remaining": 0,
-              "text": "4/3 kills no torneio"
+              "text": "11/3 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -2761,8 +2761,8 @@
               "remaining": 4,
               "text": "10/14 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -3280,7 +3280,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 4,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "4 jogos no top 15",
             "evidence": "2 top 15 em 6 jogos atuais; faltam 2",
             "teamKey": "3ce9c64d-8286-4894-80d1-aceeb206589a:52447924-0707-4052-a08c-be04c830726d",
@@ -3293,19 +3293,19 @@
             "code": "N0115",
             "createdAt": 1790467324753,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 4,
-              "remaining": 2,
-              "text": "2/4 top 15 no torneio"
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Em arquivo"
           },
           {
             "kind": "countTop",
             "place": 15,
             "threshold": 3,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "3 jogos no top 15",
             "evidence": "2 top 15 em 6 jogos atuais",
             "teamKey": "3ce9c64d-8286-4894-80d1-aceeb206589a:52447924-0707-4052-a08c-be04c830726d",
@@ -3318,13 +3318,13 @@
             "code": "N0116",
             "createdAt": 1790467324753,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 3,
-              "remaining": 1,
-              "text": "2/3 top 15 no torneio"
+              "remaining": 0,
+              "text": "3/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -3342,10 +3342,10 @@
             "code": "N0117",
             "createdAt": 1790467324753,
             "progress": {
-              "current": 17,
+              "current": 22,
               "target": 29,
-              "remaining": 12,
-              "text": "17/29 kills no torneio"
+              "remaining": 7,
+              "text": "22/29 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -3586,13 +3586,13 @@
             "code": "N0127",
             "createdAt": 1790517970027,
             "progress": {
-              "current": 4,
+              "current": 11,
               "target": 7,
-              "remaining": 3,
-              "text": "4/7 kills no torneio"
+              "remaining": 0,
+              "text": "11/7 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -4962,6 +4962,31 @@
             },
             "available": true,
             "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 7 jogos atuais; faltam 2",
+            "teamKey": "8175b84a-680c-4f8d-ae3b-bfc23239290a:9485ffab-f7b8-4719-956c-56612ca00c27",
+            "teamName": "Phazma / Crusades",
+            "playerIds": [
+              "8175b84a-680c-4f8d-ae3b-bfc23239290a",
+              "9485ffab-f7b8-4719-956c-56612ca00c27"
+            ],
+            "version": 1,
+            "code": "N0184",
+            "createdAt": 1790522661390,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
           }
         ],
         "cards": [
@@ -5138,10 +5163,10 @@
                 "createdAt": 1790440789909,
                 "proof": null,
                 "progress": {
-                  "current": 17,
+                  "current": 22,
                   "target": 18,
-                  "remaining": 1,
-                  "text": "17/18 kills no torneio"
+                  "remaining": 0,
+                  "text": "22/18 kills no torneio"
                 }
               },
               {
@@ -6178,10 +6203,10 @@
                 "code": "N0081",
                 "createdAt": 1790440789909,
                 "progress": {
-                  "current": 17,
+                  "current": 22,
                   "target": 18,
-                  "remaining": 1,
-                  "text": "17/18 kills no torneio"
+                  "remaining": 0,
+                  "text": "22/18 kills no torneio"
                 }
               },
               {
