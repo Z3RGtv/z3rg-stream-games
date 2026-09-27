@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:29:19.617Z",
+  "updatedAt": "2026-09-27T17:30:02.385Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1570,8 +1570,8 @@
         "delaySeconds": 20,
         "open": true,
         "connected": true,
-        "firstRound": 10,
-        "updatedAt": 1790530154566,
+        "firstRound": 11,
+        "updatedAt": 1790530201643,
         "champions": [
           {
             "code": "C01",
@@ -2478,8 +2478,8 @@
               "remaining": 22,
               "text": "23/45 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "2d91ad40-c738-4c8a-9c12-c4c295450d78:bce27060-4551-411a-b0a7-ffcac5f058e0",
@@ -2542,8 +2542,8 @@
               "remaining": 18,
               "text": "17/35 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
@@ -2862,8 +2862,8 @@
               "remaining": 24,
               "text": "16/40 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
@@ -3622,8 +3622,8 @@
               "remaining": 9,
               "text": "8/17 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -4664,8 +4664,8 @@
               "remaining": 1,
               "text": "2/3 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -9843,6 +9843,54 @@
               "target": 19,
               "remaining": 3,
               "text": "16/19 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 31,
+            "difficulty": "easy",
+            "evidence": "27 kills/10 jogos atuais; média 2.70",
+            "label": "31 kills no torneio",
+            "teamKey": "8739b089-543b-4a82-82d8-6fa7941b3262:927f62de-b612-4539-bf2b-a9d918ac5ac6",
+            "teamName": "Tidi / Julle",
+            "playerIds": [
+              "8739b089-543b-4a82-82d8-6fa7941b3262",
+              "927f62de-b612-4539-bf2b-a9d918ac5ac6"
+            ],
+            "version": 1,
+            "code": "N0321",
+            "createdAt": 1790530197335,
+            "progress": {
+              "current": 27,
+              "target": 31,
+              "remaining": 4,
+              "text": "27/31 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 16,
+            "difficulty": "easy",
+            "evidence": "14 kills/10 jogos atuais; média 1.40",
+            "label": "16 kills no torneio",
+            "teamKey": "11c2360a-c162-43db-85dd-822a8cb6ad3c:8bd1f40d-430c-4bd9-8067-2d253fbab307",
+            "teamName": "Cringe / 1Lusha",
+            "playerIds": [
+              "11c2360a-c162-43db-85dd-822a8cb6ad3c",
+              "8bd1f40d-430c-4bd9-8067-2d253fbab307"
+            ],
+            "version": 1,
+            "code": "N0322",
+            "createdAt": 1790530201647,
+            "progress": {
+              "current": 14,
+              "target": 16,
+              "remaining": 2,
+              "text": "14/16 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
