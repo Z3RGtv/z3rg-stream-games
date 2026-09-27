@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:38:59.617Z",
+  "updatedAt": "2026-09-27T16:39:05.851Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1443,7 +1443,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790527139388,
+        "updatedAt": 1790527144018,
         "champions": [
           {
             "code": "C01",
@@ -2537,10 +2537,10 @@
             "code": "B021",
             "version": 1,
             "progress": {
-              "current": 7,
+              "current": 14,
               "target": 45,
-              "remaining": 38,
-              "text": "7/45 kills no torneio"
+              "remaining": 31,
+              "text": "14/45 kills no torneio"
             },
             "available": false,
             "reason": "Poucos jogos para este objetivo"
@@ -5582,10 +5582,10 @@
             "code": "N0151",
             "createdAt": 1790518613960,
             "progress": {
-              "current": 12,
+              "current": 16,
               "target": 10,
               "remaining": 0,
-              "text": "12/10 kills no torneio"
+              "text": "16/10 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6918,7 +6918,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 4,
-            "difficulty": "medium",
+            "difficulty": "easy",
             "label": "4 jogos no top 15",
             "evidence": "2 top 15 em 8 jogos atuais; faltam 2",
             "teamKey": "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf:fd65e10f-657e-42f5-9fe1-5d3a9348004a",
@@ -6931,13 +6931,13 @@
             "code": "N0206",
             "createdAt": 1790526687584,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 4,
-              "remaining": 2,
-              "text": "2/4 top 15 no torneio"
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Em arquivo"
           },
           {
             "kind": "countTop",
@@ -7103,13 +7103,13 @@
             "code": "N0213",
             "createdAt": 1790526692411,
             "progress": {
-              "current": 7,
+              "current": 14,
               "target": 10,
-              "remaining": 3,
-              "text": "7/10 kills no torneio"
+              "remaining": 0,
+              "text": "14/10 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -7449,8 +7449,8 @@
               "remaining": 2,
               "text": "5/7 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "countTop",
@@ -7944,7 +7944,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 3,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "3 jogos no top 15",
             "evidence": "2 top 15 em 8 jogos atuais",
             "teamKey": "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf:fd65e10f-657e-42f5-9fe1-5d3a9348004a",
@@ -7957,13 +7957,13 @@
             "code": "N0248",
             "createdAt": 1790526736969,
             "progress": {
-              "current": 2,
+              "current": 3,
               "target": 3,
-              "remaining": 1,
-              "text": "2/3 top 15 no torneio"
+              "remaining": 0,
+              "text": "3/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -8373,13 +8373,13 @@
             "code": "N0265",
             "createdAt": 1790526739788,
             "progress": {
-              "current": 12,
+              "current": 16,
               "target": 16,
-              "remaining": 4,
-              "text": "12/16 kills no torneio"
+              "remaining": 0,
+              "text": "16/16 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -9203,6 +9203,129 @@
               "target": 33,
               "remaining": 6,
               "text": "27/33 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 9 jogos atuais; faltam 2",
+            "teamKey": "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf:fd65e10f-657e-42f5-9fe1-5d3a9348004a",
+            "teamName": "Minipiyo / Fuukun",
+            "playerIds": [
+              "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf",
+              "fd65e10f-657e-42f5-9fe1-5d3a9348004a"
+            ],
+            "version": 1,
+            "code": "N0300",
+            "createdAt": 1790527140805,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 20,
+            "difficulty": "easy",
+            "evidence": "16 kills/9 jogos atuais; média 1.78",
+            "label": "20 kills no torneio",
+            "teamKey": "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf:fd65e10f-657e-42f5-9fe1-5d3a9348004a",
+            "teamName": "Minipiyo / Fuukun",
+            "playerIds": [
+              "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf",
+              "fd65e10f-657e-42f5-9fe1-5d3a9348004a"
+            ],
+            "version": 1,
+            "code": "N0301",
+            "createdAt": 1790527140805,
+            "progress": {
+              "current": 16,
+              "target": 20,
+              "remaining": 4,
+              "text": "16/20 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 9 jogos atuais; faltam 2",
+            "teamKey": "c51a36b2-50f5-45df-bf31-31abef2a7151:fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b",
+            "teamName": "kingaling / Kraez",
+            "playerIds": [
+              "c51a36b2-50f5-45df-bf31-31abef2a7151",
+              "fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b"
+            ],
+            "version": 1,
+            "code": "N0302",
+            "createdAt": 1790527143053,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 9 jogos atuais",
+            "teamKey": "c51a36b2-50f5-45df-bf31-31abef2a7151:fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b",
+            "teamName": "kingaling / Kraez",
+            "playerIds": [
+              "c51a36b2-50f5-45df-bf31-31abef2a7151",
+              "fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b"
+            ],
+            "version": 1,
+            "code": "N0303",
+            "createdAt": 1790527143053,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 18,
+            "difficulty": "easy",
+            "evidence": "14 kills/9 jogos atuais; média 1.56",
+            "label": "18 kills no torneio",
+            "teamKey": "c51a36b2-50f5-45df-bf31-31abef2a7151:fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b",
+            "teamName": "kingaling / Kraez",
+            "playerIds": [
+              "c51a36b2-50f5-45df-bf31-31abef2a7151",
+              "fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b"
+            ],
+            "version": 1,
+            "code": "N0304",
+            "createdAt": 1790527143053,
+            "progress": {
+              "current": 14,
+              "target": 18,
+              "remaining": 4,
+              "text": "14/18 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -11232,10 +11355,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 7,
+                  "current": 14,
                   "target": 45,
-                  "remaining": 38,
-                  "text": "7/45 kills no torneio"
+                  "remaining": 31,
+                  "text": "14/45 kills no torneio"
                 }
               },
               {
