@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:41:57.617Z",
+  "updatedAt": "2026-09-27T18:44:04.239Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,58 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "0221550d-2617-4b2e-b369-3d0992230232",
+          "day": 2,
+          "match": 6,
+          "label": "Sky / Scroll e IDrop / Ghonzo conseguem ambos top 10?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:1119954079",
+              "name": "salvadormdm",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "972e2500-7d74-4806-bac3-f57f762f5c43",
           "day": 2,
