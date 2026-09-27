@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:02:04.877Z",
+  "updatedAt": "2026-09-27T16:03:31.888Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1270,7 +1270,7 @@
         "open": true,
         "connected": true,
         "firstRound": 9,
-        "updatedAt": 1790524924409,
+        "updatedAt": 1790525006848,
         "champions": [
           {
             "code": "C01",
@@ -3944,10 +3944,10 @@
             "code": "N0091",
             "createdAt": 1790445648967,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 3,
               "remaining": 0,
-              "text": "4/3 top 15 no torneio"
+              "text": "5/3 top 15 no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -4956,7 +4956,7 @@
             "kind": "countTop",
             "place": 15,
             "threshold": 5,
-            "difficulty": "easy",
+            "difficulty": "medium",
             "label": "5 jogos no top 15",
             "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
             "teamKey": "28f2d420-7f91-4283-8351-f610815012e1:37da09eb-8b57-4968-ad36-da5adc02232b",
@@ -4969,13 +4969,13 @@
             "code": "N0133",
             "createdAt": 1790517970027,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 5,
-              "remaining": 1,
-              "text": "4/5 top 15 no torneio"
+              "remaining": 0,
+              "text": "5/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -4994,10 +4994,10 @@
             "code": "N0134",
             "createdAt": 1790517970027,
             "progress": {
-              "current": 4,
+              "current": 5,
               "target": 4,
               "remaining": 0,
-              "text": "4/4 top 15 no torneio"
+              "text": "5/4 top 15 no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -5018,10 +5018,10 @@
             "code": "N0135",
             "createdAt": 1790517970027,
             "progress": {
-              "current": 22,
+              "current": 23,
               "target": 30,
-              "remaining": 8,
-              "text": "22/30 kills no torneio"
+              "remaining": 7,
+              "text": "23/30 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -7642,10 +7642,10 @@
                 "code": "N0133",
                 "createdAt": 1790517970027,
                 "progress": {
-                  "current": 4,
+                  "current": 5,
                   "target": 5,
-                  "remaining": 1,
-                  "text": "4/5 top 15 no torneio"
+                  "remaining": 0,
+                  "text": "5/5 top 15 no torneio"
                 }
               },
               {
