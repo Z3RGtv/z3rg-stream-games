@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:09:35.119Z",
+  "updatedAt": "2026-09-27T16:13:35.750Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,44 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "e0630ac0-8678-4fba-aa19-60f521600f6a",
+          "day": 2,
+          "match": 3,
+          "label": "Mack / Diguera termina sem kills?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "1f849925-22e4-4f4b-8865-91e852fbebbc",
           "day": 2,
