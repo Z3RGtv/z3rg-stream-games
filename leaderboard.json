@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:40:55.602Z",
+  "updatedAt": "2026-09-27T16:41:13.002Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1443,7 +1443,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790527233829,
+        "updatedAt": 1790527272614,
         "champions": [
           {
             "code": "C01",
@@ -14008,12 +14008,12 @@
           }
         ],
         "overlay": {
-          "id": "dcf7eced-6b00-486d-8285-3f977945f625",
+          "id": "e5b94d1b-6266-4c4b-8ea9-66658e1a7658",
           "userId": "505385285",
-          "code": "B048",
+          "code": "N0145",
           "completed": true,
-          "startAt": 1790527251875,
-          "expiresAt": 1790527258375,
+          "startAt": 1790527271375,
+          "expiresAt": 1790527277875,
           "card": {
             "userId": "505385285",
             "name": "hst_playz_pt",
