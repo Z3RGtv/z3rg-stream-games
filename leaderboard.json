@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:41:06.644Z",
+  "updatedAt": "2026-09-27T18:41:57.617Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -2109,7 +2109,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790534461564,
+        "updatedAt": 1790534512548,
         "champions": [
           {
             "code": "C01",
@@ -4570,8 +4570,8 @@
               "remaining": 1,
               "text": "5/6 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5471,7 +5471,7 @@
               "text": "5/9 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -6180,8 +6180,8 @@
               "remaining": 3,
               "text": "11/14 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "countTop",
@@ -6816,7 +6816,7 @@
               "text": "5/8 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7332,7 +7332,7 @@
               "text": "5/7 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
