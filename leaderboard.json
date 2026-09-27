@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:03:48.937Z",
+  "updatedAt": "2026-09-27T17:11:02.391Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,58 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "fe21adb5-bc72-489f-bde3-567fb3a9b3f6",
+          "day": 2,
+          "match": 4,
+          "label": "Quantas kills somam Peterbot / Pollo e IDrop / Ghonzo?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "2 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "3 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:1119954079",
+              "name": "salvadormdm",
+              "platform": "twitch",
+              "answer": "10 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "5 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "4 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "8 kills",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "6e95f3ff-25e8-43bc-ac4d-f3167c0d611b",
           "day": 2,
