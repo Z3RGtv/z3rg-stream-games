@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:27:48.776Z",
+  "updatedAt": "2026-09-27T17:29:19.617Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790530063722,
+        "updatedAt": 1790530154566,
         "champions": [
           {
             "code": "C01",
@@ -9819,6 +9819,30 @@
               "target": 29,
               "remaining": 4,
               "text": "25/29 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 19,
+            "difficulty": "easy",
+            "evidence": "16 kills/10 jogos atuais; média 1.60",
+            "label": "19 kills no torneio",
+            "teamKey": "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf:fd65e10f-657e-42f5-9fe1-5d3a9348004a",
+            "teamName": "Minipiyo / Fuukun",
+            "playerIds": [
+              "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf",
+              "fd65e10f-657e-42f5-9fe1-5d3a9348004a"
+            ],
+            "version": 1,
+            "code": "N0320",
+            "createdAt": 1790530154573,
+            "progress": {
+              "current": 16,
+              "target": 19,
+              "remaining": 3,
+              "text": "16/19 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
