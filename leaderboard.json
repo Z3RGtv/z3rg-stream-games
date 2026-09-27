@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:56:00.065Z",
+  "updatedAt": "2026-09-27T18:56:20.370Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -16121,7 +16121,15 @@
                 "version": 1,
                 "code": "N0080",
                 "createdAt": 1790440789909,
-                "proof": null,
+                "proof": {
+                  "sessionId": "0c7de430ea4247658f419eb224be3540",
+                  "kills": 3,
+                  "place": 20,
+                  "endedAt": 1790535240000,
+                  "round": 12,
+                  "day": 2,
+                  "total": 22
+                },
                 "progress": {
                   "current": 22,
                   "target": 21,
@@ -16205,7 +16213,7 @@
                 }
               }
             ],
-            "completed": 10,
+            "completed": 11,
             "lines": 1
           },
           {
@@ -16997,6 +17005,15 @@
                   "target": 21,
                   "remaining": 0,
                   "text": "22/21 kills no torneio"
+                },
+                "proof": {
+                  "sessionId": "0c7de430ea4247658f419eb224be3540",
+                  "kills": 3,
+                  "place": 20,
+                  "endedAt": 1790535240000,
+                  "round": 12,
+                  "day": 2,
+                  "total": 22
                 }
               },
               {
@@ -17086,11 +17103,449 @@
                 }
               }
             ],
-            "completed": 2,
+            "completed": 3,
             "lines": 0
           }
         ],
-        "overlay": null
+        "overlay": {
+          "id": "40721ede-4ad3-4b44-8753-60a3958ef23e",
+          "userId": "972248156",
+          "code": "N0080",
+          "completed": true,
+          "startAt": 1790535375288,
+          "expiresAt": 1790535381788,
+          "card": {
+            "userId": "972248156",
+            "name": "marquesrcarol",
+            "createdAt": 1790441995375,
+            "firstRound": 4,
+            "cells": [
+              {
+                "kind": "total",
+                "threshold": 13,
+                "difficulty": "easy",
+                "evidence": "3 kills/2 jogos atuais; média 1.50",
+                "label": "13 kills no torneio",
+                "teamKey": "0865dd0c-cabd-4156-aa6e-7757f9b5b753:b98790d7-278b-4169-947b-3c932c3a6af0",
+                "teamName": "Nebs / Nxthan",
+                "playerIds": [
+                  "0865dd0c-cabd-4156-aa6e-7757f9b5b753",
+                  "b98790d7-278b-4169-947b-3c932c3a6af0"
+                ],
+                "version": 1,
+                "code": "N0069",
+                "createdAt": 1790438676726,
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 7,
+                  "place": 14,
+                  "endedAt": 1790448480000,
+                  "round": 6,
+                  "day": 1,
+                  "total": 15
+                },
+                "progress": {
+                  "current": 28,
+                  "target": 13,
+                  "remaining": 0,
+                  "text": "28/13 kills no torneio"
+                }
+              },
+              {
+                "teamKey": "2fc6c760-b950-4e61-87cd-e71d86d314c8:990f29fa-76f9-482f-8078-20dd4807f464",
+                "teamName": "Cr1nge / Twi",
+                "playerIds": [
+                  "2fc6c760-b950-4e61-87cd-e71d86d314c8",
+                  "990f29fa-76f9-482f-8078-20dd4807f464"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "total",
+                "threshold": 25,
+                "difficulty": "hard",
+                "label": "25 kills no torneio",
+                "evidence": "15/8 jogos; referência 12 jogos: 22.5",
+                "code": "B048",
+                "version": 1,
+                "proof": {
+                  "sessionId": "16bc3e1c09dd46d89711623f2e165eea",
+                  "kills": 3,
+                  "place": 4,
+                  "endedAt": 1790527080000,
+                  "round": 9,
+                  "day": 2,
+                  "total": 25
+                },
+                "progress": {
+                  "current": 33,
+                  "target": 25,
+                  "remaining": 0,
+                  "text": "33/25 kills no torneio"
+                }
+              },
+              {
+                "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
+                "teamName": "Reet / Cooper",
+                "playerIds": [
+                  "44a112b0-4dc2-40cb-ba85-518f99b7ff35",
+                  "5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "3/8 jogos",
+                "code": "B017",
+                "version": 1,
+                "proof": {
+                  "sessionId": "1b4264a019694dc49fa79f6f43bd909d",
+                  "kills": 5,
+                  "place": 4,
+                  "endedAt": 1790530560000,
+                  "round": 10,
+                  "day": 2
+                },
+                "progress": null
+              },
+              {
+                "code": "C34",
+                "teamKey": "02c93e45-88f2-41ba-a6cb-5040632326b4:881f4d75-aa30-46c5-b648-a73aea641e69",
+                "teamName": "vic0 / Malibuca",
+                "playerIds": [
+                  "02c93e45-88f2-41ba-a6cb-5040632326b4",
+                  "881f4d75-aa30-46c5-b648-a73aea641e69"
+                ],
+                "kind": "champion",
+                "difficulty": "hard",
+                "label": "Vence a FNCS",
+                "version": 1,
+                "proof": null,
+                "progress": null
+              },
+              {
+                "teamKey": "34009ee2-0b02-4cfb-843d-984e5b9b30aa:a28109dd-beb7-48ad-93b9-4e205e5a2048",
+                "teamName": "Shadow / Vergo",
+                "playerIds": [
+                  "34009ee2-0b02-4cfb-843d-984e5b9b30aa",
+                  "a28109dd-beb7-48ad-93b9-4e205e5a2048"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "total",
+                "threshold": 35,
+                "difficulty": "hard",
+                "label": "35 kills no torneio",
+                "evidence": "20/8 jogos; referência 12 jogos: 30",
+                "code": "B024",
+                "version": 1,
+                "proof": null,
+                "progress": {
+                  "current": 5,
+                  "target": 35,
+                  "remaining": 30,
+                  "text": "5/35 kills no torneio"
+                }
+              },
+              {
+                "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
+                "teamName": "Focus / Th0masHD",
+                "playerIds": [
+                  "30dda2a7-8184-451f-8e7f-85530e34e7af",
+                  "daff9a4a-3b01-42e5-ae58-077a3ee1b4cc"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 10,
+                "difficulty": "medium",
+                "label": "Top 10",
+                "evidence": "3/8 jogos",
+                "code": "B029",
+                "version": 1,
+                "proof": {
+                  "sessionId": "28f2d472a6434218adf4c0492c4a25c7",
+                  "kills": 7,
+                  "place": 10,
+                  "endedAt": 1790533020000,
+                  "round": 11,
+                  "day": 2
+                },
+                "progress": null
+              },
+              {
+                "kind": "total",
+                "threshold": 17,
+                "difficulty": "easy",
+                "evidence": "4 kills/2 jogos atuais; média 2.00",
+                "label": "17 kills no torneio",
+                "teamKey": "278c95a8-671d-432d-a211-0578a5120e7b:55e5ae95-186e-4724-955a-14e57d0c5601",
+                "teamName": "5AALD / 27Q8",
+                "playerIds": [
+                  "278c95a8-671d-432d-a211-0578a5120e7b",
+                  "55e5ae95-186e-4724-955a-14e57d0c5601"
+                ],
+                "version": 1,
+                "code": "N0065",
+                "createdAt": 1790438387118,
+                "proof": null,
+                "progress": {
+                  "current": 12,
+                  "target": 17,
+                  "remaining": 5,
+                  "text": "12/17 kills no torneio"
+                }
+              },
+              {
+                "teamKey": "02c93e45-88f2-41ba-a6cb-5040632326b4:881f4d75-aa30-46c5-b648-a73aea641e69",
+                "teamName": "vic0 / Malibuca",
+                "playerIds": [
+                  "02c93e45-88f2-41ba-a6cb-5040632326b4",
+                  "881f4d75-aa30-46c5-b648-a73aea641e69"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "4/8 jogos",
+                "code": "B002",
+                "version": 1,
+                "proof": {
+                  "sessionId": "6d13257b69ef48508a5bc6710d6ddfd7",
+                  "kills": 4,
+                  "place": 2,
+                  "endedAt": 1790444640000,
+                  "round": 4,
+                  "day": 1
+                },
+                "progress": null
+              },
+              {
+                "kind": "total",
+                "threshold": 9,
+                "difficulty": "easy",
+                "evidence": "2 kills/2 jogos atuais; média 1.00",
+                "label": "9 kills no torneio",
+                "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
+                "teamName": "Peterbot / Pollo",
+                "playerIds": [
+                  "45ce4565-b6db-452c-9419-119b12e7eac3",
+                  "9868429b-133a-42b8-a43f-737887da4673"
+                ],
+                "version": 1,
+                "code": "N0060",
+                "createdAt": 1790438384488,
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1,
+                  "total": 11
+                },
+                "progress": {
+                  "current": 29,
+                  "target": 9,
+                  "remaining": 0,
+                  "text": "29/9 kills no torneio"
+                }
+              },
+              {
+                "kind": "countTop",
+                "place": 15,
+                "threshold": 3,
+                "difficulty": "medium",
+                "label": "3 jogos no top 15",
+                "evidence": "2 top 15 em 2 jogos atuais",
+                "teamKey": "87a8e3b6-5379-41d5-8bbe-e06b9ac19b6a:9d753f5a-be9b-43fa-9915-ff04a54ca3f0",
+                "teamName": "josh / Eomzo",
+                "playerIds": [
+                  "87a8e3b6-5379-41d5-8bbe-e06b9ac19b6a",
+                  "9d753f5a-be9b-43fa-9915-ff04a54ca3f0"
+                ],
+                "version": 1,
+                "code": "N0073",
+                "createdAt": 1790438691969,
+                "proof": {
+                  "sessionId": "0b7596957fb04d35b9e551b22c35b445",
+                  "kills": 0,
+                  "place": 12,
+                  "endedAt": 1790446500000,
+                  "round": 5,
+                  "day": 1,
+                  "count": 4
+                },
+                "progress": {
+                  "current": 4,
+                  "target": 3,
+                  "remaining": 0,
+                  "text": "4/3 top 15 no torneio"
+                }
+              },
+              {
+                "teamKey": "c51a36b2-50f5-45df-bf31-31abef2a7151:fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b",
+                "teamName": "kingaling / Kraez",
+                "playerIds": [
+                  "c51a36b2-50f5-45df-bf31-31abef2a7151",
+                  "fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "2/8 jogos",
+                "code": "B020",
+                "version": 1,
+                "proof": null,
+                "progress": null
+              },
+              {
+                "kind": "countTop",
+                "place": 15,
+                "threshold": 3,
+                "difficulty": "medium",
+                "label": "3 jogos no top 15",
+                "evidence": "2 top 15 em 2 jogos atuais",
+                "teamKey": "9b108368-8c3e-4364-b0c4-48d7bc9b4c06:ebbc1eda-a769-417e-b582-1b56d722c3f5",
+                "teamName": "Velo / Zynox",
+                "playerIds": [
+                  "9b108368-8c3e-4364-b0c4-48d7bc9b4c06",
+                  "ebbc1eda-a769-417e-b582-1b56d722c3f5"
+                ],
+                "version": 1,
+                "code": "N0070",
+                "createdAt": 1790438676727,
+                "proof": {
+                  "sessionId": "28f2d472a6434218adf4c0492c4a25c7",
+                  "kills": 0,
+                  "place": 11,
+                  "endedAt": 1790533020000,
+                  "round": 11,
+                  "day": 2,
+                  "count": 3
+                },
+                "progress": {
+                  "current": 3,
+                  "target": 3,
+                  "remaining": 0,
+                  "text": "3/3 top 15 no torneio"
+                }
+              },
+              {
+                "kind": "total",
+                "threshold": 21,
+                "difficulty": "easy",
+                "evidence": "7 kills/3 jogos atuais; média 2.33",
+                "label": "21 kills no torneio",
+                "teamKey": "3dd15740-1bdc-4ae3-9cf3-a467f4535e14:dbd606be-bc17-4bae-8c9b-a2c56bd91e25",
+                "teamName": "Huty / F1shyX",
+                "playerIds": [
+                  "3dd15740-1bdc-4ae3-9cf3-a467f4535e14",
+                  "dbd606be-bc17-4bae-8c9b-a2c56bd91e25"
+                ],
+                "version": 1,
+                "code": "N0080",
+                "createdAt": 1790440789909,
+                "proof": {
+                  "sessionId": "0c7de430ea4247658f419eb224be3540",
+                  "kills": 3,
+                  "place": 20,
+                  "endedAt": 1790535240000,
+                  "round": 12,
+                  "day": 2,
+                  "total": 22
+                },
+                "progress": {
+                  "current": 22,
+                  "target": 21,
+                  "remaining": 0,
+                  "text": "22/21 kills no torneio"
+                }
+              },
+              {
+                "teamKey": "2d91ad40-c738-4c8a-9c12-c4c295450d78:bce27060-4551-411a-b0a7-ffcac5f058e0",
+                "teamName": "Acorn / Boltz",
+                "playerIds": [
+                  "2d91ad40-c738-4c8a-9c12-c4c295450d78",
+                  "bce27060-4551-411a-b0a7-ffcac5f058e0"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "2/8 jogos",
+                "code": "B014",
+                "version": 1,
+                "proof": {
+                  "sessionId": "16bc3e1c09dd46d89711623f2e165eea",
+                  "kills": 8,
+                  "place": 1,
+                  "endedAt": 1790527140000,
+                  "round": 9,
+                  "day": 2
+                },
+                "progress": null
+              },
+              {
+                "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
+                "teamName": "Peterbot / Pollo",
+                "playerIds": [
+                  "45ce4565-b6db-452c-9419-119b12e7eac3",
+                  "9868429b-133a-42b8-a43f-737887da4673"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "single",
+                "kills": 0,
+                "place": 5,
+                "difficulty": "medium",
+                "label": "Top 5",
+                "evidence": "3/8 jogos",
+                "code": "B005",
+                "version": 1,
+                "proof": {
+                  "sessionId": "0bef11d9f0924394a4a44e53185e2254",
+                  "kills": 5,
+                  "place": 3,
+                  "endedAt": 1790448600000,
+                  "round": 6,
+                  "day": 1
+                },
+                "progress": null
+              },
+              {
+                "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
+                "teamName": "Shxrk / t3eny",
+                "playerIds": [
+                  "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4",
+                  "e7987ee7-c7fa-43dd-8142-52eedc06af2f"
+                ],
+                "source": "https://fortnitetracker.com/events/epicgames_Bratwurst_Official?window=Bratwurst_Finals_Day3",
+                "kind": "total",
+                "threshold": 50,
+                "difficulty": "hard",
+                "label": "50 kills no torneio",
+                "evidence": "30/8 jogos; referência 12 jogos: 45",
+                "code": "B009",
+                "version": 1,
+                "proof": null,
+                "progress": {
+                  "current": 36,
+                  "target": 50,
+                  "remaining": 14,
+                  "text": "36/50 kills no torneio"
+                }
+              }
+            ],
+            "completed": 11,
+            "lines": 1
+          }
+        }
       },
       "periods": {
         "day1": [
