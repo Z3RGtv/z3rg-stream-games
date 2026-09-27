@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:56:05.219Z",
+  "updatedAt": "2026-09-27T18:00:58.006Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1835,7 +1835,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790530733936,
+        "updatedAt": 1790532052948,
         "champions": [
           {
             "code": "C01",
@@ -3377,10 +3377,10 @@
             "code": "B042",
             "version": 1,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 35,
               "remaining": 0,
-              "text": "35/35 kills no torneio"
+              "text": "36/35 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6122,10 +6122,10 @@
             "code": "N0157",
             "createdAt": 1790518615703,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 29,
               "remaining": 0,
-              "text": "35/29 kills no torneio"
+              "text": "36/29 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -8862,10 +8862,10 @@
             "code": "N0269",
             "createdAt": 1790526775787,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 27,
               "remaining": 0,
-              "text": "35/27 kills no torneio"
+              "text": "36/27 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -9492,10 +9492,10 @@
             "code": "N0295",
             "createdAt": 1790527093825,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 32,
               "remaining": 0,
-              "text": "35/32 kills no torneio"
+              "text": "36/32 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -11061,7 +11061,7 @@
               "text": "5/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -11079,10 +11079,10 @@
             "code": "N0360",
             "createdAt": 1790530640409,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 40,
-              "remaining": 5,
-              "text": "35/40 kills no torneio"
+              "remaining": 4,
+              "text": "36/40 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -11157,6 +11157,30 @@
               "target": 17,
               "remaining": 2,
               "text": "15/17 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 39,
+            "difficulty": "easy",
+            "evidence": "36 kills/11 jogos atuais; média 3.27",
+            "label": "39 kills no torneio",
+            "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
+            "teamName": "Tjino / PabloWingu",
+            "playerIds": [
+              "137b42eb-15ad-4c0e-aed6-68678ef884a6",
+              "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
+            ],
+            "version": 1,
+            "code": "N0364",
+            "createdAt": 1790532052954,
+            "progress": {
+              "current": 36,
+              "target": 39,
+              "remaining": 3,
+              "text": "36/39 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
