@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:44:18.134Z",
+  "updatedAt": "2026-09-27T15:45:31.633Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,79 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "cbdec3d3-e5cb-424a-94e0-597bdcd262c5",
+          "day": 2,
+          "match": 2,
+          "label": "SwizzY / Pixie e Syaaz / Scaryy conseguem ambos top 10?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:1119954079",
+              "name": "salvadormdm",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:1456923742",
+              "name": "matoswar2003",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "1ff2c057-63b8-443d-8ad5-7366133c9440",
           "day": 2,
