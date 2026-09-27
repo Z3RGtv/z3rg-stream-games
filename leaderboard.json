@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:33:00.837Z",
+  "updatedAt": "2026-09-27T16:33:07.442Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1443,7 +1443,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790526778382,
+        "updatedAt": 1790526782384,
         "champions": [
           {
             "code": "C01",
@@ -3537,10 +3537,10 @@
             "code": "N0067",
             "createdAt": 1790438388990,
             "progress": {
-              "current": 9,
+              "current": 10,
               "target": 13,
-              "remaining": 4,
-              "text": "9/13 kills no torneio"
+              "remaining": 3,
+              "text": "10/13 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -4481,10 +4481,10 @@
             "code": "N0106",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 9,
+              "current": 10,
               "target": 12,
-              "remaining": 3,
-              "text": "9/12 kills no torneio"
+              "remaining": 2,
+              "text": "10/12 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -6290,10 +6290,10 @@
             "code": "N0180",
             "createdAt": 1790522531931,
             "progress": {
-              "current": 9,
+              "current": 10,
               "target": 14,
-              "remaining": 5,
-              "text": "9/14 kills no torneio"
+              "remaining": 4,
+              "text": "10/14 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
