@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:36:41.455Z",
+  "updatedAt": "2026-09-27T17:36:46.647Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790530599225,
+        "updatedAt": 1790530601582,
         "champions": [
           {
             "code": "C01",
@@ -10622,6 +10622,56 @@
               "target": 6,
               "remaining": 2,
               "text": "4/6 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 10 jogos atuais; faltam 2",
+            "teamKey": "18fa904f-2777-4f18-96cb-6322fbbe8e86:b3df1be9-574b-4cc8-aa73-6447ab61644c",
+            "teamName": "Fant / Volko",
+            "playerIds": [
+              "18fa904f-2777-4f18-96cb-6322fbbe8e86",
+              "b3df1be9-574b-4cc8-aa73-6447ab61644c"
+            ],
+            "version": 1,
+            "code": "N0353",
+            "createdAt": 1790530601588,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 10 jogos atuais",
+            "teamKey": "18fa904f-2777-4f18-96cb-6322fbbe8e86:b3df1be9-574b-4cc8-aa73-6447ab61644c",
+            "teamName": "Fant / Volko",
+            "playerIds": [
+              "18fa904f-2777-4f18-96cb-6322fbbe8e86",
+              "b3df1be9-574b-4cc8-aa73-6447ab61644c"
+            ],
+            "version": 1,
+            "code": "N0354",
+            "createdAt": 1790530601588,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
