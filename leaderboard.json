@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:13:57.044Z",
+  "updatedAt": "2026-09-27T18:15:19.406Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790532833748,
+        "updatedAt": 1790532917480,
         "champions": [
           {
             "code": "C01",
@@ -11425,6 +11425,30 @@
               "target": 13,
               "remaining": 1,
               "text": "12/13 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 45,
+            "difficulty": "easy",
+            "evidence": "42 kills/11 jogos atuais; média 3.82",
+            "label": "45 kills no torneio",
+            "teamKey": "02c93e45-88f2-41ba-a6cb-5040632326b4:881f4d75-aa30-46c5-b648-a73aea641e69",
+            "teamName": "vic0 / Malibuca",
+            "playerIds": [
+              "02c93e45-88f2-41ba-a6cb-5040632326b4",
+              "881f4d75-aa30-46c5-b648-a73aea641e69"
+            ],
+            "version": 1,
+            "code": "N0373",
+            "createdAt": 1790532914348,
+            "progress": {
+              "current": 42,
+              "target": 45,
+              "remaining": 3,
+              "text": "42/45 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
