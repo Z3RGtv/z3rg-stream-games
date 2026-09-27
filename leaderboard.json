@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:15:19.406Z",
+  "updatedAt": "2026-09-27T18:15:24.692Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790532917480,
+        "updatedAt": 1790532921960,
         "champions": [
           {
             "code": "C01",
@@ -4295,10 +4295,10 @@
             "code": "N0080",
             "createdAt": 1790440789909,
             "progress": {
-              "current": 17,
+              "current": 19,
               "target": 21,
-              "remaining": 4,
-              "text": "17/21 kills no torneio"
+              "remaining": 2,
+              "text": "19/21 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -5121,10 +5121,10 @@
             "code": "N0114",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 17,
+              "current": 19,
               "target": 22,
-              "remaining": 5,
-              "text": "17/22 kills no torneio"
+              "remaining": 3,
+              "text": "19/22 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -6540,10 +6540,10 @@
             "code": "N0172",
             "createdAt": 1790522527419,
             "progress": {
-              "current": 17,
+              "current": 19,
               "target": 20,
-              "remaining": 3,
-              "text": "17/20 kills no torneio"
+              "remaining": 1,
+              "text": "19/20 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -11452,6 +11452,30 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 16,
+            "difficulty": "easy",
+            "evidence": "15 kills/11 jogos atuais; média 1.36",
+            "label": "16 kills no torneio",
+            "teamKey": "8175b84a-680c-4f8d-ae3b-bfc23239290a:9485ffab-f7b8-4719-956c-56612ca00c27",
+            "teamName": "Phazma / Crusades",
+            "playerIds": [
+              "8175b84a-680c-4f8d-ae3b-bfc23239290a",
+              "9485ffab-f7b8-4719-956c-56612ca00c27"
+            ],
+            "version": 1,
+            "code": "N0374",
+            "createdAt": 1790532919641,
+            "progress": {
+              "current": 15,
+              "target": 16,
+              "remaining": 1,
+              "text": "15/16 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
           }
         ],
         "cards": [
@@ -15066,10 +15090,10 @@
                 "createdAt": 1790440789909,
                 "proof": null,
                 "progress": {
-                  "current": 17,
+                  "current": 19,
                   "target": 21,
-                  "remaining": 4,
-                  "text": "17/21 kills no torneio"
+                  "remaining": 2,
+                  "text": "19/21 kills no torneio"
                 }
               },
               {
@@ -15936,10 +15960,10 @@
                 "code": "N0080",
                 "createdAt": 1790440789909,
                 "progress": {
-                  "current": 17,
+                  "current": 19,
                   "target": 21,
-                  "remaining": 4,
-                  "text": "17/21 kills no torneio"
+                  "remaining": 2,
+                  "text": "19/21 kills no torneio"
                 }
               },
               {
