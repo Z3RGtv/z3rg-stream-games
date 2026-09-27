@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:48:20.038Z",
+  "updatedAt": "2026-09-27T18:49:15.191Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -2161,7 +2161,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790534895018,
+        "updatedAt": 1790534950135,
         "champions": [
           {
             "code": "C01",
@@ -4231,10 +4231,10 @@
             "code": "N0066",
             "createdAt": 1790438388806,
             "progress": {
-              "current": 17,
+              "current": 19,
               "target": 13,
               "remaining": 0,
-              "text": "17/13 kills no torneio"
+              "text": "19/13 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -5078,13 +5078,13 @@
             "code": "N0101",
             "createdAt": 1790448643778,
             "progress": {
-              "current": 17,
+              "current": 19,
               "target": 20,
-              "remaining": 3,
-              "text": "17/20 kills no torneio"
+              "remaining": 1,
+              "text": "19/20 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6281,8 +6281,8 @@
               "remaining": 2,
               "text": "30/32 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -7088,7 +7088,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7236,7 +7236,7 @@
               "text": "2/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -8137,13 +8137,13 @@
             "code": "N0226",
             "createdAt": 1790526733530,
             "progress": {
-              "current": 17,
+              "current": 19,
               "target": 22,
-              "remaining": 5,
-              "text": "17/22 kills no torneio"
+              "remaining": 3,
+              "text": "19/22 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -9356,13 +9356,13 @@
             "code": "N0276",
             "createdAt": 1790526960181,
             "progress": {
-              "current": 17,
+              "current": 19,
               "target": 21,
-              "remaining": 4,
-              "text": "17/21 kills no torneio"
+              "remaining": 2,
+              "text": "19/21 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11527,13 +11527,13 @@
             "code": "N0365",
             "createdAt": 1790532205220,
             "progress": {
-              "current": 17,
+              "current": 19,
               "target": 19,
-              "remaining": 2,
-              "text": "17/19 kills no torneio"
+              "remaining": 0,
+              "text": "19/19 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -13170,10 +13170,10 @@
                   "total": 13
                 },
                 "progress": {
-                  "current": 17,
+                  "current": 19,
                   "target": 13,
                   "remaining": 0,
-                  "text": "17/13 kills no torneio"
+                  "text": "19/13 kills no torneio"
                 }
               }
             ],
