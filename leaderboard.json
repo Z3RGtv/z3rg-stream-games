@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:54:28.850Z",
+  "updatedAt": "2026-09-27T18:54:50.380Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,72 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "1c5b3bf2-99ff-469e-ab17-62bf43abd0aa",
+          "day": 2,
+          "match": 6,
+          "label": "Quem termina mais acima: Shxrk / t3eny e SwizzY / Pixie?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:889363201",
+              "name": "jptim_",
+              "platform": "twitch",
+              "answer": "SwizzY / Pixie",
+              "points": null
+            },
+            {
+              "id": "twitch:1119954079",
+              "name": "salvadormdm",
+              "platform": "twitch",
+              "answer": "Shxrk / t3eny",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "Shxrk / t3eny",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "SwizzY / Pixie",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "SwizzY / Pixie",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "SwizzY / Pixie",
+              "points": null
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "SwizzY / Pixie",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "SwizzY / Pixie",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "0221550d-2617-4b2e-b369-3d0992230232",
           "day": 2,
