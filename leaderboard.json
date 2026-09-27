@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:26:01.892Z",
+  "updatedAt": "2026-09-27T15:40:51.043Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -25,6 +25,1169 @@
       ],
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
+      "answerHistory": [
+        {
+          "id": "1ff2c057-63b8-443d-8ad5-7366133c9440",
+          "day": 2,
+          "match": 2,
+          "label": "Em que posição termina Clix / Rapid?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "45.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "10.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "20.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "30.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "26.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:1456923742",
+              "name": "matoswar2003",
+              "platform": "twitch",
+              "answer": "18.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "19.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "32.º lugar",
+              "points": null
+            }
+          ]
+        },
+        {
+          "id": "f69f7256-cc30-4522-8422-1219f0f065b7",
+          "day": 2,
+          "match": 2,
+          "label": "Sky / Scroll melhora o 25.º lugar da partida anterior?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:1456923742",
+              "name": "matoswar2003",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            }
+          ]
+        },
+        {
+          "id": "0b53bf02-c98d-4128-b21a-ad7f6b3cfe75",
+          "day": 2,
+          "match": 2,
+          "label": "Minipiyo / Fuukun: 2+ kills? (média dia 1: 1.0)",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            }
+          ]
+        },
+        {
+          "id": "3190e08d-f3b1-4012-b39c-46bec162a36b",
+          "day": 2,
+          "match": 2,
+          "label": "Fant / Volko supera as 0 kills da partida anterior?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            }
+          ]
+        },
+        {
+          "id": "be6003fb-6fd0-4869-a6d3-f4709295954c",
+          "day": 2,
+          "match": 1,
+          "label": "Em que posição termina Peterbot / Pollo?",
+          "status": "SETTLED",
+          "result": "27.º lugar",
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "5.º lugar",
+              "points": 0
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "30.º lugar",
+              "points": 0
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "15.º lugar",
+              "points": 0
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "20.º lugar",
+              "points": 0
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "10.º lugar",
+              "points": 0
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "16.º lugar",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": "98bb80f1-fc48-4c7f-8f4f-2200a559c1cb",
+          "day": 2,
+          "match": 1,
+          "label": "Rax / JannisZ fará pelo menos 5 kills?",
+          "status": "SETTLED",
+          "result": "NÃO",
+          "answers": [
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            }
+          ]
+        },
+        {
+          "id": "c47eeadd-8864-430e-8ecd-00768fb50053",
+          "day": 2,
+          "match": 1,
+          "label": "Randu / Grx supera as 5 kills do seu melhor jogo do dia 1?",
+          "status": "SETTLED",
+          "result": "NÃO",
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:439693424",
+              "name": "mermaidhits",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:1069376937",
+              "name": "manu12321_",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            }
+          ]
+        },
+        {
+          "id": "7cc23344-d160-425e-9ce8-109e6e4180c6",
+          "day": 2,
+          "match": 1,
+          "label": "kingaling / Kraez: 1+ kills? (média dia 1: 0.5)",
+          "status": "SETTLED",
+          "result": "SIM",
+          "answers": [
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            },
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": "5a14accc-186e-4646-b6cd-dcdce2a8233a",
+          "day": 2,
+          "match": 1,
+          "label": "Quantas kills somam Clix / Rapid e vic0 / Malibuca?",
+          "status": "SETTLED",
+          "result": "8 kills",
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "4 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "5 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "6 kills",
+              "points": 25
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "10 kills",
+              "points": 25
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "9 kills",
+              "points": 50
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "6 kills",
+              "points": 25
+            }
+          ]
+        },
+        {
+          "id": "ca953b25-d7f7-4645-8e2d-66cfd24ec7a0",
+          "day": 2,
+          "match": 1,
+          "label": "Rax / JannisZ ganha esta partida?",
+          "status": "SETTLED",
+          "result": "NÃO",
+          "answers": [
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:1418907276",
+              "name": "donkapo7",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            }
+          ]
+        },
+        {
+          "id": "15605640-1b79-4e32-abeb-77717b0152ea",
+          "day": 1,
+          "match": 6,
+          "label": "yuma / Koyota conseguirá top 5?",
+          "status": "SETTLED",
+          "result": "NÃO",
+          "answers": [
+            {
+              "id": "twitch:164609804",
+              "name": "soniagoncalves",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": "6943d0c4-951e-4f81-8ae7-3daa804cd324",
+          "day": 1,
+          "match": 6,
+          "label": "Sky / Scroll supera as 0 kills da partida anterior?",
+          "status": "SETTLED",
+          "result": "SIM",
+          "answers": [
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            },
+            {
+              "id": "twitch:164609804",
+              "name": "soniagoncalves",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 100
+            }
+          ]
+        },
+        {
+          "id": "d5c220ae-fb57-4b86-8db5-9127ae449979",
+          "day": 1,
+          "match": 6,
+          "label": "Quantas kills somam vic0 / Malibuca e Syaaz / Scaryy?",
+          "status": "SETTLED",
+          "result": "5 kills",
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "4 kills",
+              "points": 50
+            },
+            {
+              "id": "twitch:164609804",
+              "name": "soniagoncalves",
+              "platform": "twitch",
+              "answer": "4 kills",
+              "points": 50
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "8 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "6 kills",
+              "points": 50
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "6 kills",
+              "points": 50
+            }
+          ]
+        },
+        {
+          "id": "ec89001c-e980-420c-8b7e-8195e9d47ee5",
+          "day": 1,
+          "match": 5,
+          "label": "Darm / demus fará pelo menos 6 kills?",
+          "status": "SETTLED",
+          "result": "NÃO",
+          "answers": [
+            {
+              "id": "twitch:164609804",
+              "name": "soniagoncalves",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:1069376937",
+              "name": "manu12321_",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            }
+          ]
+        },
+        {
+          "id": "dd69b826-c255-43e4-83e2-fec1b4fea32b",
+          "day": 1,
+          "match": 5,
+          "label": "Quantas kills fará Peterbot / Pollo?",
+          "status": "SETTLED",
+          "result": "1 kills",
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "6 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "3 kills",
+              "points": 25
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "2 kills",
+              "points": 50
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "2 kills",
+              "points": 50
+            }
+          ]
+        },
+        {
+          "id": "4d4651dc-d3e0-4d3c-bc13-a8f653118d1c",
+          "day": 1,
+          "match": 5,
+          "label": "Sky / Scroll melhora o 32.º lugar da partida anterior?",
+          "status": "SETTLED",
+          "result": "NÃO",
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:164609804",
+              "name": "soniagoncalves",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": "432dcbde-217d-4cfa-a733-4ff6835c5801",
+          "day": 1,
+          "match": 4,
+          "label": "Quem faz mais kills: Darm / demus e Cr1nge / Twi?",
+          "status": "CANCELLED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "Darm / demus",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "Darm / demus",
+              "points": null
+            }
+          ]
+        },
+        {
+          "id": "aa3d2235-67ec-4b9d-9c9b-e3326d362acc",
+          "day": 1,
+          "match": 4,
+          "label": "Peterbot / Pollo melhora o 38.º lugar da partida anterior?",
+          "status": "CANCELLED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            }
+          ]
+        },
+        {
+          "id": "04ae4eb6-1925-4e35-991f-045c7c7de285",
+          "day": 1,
+          "match": 4,
+          "label": "Em que posição termina Sky / Scroll?",
+          "status": "CANCELLED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "13.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "10.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "8.º lugar",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "10.º lugar",
+              "points": null
+            }
+          ]
+        },
+        {
+          "id": "73215ef0-0ff1-4b63-9a57-4f3b1689627e",
+          "day": 1,
+          "match": 4,
+          "label": "vic0 / Malibuca melhora o 20.º lugar da partida anterior?",
+          "status": "CANCELLED",
+          "result": null,
+          "answers": []
+        },
+        {
+          "id": "38348c48-ad2e-4cf7-8650-a913ebb2cfd9",
+          "day": 1,
+          "match": 4,
+          "label": "Quantas kills fará Sky / Scroll?",
+          "status": "CANCELLED",
+          "result": null,
+          "answers": []
+        },
+        {
+          "id": "a8636f03-707c-4348-9cf2-c111313385ca",
+          "day": 1,
+          "match": 3,
+          "label": "Quantas kills somam Shxrk / t3eny e Rax / JannisZ?",
+          "status": "SETTLED",
+          "result": "2 kills",
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "5 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:423908473",
+              "name": "garzia17",
+              "platform": "twitch",
+              "answer": "6 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "9 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "8 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "7 kills",
+              "points": 0
+            },
+            {
+              "id": "twitch:1456923742",
+              "name": "matoswar2003",
+              "platform": "twitch",
+              "answer": "12 kills",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": "e4e1b7e9-2d7c-4370-a00b-9e3c5c55d43d",
+          "day": 1,
+          "match": 3,
+          "label": "vic0 / Malibuca supera as 2 kills da partida anterior?",
+          "status": "SETTLED",
+          "result": "NÃO",
+          "answers": [
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:1456923742",
+              "name": "matoswar2003",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:423908473",
+              "name": "garzia17",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": "61f74a60-3da8-484b-af98-883990a93c56",
+          "day": 1,
+          "match": 3,
+          "label": "Quem termina mais acima: Higgs / Curve e yuma / Koyota?",
+          "status": "SETTLED",
+          "result": "yuma / Koyota",
+          "answers": [
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "Higgs / Curve",
+              "points": 0
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "Higgs / Curve",
+              "points": 0
+            },
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "Higgs / Curve",
+              "points": 0
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "Higgs / Curve",
+              "points": 0
+            },
+            {
+              "id": "twitch:1352711259",
+              "name": "igl_migaas",
+              "platform": "twitch",
+              "answer": "Higgs / Curve",
+              "points": 0
+            },
+            {
+              "id": "twitch:717212869",
+              "name": "curtes8",
+              "platform": "twitch",
+              "answer": "yuma / Koyota",
+              "points": 100
+            },
+            {
+              "id": "twitch:1456923742",
+              "name": "matoswar2003",
+              "platform": "twitch",
+              "answer": "Higgs / Curve",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": "46241c81-9a75-4d14-8df2-cb23579aa3d1",
+          "day": 1,
+          "match": 1,
+          "label": "Quem faz mais kills: Peterbot / Pollo e Sky / Scroll?",
+          "status": "SETTLED",
+          "result": "Peterbot / Pollo",
+          "answers": [
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "Peterbot / Pollo",
+              "points": 100
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "Peterbot / Pollo",
+              "points": 100
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "Sky / Scroll",
+              "points": 0
+            },
+            {
+              "id": "twitch:1456923742",
+              "name": "matoswar2003",
+              "platform": "twitch",
+              "answer": "Sky / Scroll",
+              "points": 0
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "Sky / Scroll",
+              "points": 0
+            },
+            {
+              "id": "twitch:717212869",
+              "name": "curtes8",
+              "platform": "twitch",
+              "answer": "Sky / Scroll",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": "56785537-77d8-43aa-98a4-45bf44b44b7a",
+          "day": 1,
+          "match": 1,
+          "label": "Shxrk / t3eny ganha esta partida?",
+          "status": "SETTLED",
+          "result": "NÃO",
+          "answers": [
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": 100
+            },
+            {
+              "id": "twitch:1456923742",
+              "name": "matoswar2003",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": 0
+            }
+          ]
+        }
+      ],
       "bingo": {
         "name": "Bingo FNCS",
         "cost": 300,
