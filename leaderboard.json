@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:04:19.445Z",
+  "updatedAt": "2026-09-27T18:05:02.384Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790532254626,
+        "updatedAt": 1790532297319,
         "champions": [
           {
             "code": "C01",
@@ -3890,8 +3890,8 @@
               "remaining": 8,
               "text": "14/22 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -5273,8 +5273,8 @@
               "remaining": 1,
               "text": "4/5 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "countTop",
@@ -11281,6 +11281,30 @@
               "target": 30,
               "remaining": 2,
               "text": "28/30 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 15,
+            "difficulty": "easy",
+            "evidence": "14 kills/11 jogos atuais; média 1.27",
+            "label": "15 kills no torneio",
+            "teamKey": "11c2360a-c162-43db-85dd-822a8cb6ad3c:8bd1f40d-430c-4bd9-8067-2d253fbab307",
+            "teamName": "Cringe / 1Lusha",
+            "playerIds": [
+              "11c2360a-c162-43db-85dd-822a8cb6ad3c",
+              "8bd1f40d-430c-4bd9-8067-2d253fbab307"
+            ],
+            "version": 1,
+            "code": "N0367",
+            "createdAt": 1790532297326,
+            "progress": {
+              "current": 14,
+              "target": 15,
+              "remaining": 1,
+              "text": "14/15 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
