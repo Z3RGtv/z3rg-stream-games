@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:17:25.759Z",
+  "updatedAt": "2026-09-27T17:18:06.232Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,37 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "d3e6d73f-1bff-4d0e-a1a8-e19b0c8ccbaa",
+          "day": 2,
+          "match": 4,
+          "label": "Cr1nge / Twi conseguirá top 10?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:164609804",
+              "name": "soniagoncalves",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "fe21adb5-bc72-489f-bde3-567fb3a9b3f6",
           "day": 2,
@@ -1540,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790529440712,
+        "updatedAt": 1790529483778,
         "champions": [
           {
             "code": "C01",
