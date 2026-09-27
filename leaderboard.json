@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T00:03:50.460Z",
+  "updatedAt": "2026-09-27T00:05:23.109Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -29,6 +29,7 @@
         "name": "Bingo FNCS",
         "cost": 300,
         "autoEntry": true,
+        "registrationEnded": false,
         "delaySeconds": 20,
         "open": true,
         "connected": false,
