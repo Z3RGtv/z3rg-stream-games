@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:32:23.171Z",
+  "updatedAt": "2026-09-27T16:33:00.837Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1443,7 +1443,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790526739782,
+        "updatedAt": 1790526778382,
         "champions": [
           {
             "code": "C01",
@@ -8401,6 +8401,175 @@
               "target": 14,
               "remaining": 3,
               "text": "11/14 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 9 jogos atuais; faltam 2",
+            "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
+            "teamName": "Chap / Flickzy",
+            "playerIds": [
+              "24b48d45-3b69-42d2-ad5d-c63d91bf66fc",
+              "ddf01726-1947-4dde-b19f-855dc065b80c"
+            ],
+            "version": 1,
+            "code": "N0267",
+            "createdAt": 1790526775787,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 25,
+            "difficulty": "easy",
+            "evidence": "20 kills/9 jogos atuais; média 2.22",
+            "label": "25 kills no torneio",
+            "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
+            "teamName": "Chap / Flickzy",
+            "playerIds": [
+              "24b48d45-3b69-42d2-ad5d-c63d91bf66fc",
+              "ddf01726-1947-4dde-b19f-855dc065b80c"
+            ],
+            "version": 1,
+            "code": "N0268",
+            "createdAt": 1790526775787,
+            "progress": {
+              "current": 20,
+              "target": 25,
+              "remaining": 5,
+              "text": "20/25 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 27,
+            "difficulty": "easy",
+            "evidence": "20 kills/8 jogos atuais; média 2.50",
+            "label": "27 kills no torneio",
+            "teamKey": "137b42eb-15ad-4c0e-aed6-68678ef884a6:9cd77d61-6132-4469-9e3d-fb7815f59cf9",
+            "teamName": "Tjino / PabloWingu",
+            "playerIds": [
+              "137b42eb-15ad-4c0e-aed6-68678ef884a6",
+              "9cd77d61-6132-4469-9e3d-fb7815f59cf9"
+            ],
+            "version": 1,
+            "code": "N0269",
+            "createdAt": 1790526775787,
+            "progress": {
+              "current": 20,
+              "target": 27,
+              "remaining": 7,
+              "text": "20/27 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 38,
+            "difficulty": "easy",
+            "evidence": "31 kills/9 jogos atuais; média 3.44",
+            "label": "38 kills no torneio",
+            "teamKey": "68c17d1e-ea3c-42ad-98d7-2b48675242ea:dca13c06-26af-4af7-aadf-39c3ba44914b",
+            "teamName": "Darm / demus",
+            "playerIds": [
+              "68c17d1e-ea3c-42ad-98d7-2b48675242ea",
+              "dca13c06-26af-4af7-aadf-39c3ba44914b"
+            ],
+            "version": 1,
+            "code": "N0270",
+            "createdAt": 1790526775787,
+            "progress": {
+              "current": 31,
+              "target": 38,
+              "remaining": 7,
+              "text": "31/38 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 6,
+            "difficulty": "easy",
+            "evidence": "4 kills/8 jogos atuais; média 0.50",
+            "label": "6 kills no torneio",
+            "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
+            "teamName": "Resignz / Tinka",
+            "playerIds": [
+              "15221258-a561-4a82-89d6-60cb116aa4d2",
+              "22cf7972-39f5-42ca-af59-7660403c97a6"
+            ],
+            "version": 1,
+            "code": "N0271",
+            "createdAt": 1790526775787,
+            "progress": {
+              "current": 4,
+              "target": 6,
+              "remaining": 2,
+              "text": "4/6 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 16,
+            "difficulty": "easy",
+            "evidence": "12 kills/8 jogos atuais; média 1.50",
+            "label": "16 kills no torneio",
+            "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
+            "teamName": "Focus / Th0masHD",
+            "playerIds": [
+              "30dda2a7-8184-451f-8e7f-85530e34e7af",
+              "daff9a4a-3b01-42e5-ae58-077a3ee1b4cc"
+            ],
+            "version": 1,
+            "code": "N0272",
+            "createdAt": 1790526775787,
+            "progress": {
+              "current": 12,
+              "target": 16,
+              "remaining": 4,
+              "text": "12/16 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 31,
+            "difficulty": "easy",
+            "evidence": "23 kills/8 jogos atuais; média 2.88",
+            "label": "31 kills no torneio",
+            "teamKey": "28f2d420-7f91-4283-8351-f610815012e1:37da09eb-8b57-4968-ad36-da5adc02232b",
+            "teamName": "Ritual / Cold",
+            "playerIds": [
+              "28f2d420-7f91-4283-8351-f610815012e1",
+              "37da09eb-8b57-4968-ad36-da5adc02232b"
+            ],
+            "version": 1,
+            "code": "N0273",
+            "createdAt": 1790526778388,
+            "progress": {
+              "current": 23,
+              "target": 31,
+              "remaining": 8,
+              "text": "23/31 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
