@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T00:05:23.109Z",
+  "updatedAt": "2026-09-27T14:06:15.051Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -34,7 +34,7 @@
         "open": true,
         "connected": false,
         "firstRound": 7,
-        "updatedAt": 1790467324750,
+        "updatedAt": 1790517970025,
         "champions": [
           {
             "code": "C01",
@@ -3520,6 +3520,349 @@
             },
             "available": true,
             "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "68e6282a-0535-4cf7-bd7c-c1ceabd4be76:862a8295-93db-4771-a996-5076bf1621b7",
+            "teamName": "Rax / JannisZ",
+            "playerIds": [
+              "68e6282a-0535-4cf7-bd7c-c1ceabd4be76",
+              "862a8295-93db-4771-a996-5076bf1621b7"
+            ],
+            "version": 1,
+            "code": "N0125",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "total",
+            "threshold": 35,
+            "difficulty": "easy",
+            "evidence": "21 kills/6 jogos atuais; média 3.50",
+            "label": "35 kills no torneio",
+            "teamKey": "68e6282a-0535-4cf7-bd7c-c1ceabd4be76:862a8295-93db-4771-a996-5076bf1621b7",
+            "teamName": "Rax / JannisZ",
+            "playerIds": [
+              "68e6282a-0535-4cf7-bd7c-c1ceabd4be76",
+              "862a8295-93db-4771-a996-5076bf1621b7"
+            ],
+            "version": 1,
+            "code": "N0126",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 21,
+              "target": 35,
+              "remaining": 14,
+              "text": "21/35 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 7,
+            "difficulty": "easy",
+            "evidence": "4 kills/6 jogos atuais; média 0.67",
+            "label": "7 kills no torneio",
+            "teamKey": "84da9b1d-71ad-456b-a916-d6590c096161:cffb3fec-1c3f-45ae-b695-06ee48d4f74a",
+            "teamName": "Solvey / Sazers",
+            "playerIds": [
+              "84da9b1d-71ad-456b-a916-d6590c096161",
+              "cffb3fec-1c3f-45ae-b695-06ee48d4f74a"
+            ],
+            "version": 1,
+            "code": "N0127",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 4,
+              "target": 7,
+              "remaining": 3,
+              "text": "4/7 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "3736de3c-0eb0-4364-9fac-15ec1025ff08:419c6365-86af-49f2-886a-97a3cfef22d3",
+            "teamName": "Clix / Rapid",
+            "playerIds": [
+              "3736de3c-0eb0-4364-9fac-15ec1025ff08",
+              "419c6365-86af-49f2-886a-97a3cfef22d3"
+            ],
+            "version": 1,
+            "code": "N0128",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 6 jogos atuais",
+            "teamKey": "3736de3c-0eb0-4364-9fac-15ec1025ff08:419c6365-86af-49f2-886a-97a3cfef22d3",
+            "teamName": "Clix / Rapid",
+            "playerIds": [
+              "3736de3c-0eb0-4364-9fac-15ec1025ff08",
+              "419c6365-86af-49f2-886a-97a3cfef22d3"
+            ],
+            "version": 1,
+            "code": "N0129",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 25,
+            "difficulty": "easy",
+            "evidence": "15 kills/6 jogos atuais; média 2.50",
+            "label": "25 kills no torneio",
+            "teamKey": "3736de3c-0eb0-4364-9fac-15ec1025ff08:419c6365-86af-49f2-886a-97a3cfef22d3",
+            "teamName": "Clix / Rapid",
+            "playerIds": [
+              "3736de3c-0eb0-4364-9fac-15ec1025ff08",
+              "419c6365-86af-49f2-886a-97a3cfef22d3"
+            ],
+            "version": 1,
+            "code": "N0130",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 15,
+              "target": 25,
+              "remaining": 10,
+              "text": "15/25 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 2,
+            "difficulty": "easy",
+            "evidence": "1 kills/6 jogos atuais; média 0.17",
+            "label": "2 kills no torneio",
+            "teamKey": "d141060d-d885-45c4-a3b2-408f668508b3:fbf93610-fe94-48c7-a5eb-537be89533d5",
+            "teamName": "Momsy / Seyyto",
+            "playerIds": [
+              "d141060d-d885-45c4-a3b2-408f668508b3",
+              "fbf93610-fe94-48c7-a5eb-537be89533d5"
+            ],
+            "version": 1,
+            "code": "N0131",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 1,
+              "target": 2,
+              "remaining": 1,
+              "text": "1/2 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 12,
+            "difficulty": "easy",
+            "evidence": "7 kills/6 jogos atuais; média 1.17",
+            "label": "12 kills no torneio",
+            "teamKey": "05587202-00b9-408b-9e2a-9242f02d7812:6a7e6e0e-72ee-477b-9e08-f4919e17414a",
+            "teamName": "Slepzi / Wagers",
+            "playerIds": [
+              "05587202-00b9-408b-9e2a-9242f02d7812",
+              "6a7e6e0e-72ee-477b-9e08-f4919e17414a"
+            ],
+            "version": 1,
+            "code": "N0132",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 7,
+              "target": 12,
+              "remaining": 5,
+              "text": "7/12 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "28f2d420-7f91-4283-8351-f610815012e1:37da09eb-8b57-4968-ad36-da5adc02232b",
+            "teamName": "Ritual / Cold",
+            "playerIds": [
+              "28f2d420-7f91-4283-8351-f610815012e1",
+              "37da09eb-8b57-4968-ad36-da5adc02232b"
+            ],
+            "version": 1,
+            "code": "N0133",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "easy",
+            "label": "4 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais",
+            "teamKey": "28f2d420-7f91-4283-8351-f610815012e1:37da09eb-8b57-4968-ad36-da5adc02232b",
+            "teamName": "Ritual / Cold",
+            "playerIds": [
+              "28f2d420-7f91-4283-8351-f610815012e1",
+              "37da09eb-8b57-4968-ad36-da5adc02232b"
+            ],
+            "version": 1,
+            "code": "N0134",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 3,
+              "target": 4,
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 30,
+            "difficulty": "easy",
+            "evidence": "18 kills/6 jogos atuais; média 3.00",
+            "label": "30 kills no torneio",
+            "teamKey": "28f2d420-7f91-4283-8351-f610815012e1:37da09eb-8b57-4968-ad36-da5adc02232b",
+            "teamName": "Ritual / Cold",
+            "playerIds": [
+              "28f2d420-7f91-4283-8351-f610815012e1",
+              "37da09eb-8b57-4968-ad36-da5adc02232b"
+            ],
+            "version": 1,
+            "code": "N0135",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 18,
+              "target": 30,
+              "remaining": 12,
+              "text": "18/30 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "0865dd0c-cabd-4156-aa6e-7757f9b5b753:b98790d7-278b-4169-947b-3c932c3a6af0",
+            "teamName": "Nebs / Nxthan",
+            "playerIds": [
+              "0865dd0c-cabd-4156-aa6e-7757f9b5b753",
+              "b98790d7-278b-4169-947b-3c932c3a6af0"
+            ],
+            "version": 1,
+            "code": "N0136",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "easy",
+            "label": "4 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais",
+            "teamKey": "0865dd0c-cabd-4156-aa6e-7757f9b5b753:b98790d7-278b-4169-947b-3c932c3a6af0",
+            "teamName": "Nebs / Nxthan",
+            "playerIds": [
+              "0865dd0c-cabd-4156-aa6e-7757f9b5b753",
+              "b98790d7-278b-4169-947b-3c932c3a6af0"
+            ],
+            "version": 1,
+            "code": "N0137",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 3,
+              "target": 4,
+              "remaining": 1,
+              "text": "3/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 25,
+            "difficulty": "easy",
+            "evidence": "15 kills/6 jogos atuais; média 2.50",
+            "label": "25 kills no torneio",
+            "teamKey": "0865dd0c-cabd-4156-aa6e-7757f9b5b753:b98790d7-278b-4169-947b-3c932c3a6af0",
+            "teamName": "Nebs / Nxthan",
+            "playerIds": [
+              "0865dd0c-cabd-4156-aa6e-7757f9b5b753",
+              "b98790d7-278b-4169-947b-3c932c3a6af0"
+            ],
+            "version": 1,
+            "code": "N0138",
+            "createdAt": 1790517970027,
+            "progress": {
+              "current": 15,
+              "target": 25,
+              "remaining": 10,
+              "text": "15/25 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
           }
         ],
         "cards": [
