@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:15:00.725Z",
+  "updatedAt": "2026-09-27T15:16:21.967Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -33,8 +33,8 @@
         "delaySeconds": 20,
         "open": true,
         "connected": true,
-        "firstRound": 7,
-        "updatedAt": 1790522095686,
+        "firstRound": 8,
+        "updatedAt": 1790522179796,
         "champions": [
           {
             "code": "C01",
@@ -1256,10 +1256,10 @@
             "code": "B027",
             "version": 1,
             "progress": {
-              "current": 26,
+              "current": 28,
               "target": 45,
-              "remaining": 19,
-              "text": "26/45 kills no torneio"
+              "remaining": 17,
+              "text": "28/45 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -2346,10 +2346,10 @@
             "code": "N0076",
             "createdAt": 1790438694579,
             "progress": {
-              "current": 12,
+              "current": 14,
               "target": 9,
               "remaining": 0,
-              "text": "12/9 kills no torneio"
+              "text": "14/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -2562,10 +2562,10 @@
             "code": "N0085",
             "createdAt": 1790440830725,
             "progress": {
-              "current": 19,
+              "current": 20,
               "target": 9,
               "remaining": 0,
-              "text": "19/9 kills no torneio"
+              "text": "20/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -3146,10 +3146,10 @@
             "code": "N0109",
             "createdAt": 1790467324752,
             "progress": {
-              "current": 12,
+              "current": 14,
               "target": 20,
-              "remaining": 8,
-              "text": "12/20 kills no torneio"
+              "remaining": 6,
+              "text": "14/20 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -4149,10 +4149,10 @@
             "code": "N0150",
             "createdAt": 1790518613960,
             "progress": {
-              "current": 19,
+              "current": 20,
               "target": 32,
-              "remaining": 13,
-              "text": "19/32 kills no torneio"
+              "remaining": 12,
+              "text": "20/32 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -4443,10 +4443,10 @@
             "code": "N0162",
             "createdAt": 1790518619801,
             "progress": {
-              "current": 26,
+              "current": 28,
               "target": 43,
-              "remaining": 17,
-              "text": "26/43 kills no torneio"
+              "remaining": 15,
+              "text": "28/43 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -5129,10 +5129,10 @@
                   "total": 15
                 },
                 "progress": {
-                  "current": 19,
+                  "current": 20,
                   "target": 9,
                   "remaining": 0,
-                  "text": "19/9 kills no torneio"
+                  "text": "20/9 kills no torneio"
                 }
               },
               {
@@ -6380,10 +6380,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 12,
+                  "current": 14,
                   "target": 9,
                   "remaining": 0,
-                  "text": "12/9 kills no torneio"
+                  "text": "14/9 kills no torneio"
                 }
               },
               {
@@ -7133,10 +7133,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 12,
+                  "current": 14,
                   "target": 9,
                   "remaining": 0,
-                  "text": "12/9 kills no torneio"
+                  "text": "14/9 kills no torneio"
                 }
               },
               {
@@ -7650,10 +7650,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 12,
+                  "current": 14,
                   "target": 9,
                   "remaining": 0,
-                  "text": "12/9 kills no torneio"
+                  "text": "14/9 kills no torneio"
                 }
               },
               {
@@ -8211,41 +8211,51 @@
             "id": "twitch:932779495",
             "platform": "twitch",
             "name": "gui_z0",
-            "points": 200,
-            "exact": 2,
+            "points": 300,
+            "exact": 3,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
             "rank": 1
           },
           {
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 200,
-            "exact": 2,
+            "points": 300,
+            "exact": 3,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
             "rank": 1
           },
           {
             "id": "twitch:636817789",
             "platform": "twitch",
             "name": "hugoandre07",
-            "points": 200,
-            "exact": 2,
+            "points": 300,
+            "exact": 3,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
             "rank": 1
           },
           {
             "id": "twitch:645555689",
             "platform": "twitch",
             "name": "sheisdani",
+            "points": 300,
+            "exact": 3,
+            "near": 0,
+            "answered": 3,
+            "rank": 1
+          },
+          {
+            "id": "twitch:972248156",
+            "platform": "twitch",
+            "name": "marquesrcarol",
             "points": 200,
             "exact": 2,
             "near": 0,
             "answered": 2,
-            "rank": 1
+            "rank": 5
           },
           {
             "id": "twitch:1418907276",
@@ -8255,17 +8265,27 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 5
+            "rank": 6
           },
           {
-            "id": "twitch:972248156",
+            "id": "twitch:1069376937",
             "platform": "twitch",
-            "name": "marquesrcarol",
+            "name": "manu12321_",
             "points": 100,
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 5
+            "rank": 6
+          },
+          {
+            "id": "twitch:439693424",
+            "platform": "twitch",
+            "name": "mermaidhits",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 1,
+            "rank": 6
           },
           {
             "id": "twitch:895327657",
@@ -8275,7 +8295,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 5
+            "rank": 6
           }
         ],
         "event": [
@@ -8283,41 +8303,51 @@
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 750,
-            "exact": 7,
+            "points": 850,
+            "exact": 8,
             "near": 1,
-            "answered": 9,
+            "answered": 10,
             "rank": 1
           },
           {
             "id": "twitch:645555689",
             "platform": "twitch",
             "name": "sheisdani",
-            "points": 550,
-            "exact": 5,
+            "points": 650,
+            "exact": 6,
             "near": 1,
-            "answered": 10,
+            "answered": 11,
             "rank": 2
           },
           {
             "id": "twitch:932779495",
             "platform": "twitch",
             "name": "gui_z0",
-            "points": 525,
-            "exact": 5,
+            "points": 625,
+            "exact": 6,
             "near": 1,
-            "answered": 10,
+            "answered": 11,
             "rank": 3
           },
           {
             "id": "twitch:972248156",
             "platform": "twitch",
             "name": "marquesrcarol",
-            "points": 450,
-            "exact": 4,
+            "points": 550,
+            "exact": 5,
+            "near": 1,
+            "answered": 10,
+            "rank": 4
+          },
+          {
+            "id": "twitch:636817789",
+            "platform": "twitch",
+            "name": "hugoandre07",
+            "points": 350,
+            "exact": 3,
             "near": 1,
             "answered": 9,
-            "rank": 4
+            "rank": 5
           },
           {
             "id": "twitch:895327657",
@@ -8330,14 +8360,14 @@
             "rank": 5
           },
           {
-            "id": "twitch:636817789",
+            "id": "twitch:1069376937",
             "platform": "twitch",
-            "name": "hugoandre07",
-            "points": 250,
+            "name": "manu12321_",
+            "points": 200,
             "exact": 2,
-            "near": 1,
-            "answered": 8,
-            "rank": 6
+            "near": 0,
+            "answered": 2,
+            "rank": 7
           },
           {
             "id": "twitch:164609804",
@@ -8347,7 +8377,7 @@
             "exact": 1,
             "near": 1,
             "answered": 5,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:717212869",
@@ -8357,7 +8387,7 @@
             "exact": 1,
             "near": 0,
             "answered": 2,
-            "rank": 8
+            "rank": 9
           },
           {
             "id": "twitch:1418907276",
@@ -8367,17 +8397,7 @@
             "exact": 1,
             "near": 0,
             "answered": 1,
-            "rank": 8
-          },
-          {
-            "id": "twitch:1069376937",
-            "platform": "twitch",
-            "name": "manu12321_",
-            "points": 100,
-            "exact": 1,
-            "near": 0,
-            "answered": 1,
-            "rank": 8
+            "rank": 9
           },
           {
             "id": "twitch:1456923742",
@@ -8387,7 +8407,17 @@
             "exact": 1,
             "near": 0,
             "answered": 5,
-            "rank": 8
+            "rank": 9
+          },
+          {
+            "id": "twitch:439693424",
+            "platform": "twitch",
+            "name": "mermaidhits",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 1,
+            "rank": 9
           },
           {
             "id": "twitch:423908473",
@@ -8397,7 +8427,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 12
+            "rank": 13
           },
           {
             "id": "twitch:1352711259",
@@ -8407,7 +8437,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 12
+            "rank": 13
           },
           {
             "id": "twitch:134395626",
@@ -8417,7 +8447,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 12
+            "rank": 13
           }
         ]
       },
@@ -8426,41 +8456,51 @@
           "id": "twitch:505385285",
           "platform": "twitch",
           "name": "hst_playz_pt",
-          "points": 750,
-          "exact": 7,
+          "points": 850,
+          "exact": 8,
           "near": 1,
-          "answered": 9,
+          "answered": 10,
           "rank": 1
         },
         {
           "id": "twitch:645555689",
           "platform": "twitch",
           "name": "sheisdani",
-          "points": 550,
-          "exact": 5,
+          "points": 650,
+          "exact": 6,
           "near": 1,
-          "answered": 10,
+          "answered": 11,
           "rank": 2
         },
         {
           "id": "twitch:932779495",
           "platform": "twitch",
           "name": "gui_z0",
-          "points": 525,
-          "exact": 5,
+          "points": 625,
+          "exact": 6,
           "near": 1,
-          "answered": 10,
+          "answered": 11,
           "rank": 3
         },
         {
           "id": "twitch:972248156",
           "platform": "twitch",
           "name": "marquesrcarol",
-          "points": 450,
-          "exact": 4,
+          "points": 550,
+          "exact": 5,
+          "near": 1,
+          "answered": 10,
+          "rank": 4
+        },
+        {
+          "id": "twitch:636817789",
+          "platform": "twitch",
+          "name": "hugoandre07",
+          "points": 350,
+          "exact": 3,
           "near": 1,
           "answered": 9,
-          "rank": 4
+          "rank": 5
         },
         {
           "id": "twitch:895327657",
@@ -8473,14 +8513,14 @@
           "rank": 5
         },
         {
-          "id": "twitch:636817789",
+          "id": "twitch:1069376937",
           "platform": "twitch",
-          "name": "hugoandre07",
-          "points": 250,
+          "name": "manu12321_",
+          "points": 200,
           "exact": 2,
-          "near": 1,
-          "answered": 8,
-          "rank": 6
+          "near": 0,
+          "answered": 2,
+          "rank": 7
         },
         {
           "id": "twitch:164609804",
@@ -8490,7 +8530,7 @@
           "exact": 1,
           "near": 1,
           "answered": 5,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "twitch:717212869",
@@ -8500,7 +8540,7 @@
           "exact": 1,
           "near": 0,
           "answered": 2,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "twitch:1418907276",
@@ -8510,17 +8550,7 @@
           "exact": 1,
           "near": 0,
           "answered": 1,
-          "rank": 8
-        },
-        {
-          "id": "twitch:1069376937",
-          "platform": "twitch",
-          "name": "manu12321_",
-          "points": 100,
-          "exact": 1,
-          "near": 0,
-          "answered": 1,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "twitch:1456923742",
@@ -8530,7 +8560,17 @@
           "exact": 1,
           "near": 0,
           "answered": 5,
-          "rank": 8
+          "rank": 9
+        },
+        {
+          "id": "twitch:439693424",
+          "platform": "twitch",
+          "name": "mermaidhits",
+          "points": 100,
+          "exact": 1,
+          "near": 0,
+          "answered": 1,
+          "rank": 9
         },
         {
           "id": "twitch:423908473",
@@ -8540,7 +8580,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "twitch:1352711259",
@@ -8550,7 +8590,7 @@
           "exact": 0,
           "near": 0,
           "answered": 1,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "twitch:134395626",
@@ -8560,7 +8600,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 12
+          "rank": 13
         }
       ]
     },
