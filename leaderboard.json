@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:49:15.191Z",
+  "updatedAt": "2026-09-27T18:49:53.532Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -2160,8 +2160,8 @@
         "delaySeconds": 20,
         "open": false,
         "connected": true,
-        "firstRound": 12,
-        "updatedAt": 1790534950135,
+        "firstRound": 13,
+        "updatedAt": 1790534989810,
         "champions": [
           {
             "code": "C01",
@@ -2941,7 +2941,7 @@
               "text": "29/55 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
@@ -3005,7 +3005,7 @@
               "text": "36/50 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "2f98535a-2b2a-43d0-922c-1aa56034cbb6:70610940-3632-4a84-9b1b-a468bb581df3",
@@ -3069,7 +3069,7 @@
               "text": "30/45 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "2d91ad40-c738-4c8a-9c12-c4c295450d78:bce27060-4551-411a-b0a7-ffcac5f058e0",
@@ -3133,7 +3133,7 @@
               "text": "24/35 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
@@ -3236,8 +3236,8 @@
             "code": "B020",
             "version": 1,
             "progress": null,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "c51a36b2-50f5-45df-bf31-31abef2a7151:fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b",
@@ -3261,7 +3261,7 @@
               "text": "20/45 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "34009ee2-0b02-4cfb-843d-984e5b9b30aa:a28109dd-beb7-48ad-93b9-4e205e5a2048",
@@ -3300,8 +3300,8 @@
             "code": "B023",
             "version": 1,
             "progress": null,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "34009ee2-0b02-4cfb-843d-984e5b9b30aa:a28109dd-beb7-48ad-93b9-4e205e5a2048",
@@ -3325,7 +3325,7 @@
               "text": "4/35 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "68c17d1e-ea3c-42ad-98d7-2b48675242ea:dca13c06-26af-4af7-aadf-39c3ba44914b",
@@ -3388,8 +3388,8 @@
               "remaining": 6,
               "text": "39/45 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "30dda2a7-8184-451f-8e7f-85530e34e7af:daff9a4a-3b01-42e5-ae58-077a3ee1b4cc",
@@ -3453,7 +3453,7 @@
               "text": "26/40 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
@@ -3517,7 +3517,7 @@
               "text": "24/45 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "501b4766-6d0b-4260-9ba7-2a04c2cdc300:eb53ec01-a5a4-496d-94d5-950068d82016",
@@ -3581,7 +3581,7 @@
               "text": "12/40 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
@@ -3773,7 +3773,7 @@
               "text": "14/30 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "2fc6c760-b950-4e61-87cd-e71d86d314c8:990f29fa-76f9-482f-8078-20dd4807f464",
@@ -3901,7 +3901,7 @@
               "text": "19/30 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
@@ -4141,7 +4141,7 @@
               "text": "15/22 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -4165,7 +4165,7 @@
               "text": "14/22 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -4213,7 +4213,7 @@
               "text": "12/17 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -4357,8 +4357,8 @@
               "remaining": 2,
               "text": "20/22 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -4574,8 +4574,8 @@
               "remaining": 2,
               "text": "19/21 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -4719,8 +4719,8 @@
               "remaining": 1,
               "text": "3/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5180,8 +5180,8 @@
               "remaining": 4,
               "text": "23/27 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5230,7 +5230,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -5254,8 +5254,8 @@
               "remaining": 1,
               "text": "2/3 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5278,8 +5278,8 @@
               "remaining": 5,
               "text": "15/20 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5376,8 +5376,8 @@
               "remaining": 2,
               "text": "22/24 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5400,8 +5400,8 @@
               "remaining": 3,
               "text": "19/22 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -5474,8 +5474,8 @@
               "remaining": 2,
               "text": "27/29 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5498,8 +5498,8 @@
               "remaining": 5,
               "text": "14/19 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5547,8 +5547,8 @@
               "remaining": 1,
               "text": "4/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -5596,8 +5596,8 @@
               "remaining": 6,
               "text": "36/42 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5671,7 +5671,7 @@
               "text": "3/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5695,7 +5695,7 @@
               "text": "27/35 kills no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -5914,8 +5914,8 @@
               "remaining": 2,
               "text": "28/30 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -5939,8 +5939,8 @@
               "remaining": 1,
               "text": "4/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -6013,8 +6013,8 @@
               "remaining": 1,
               "text": "3/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6062,8 +6062,8 @@
               "remaining": 1,
               "text": "4/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6086,8 +6086,8 @@
               "remaining": 4,
               "text": "20/24 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6208,8 +6208,8 @@
               "remaining": 1,
               "text": "4/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6232,8 +6232,8 @@
               "remaining": 3,
               "text": "11/14 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -6281,8 +6281,8 @@
               "remaining": 2,
               "text": "30/32 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6331,7 +6331,7 @@
               "text": "3/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -6527,7 +6527,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -6576,7 +6576,7 @@
               "text": "39/43 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6625,7 +6625,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -6699,7 +6699,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6723,7 +6723,7 @@
               "text": "19/20 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6747,7 +6747,7 @@
               "text": "4/7 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6796,7 +6796,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6820,7 +6820,7 @@
               "text": "19/20 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6844,7 +6844,7 @@
               "text": "14/18 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6941,7 +6941,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -6966,7 +6966,7 @@
               "text": "2/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -6990,7 +6990,7 @@
               "text": "23/28 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7039,7 +7039,7 @@
               "text": "3/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7137,7 +7137,7 @@
               "text": "11/12 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7186,7 +7186,7 @@
               "text": "12/15 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7335,7 +7335,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7360,7 +7360,7 @@
               "text": "2/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7433,7 +7433,7 @@
               "text": "17/20 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7458,7 +7458,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7483,7 +7483,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7508,7 +7508,7 @@
               "text": "5/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7582,7 +7582,7 @@
               "text": "36/42 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7606,7 +7606,7 @@
               "text": "23/25 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7630,7 +7630,7 @@
               "text": "27/30 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -7803,7 +7803,7 @@
               "text": "3/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7924,7 +7924,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7948,7 +7948,7 @@
               "text": "20/23 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -7972,7 +7972,7 @@
               "text": "17/19 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -8119,7 +8119,7 @@
               "text": "11/13 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -8242,7 +8242,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -8266,7 +8266,7 @@
               "text": "23/24 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -8314,7 +8314,7 @@
               "text": "15/19 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -8338,7 +8338,7 @@
               "text": "4/5 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -8387,7 +8387,7 @@
               "text": "28/32 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -8412,7 +8412,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -8436,7 +8436,7 @@
               "text": "22/26 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -8461,7 +8461,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -8485,7 +8485,7 @@
               "text": "27/30 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -8608,7 +8608,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -8632,7 +8632,7 @@
               "text": "36/43 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -8804,7 +8804,7 @@
               "text": "6/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -8854,7 +8854,7 @@
               "text": "3/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -8928,7 +8928,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9146,7 +9146,7 @@
               "text": "3/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9170,7 +9170,7 @@
               "text": "24/25 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9290,7 +9290,7 @@
               "text": "28/31 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9314,7 +9314,7 @@
               "text": "27/28 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9386,7 +9386,7 @@
               "text": "15/19 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9410,7 +9410,7 @@
               "text": "28/31 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9434,7 +9434,7 @@
               "text": "28/31 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9483,7 +9483,7 @@
               "text": "3/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9531,7 +9531,7 @@
               "text": "12/13 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9555,7 +9555,7 @@
               "text": "11/13 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9653,7 +9653,7 @@
               "text": "7/8 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9677,7 +9677,7 @@
               "text": "36/39 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -9702,7 +9702,7 @@
               "text": "3/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9800,7 +9800,7 @@
               "text": "5/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9874,7 +9874,7 @@
               "text": "6/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -9899,7 +9899,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9923,7 +9923,7 @@
               "text": "30/33 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -9948,7 +9948,7 @@
               "text": "4/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -9972,7 +9972,7 @@
               "text": "19/20 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -9997,7 +9997,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10022,7 +10022,7 @@
               "text": "2/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10071,7 +10071,7 @@
               "text": "5/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10095,7 +10095,7 @@
               "text": "30/31 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10120,7 +10120,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10144,7 +10144,7 @@
               "text": "15/19 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10218,7 +10218,7 @@
               "text": "3/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10315,7 +10315,7 @@
               "text": "12/14 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10339,7 +10339,7 @@
               "text": "15/17 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10411,7 +10411,7 @@
               "text": "28/29 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10459,7 +10459,7 @@
               "text": "30/31 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10483,7 +10483,7 @@
               "text": "14/16 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10507,7 +10507,7 @@
               "text": "15/17 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10555,7 +10555,7 @@
               "text": "36/40 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10579,7 +10579,7 @@
               "text": "15/17 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10603,7 +10603,7 @@
               "text": "12/14 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10747,7 +10747,7 @@
               "text": "30/32 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10771,7 +10771,7 @@
               "text": "27/31 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10795,7 +10795,7 @@
               "text": "22/25 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -10819,7 +10819,7 @@
               "text": "20/22 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10844,7 +10844,7 @@
               "text": "3/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10869,7 +10869,7 @@
               "text": "3/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10968,7 +10968,7 @@
               "text": "6/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -10993,7 +10993,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11017,7 +11017,7 @@
               "text": "27/31 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11042,7 +11042,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11116,7 +11116,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11140,7 +11140,7 @@
               "text": "23/26 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11214,7 +11214,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11239,7 +11239,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11264,7 +11264,7 @@
               "text": "2/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11289,7 +11289,7 @@
               "text": "7/9 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11313,7 +11313,7 @@
               "text": "36/40 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11338,7 +11338,7 @@
               "text": "7/8 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11362,7 +11362,7 @@
               "text": "37/38 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11387,7 +11387,7 @@
               "text": "5/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11411,7 +11411,7 @@
               "text": "36/40 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11509,7 +11509,7 @@
               "text": "36/39 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11557,7 +11557,7 @@
               "text": "28/30 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11581,7 +11581,7 @@
               "text": "14/15 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11605,7 +11605,7 @@
               "text": "23/25 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11629,7 +11629,7 @@
               "text": "15/16 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11653,7 +11653,7 @@
               "text": "27/29 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11677,7 +11677,7 @@
               "text": "12/13 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11701,7 +11701,7 @@
               "text": "12/13 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11749,7 +11749,7 @@
               "text": "15/16 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11773,7 +11773,7 @@
               "text": "28/30 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11797,7 +11797,7 @@
               "text": "11/12 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11845,7 +11845,7 @@
               "text": "29/31 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11893,7 +11893,7 @@
               "text": "24/26 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11917,7 +11917,7 @@
               "text": "14/15 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11941,7 +11941,7 @@
               "text": "15/16 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11965,7 +11965,7 @@
               "text": "36/39 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
@@ -11990,7 +11990,7 @@
               "text": "2/3 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12014,7 +12014,7 @@
               "text": "19/21 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12038,7 +12038,7 @@
               "text": "15/16 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12062,7 +12062,7 @@
               "text": "15/16 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12086,7 +12086,7 @@
               "text": "39/42 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12110,7 +12110,7 @@
               "text": "24/26 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12134,7 +12134,7 @@
               "text": "26/28 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12158,7 +12158,7 @@
               "text": "19/21 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12182,7 +12182,7 @@
               "text": "9/10 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12206,7 +12206,7 @@
               "text": "30/32 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12230,7 +12230,7 @@
               "text": "37/40 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -12254,7 +12254,7 @@
               "text": "28/30 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "countTop",
