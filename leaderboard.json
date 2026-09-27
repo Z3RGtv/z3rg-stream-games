@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:40:24.786Z",
+  "updatedAt": "2026-09-27T18:41:06.644Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -2109,7 +2109,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790534423648,
+        "updatedAt": 1790534461564,
         "champions": [
           {
             "code": "C01",
@@ -10117,7 +10117,7 @@
               "text": "5/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11015,7 +11015,7 @@
               "text": "5/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Poucos jogos para este objetivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
@@ -11817,7 +11817,7 @@
               "text": "19/21 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Sem partidas elegíveis"
           },
           {
             "kind": "total",
