@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:19:39.231Z",
+  "updatedAt": "2026-09-27T16:21:03.470Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,58 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "b6517d1d-653b-4450-ae92-f7df6066db67",
+          "day": 2,
+          "match": 3,
+          "label": "phoenix / Retro supera o seu recorde do dia (4 kills)?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:636817789",
+              "name": "hugoandre07",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:905030592",
+              "name": "manuelxpt",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "6ba3578f-10f1-4ff7-a8f3-f551da87f80f",
           "day": 2,
