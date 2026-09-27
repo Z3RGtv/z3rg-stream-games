@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:53:40.280Z",
+  "updatedAt": "2026-09-27T18:54:23.112Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,50 +31,50 @@
           "day": 2,
           "match": 6,
           "label": "Sky / Scroll e IDrop / Ghonzo conseguem ambos top 10?",
-          "status": "LOCKED",
-          "result": null,
+          "status": "SETTLED",
+          "result": "NÃO",
           "answers": [
             {
               "id": "twitch:134395626",
               "name": "minichef9",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:505385285",
               "name": "hst_playz_pt",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:895327657",
               "name": "z3rgtv",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:1119954079",
               "name": "salvadormdm",
               "platform": "twitch",
               "answer": "SIM",
-              "points": null
+              "points": 0
             },
             {
               "id": "twitch:932779495",
               "name": "gui_z0",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:645555689",
               "name": "sheisdani",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             }
           ]
         },
@@ -2161,7 +2161,7 @@
         "open": false,
         "connected": true,
         "firstRound": 13,
-        "updatedAt": 1790535219016,
+        "updatedAt": 1790535262968,
         "champions": [
           {
             "code": "C01",
@@ -3063,10 +3063,10 @@
             "code": "B012",
             "version": 1,
             "progress": {
-              "current": 30,
+              "current": 31,
               "target": 45,
-              "remaining": 15,
-              "text": "30/45 kills no torneio"
+              "remaining": 14,
+              "text": "31/45 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -3447,10 +3447,10 @@
             "code": "B030",
             "version": 1,
             "progress": {
-              "current": 26,
+              "current": 31,
               "target": 40,
-              "remaining": 14,
-              "text": "26/40 kills no torneio"
+              "remaining": 9,
+              "text": "31/40 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -3511,10 +3511,10 @@
             "code": "B033",
             "version": 1,
             "progress": {
-              "current": 24,
+              "current": 26,
               "target": 45,
-              "remaining": 21,
-              "text": "24/45 kills no torneio"
+              "remaining": 19,
+              "text": "26/45 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -6374,10 +6374,10 @@
             "code": "N0154",
             "createdAt": 1790518613960,
             "progress": {
-              "current": 24,
+              "current": 26,
               "target": 19,
               "remaining": 0,
-              "text": "24/19 kills no torneio"
+              "text": "26/19 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6668,10 +6668,10 @@
             "code": "N0166",
             "createdAt": 1790518620353,
             "progress": {
-              "current": 26,
+              "current": 31,
               "target": 20,
               "remaining": 0,
-              "text": "26/20 kills no torneio"
+              "text": "31/20 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -7723,10 +7723,10 @@
             "code": "N0209",
             "createdAt": 1790526688197,
             "progress": {
-              "current": 30,
+              "current": 31,
               "target": 28,
               "remaining": 0,
-              "text": "30/28 kills no torneio"
+              "text": "31/28 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -9164,13 +9164,13 @@
             "code": "N0268",
             "createdAt": 1790526775787,
             "progress": {
-              "current": 24,
+              "current": 26,
               "target": 25,
-              "remaining": 1,
-              "text": "24/25 kills no torneio"
+              "remaining": 0,
+              "text": "26/25 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -9260,10 +9260,10 @@
             "code": "N0272",
             "createdAt": 1790526775787,
             "progress": {
-              "current": 26,
+              "current": 31,
               "target": 16,
               "remaining": 0,
-              "text": "26/16 kills no torneio"
+              "text": "31/16 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -10525,10 +10525,10 @@
             "code": "N0324",
             "createdAt": 1790530244141,
             "progress": {
-              "current": 26,
+              "current": 31,
               "target": 22,
               "remaining": 0,
-              "text": "26/22 kills no torneio"
+              "text": "31/22 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -10693,10 +10693,10 @@
             "code": "N0331",
             "createdAt": 1790530460569,
             "progress": {
-              "current": 30,
+              "current": 31,
               "target": 26,
               "remaining": 0,
-              "text": "30/26 kills no torneio"
+              "text": "31/26 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -11887,13 +11887,13 @@
             "code": "N0380",
             "createdAt": 1790533053353,
             "progress": {
-              "current": 24,
+              "current": 26,
               "target": 26,
-              "remaining": 2,
-              "text": "24/26 kills no torneio"
+              "remaining": 0,
+              "text": "26/26 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -12128,13 +12128,13 @@
             "code": "N0390",
             "createdAt": 1790533189653,
             "progress": {
-              "current": 26,
+              "current": 31,
               "target": 28,
-              "remaining": 2,
-              "text": "26/28 kills no torneio"
+              "remaining": 0,
+              "text": "31/28 kills no torneio"
             },
             "available": false,
-            "reason": "Sem partidas elegíveis"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -12200,10 +12200,10 @@
             "code": "N0393",
             "createdAt": 1790533275226,
             "progress": {
-              "current": 30,
+              "current": 31,
               "target": 32,
-              "remaining": 2,
-              "text": "30/32 kills no torneio"
+              "remaining": 1,
+              "text": "31/32 kills no torneio"
             },
             "available": false,
             "reason": "Sem partidas elegíveis"
@@ -13984,10 +13984,10 @@
                 "code": "B012",
                 "version": 1,
                 "progress": {
-                  "current": 30,
+                  "current": 31,
                   "target": 45,
-                  "remaining": 15,
-                  "text": "30/45 kills no torneio"
+                  "remaining": 14,
+                  "text": "31/45 kills no torneio"
                 }
               },
               {
@@ -16710,10 +16710,10 @@
                 "code": "B012",
                 "version": 1,
                 "progress": {
-                  "current": 30,
+                  "current": 31,
                   "target": 45,
-                  "remaining": 15,
-                  "text": "30/45 kills no torneio"
+                  "remaining": 14,
+                  "text": "31/45 kills no torneio"
                 }
               },
               {
@@ -17164,31 +17164,41 @@
             "id": "twitch:645555689",
             "platform": "twitch",
             "name": "sheisdani",
-            "points": 1525,
-            "exact": 14,
+            "points": 1625,
+            "exact": 15,
             "near": 3,
-            "answered": 24,
+            "answered": 25,
             "rank": 1
           },
           {
             "id": "twitch:895327657",
             "platform": "twitch",
             "name": "z3rgtv",
-            "points": 1175,
-            "exact": 11,
+            "points": 1275,
+            "exact": 12,
             "near": 2,
-            "answered": 20,
+            "answered": 21,
             "rank": 2
           },
           {
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
+            "points": 1150,
+            "exact": 11,
+            "near": 1,
+            "answered": 18,
+            "rank": 3
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
             "points": 1050,
             "exact": 10,
             "near": 1,
-            "answered": 17,
-            "rank": 3
+            "answered": 21,
+            "rank": 4
           },
           {
             "id": "twitch:636817789",
@@ -17198,7 +17208,7 @@
             "exact": 10,
             "near": 0,
             "answered": 13,
-            "rank": 4
+            "rank": 5
           },
           {
             "id": "twitch:972248156",
@@ -17208,26 +17218,16 @@
             "exact": 9,
             "near": 3,
             "answered": 18,
-            "rank": 5
-          },
-          {
-            "id": "twitch:932779495",
-            "platform": "twitch",
-            "name": "gui_z0",
-            "points": 950,
-            "exact": 9,
-            "near": 1,
-            "answered": 20,
             "rank": 6
           },
           {
             "id": "twitch:134395626",
             "platform": "twitch",
             "name": "minichef9",
-            "points": 475,
-            "exact": 4,
+            "points": 575,
+            "exact": 5,
             "near": 2,
-            "answered": 10,
+            "answered": 11,
             "rank": 7
           },
           {
@@ -17237,7 +17237,7 @@
             "points": 350,
             "exact": 2,
             "near": 3,
-            "answered": 7,
+            "answered": 8,
             "rank": 8
           },
           {
@@ -17316,31 +17316,41 @@
             "id": "twitch:645555689",
             "platform": "twitch",
             "name": "sheisdani",
-            "points": 1875,
-            "exact": 17,
+            "points": 1975,
+            "exact": 18,
             "near": 4,
-            "answered": 32,
+            "answered": 33,
             "rank": 1
           },
           {
             "id": "twitch:505385285",
             "platform": "twitch",
             "name": "hst_playz_pt",
-            "points": 1600,
-            "exact": 15,
+            "points": 1700,
+            "exact": 16,
             "near": 2,
-            "answered": 24,
+            "answered": 25,
             "rank": 2
           },
           {
             "id": "twitch:895327657",
             "platform": "twitch",
             "name": "z3rgtv",
-            "points": 1425,
-            "exact": 13,
+            "points": 1525,
+            "exact": 14,
             "near": 3,
-            "answered": 24,
+            "answered": 25,
             "rank": 3
+          },
+          {
+            "id": "twitch:932779495",
+            "platform": "twitch",
+            "name": "gui_z0",
+            "points": 1375,
+            "exact": 13,
+            "near": 2,
+            "answered": 29,
+            "rank": 4
           },
           {
             "id": "twitch:972248156",
@@ -17350,16 +17360,6 @@
             "exact": 12,
             "near": 4,
             "answered": 26,
-            "rank": 4
-          },
-          {
-            "id": "twitch:932779495",
-            "platform": "twitch",
-            "name": "gui_z0",
-            "points": 1275,
-            "exact": 12,
-            "near": 2,
-            "answered": 28,
             "rank": 5
           },
           {
@@ -17376,10 +17376,10 @@
             "id": "twitch:134395626",
             "platform": "twitch",
             "name": "minichef9",
-            "points": 475,
-            "exact": 4,
+            "points": 575,
+            "exact": 5,
             "near": 2,
-            "answered": 12,
+            "answered": 13,
             "rank": 7
           },
           {
@@ -17399,7 +17399,7 @@
             "points": 350,
             "exact": 2,
             "near": 3,
-            "answered": 7,
+            "answered": 8,
             "rank": 9
           },
           {
@@ -17499,31 +17499,41 @@
           "id": "twitch:645555689",
           "platform": "twitch",
           "name": "sheisdani",
-          "points": 1875,
-          "exact": 17,
+          "points": 1975,
+          "exact": 18,
           "near": 4,
-          "answered": 32,
+          "answered": 33,
           "rank": 1
         },
         {
           "id": "twitch:505385285",
           "platform": "twitch",
           "name": "hst_playz_pt",
-          "points": 1600,
-          "exact": 15,
+          "points": 1700,
+          "exact": 16,
           "near": 2,
-          "answered": 24,
+          "answered": 25,
           "rank": 2
         },
         {
           "id": "twitch:895327657",
           "platform": "twitch",
           "name": "z3rgtv",
-          "points": 1425,
-          "exact": 13,
+          "points": 1525,
+          "exact": 14,
           "near": 3,
-          "answered": 24,
+          "answered": 25,
           "rank": 3
+        },
+        {
+          "id": "twitch:932779495",
+          "platform": "twitch",
+          "name": "gui_z0",
+          "points": 1375,
+          "exact": 13,
+          "near": 2,
+          "answered": 29,
+          "rank": 4
         },
         {
           "id": "twitch:972248156",
@@ -17533,16 +17543,6 @@
           "exact": 12,
           "near": 4,
           "answered": 26,
-          "rank": 4
-        },
-        {
-          "id": "twitch:932779495",
-          "platform": "twitch",
-          "name": "gui_z0",
-          "points": 1275,
-          "exact": 12,
-          "near": 2,
-          "answered": 28,
           "rank": 5
         },
         {
@@ -17559,10 +17559,10 @@
           "id": "twitch:134395626",
           "platform": "twitch",
           "name": "minichef9",
-          "points": 475,
-          "exact": 4,
+          "points": 575,
+          "exact": 5,
           "near": 2,
-          "answered": 12,
+          "answered": 13,
           "rank": 7
         },
         {
@@ -17582,7 +17582,7 @@
           "points": 350,
           "exact": 2,
           "near": 3,
-          "answered": 7,
+          "answered": 8,
           "rank": 9
         },
         {
