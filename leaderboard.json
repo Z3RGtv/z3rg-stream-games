@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:18:36.634Z",
+  "updatedAt": "2026-09-27T15:19:15.880Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -34,7 +34,7 @@
         "open": true,
         "connected": true,
         "firstRound": 8,
-        "updatedAt": 1790522315998,
+        "updatedAt": 1790522355247,
         "champions": [
           {
             "code": "C01",
@@ -808,10 +808,10 @@
             "code": "B006",
             "version": 1,
             "progress": {
-              "current": 11,
+              "current": 13,
               "target": 55,
-              "remaining": 44,
-              "text": "11/55 kills no torneio"
+              "remaining": 42,
+              "text": "13/55 kills no torneio"
             },
             "available": true,
             "reason": null
@@ -1960,10 +1960,10 @@
             "code": "N0060",
             "createdAt": 1790438384488,
             "progress": {
-              "current": 11,
+              "current": 13,
               "target": 9,
               "remaining": 0,
-              "text": "11/9 kills no torneio"
+              "text": "13/9 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6349,10 +6349,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 11,
+                  "current": 13,
                   "target": 9,
                   "remaining": 0,
-                  "text": "11/9 kills no torneio"
+                  "text": "13/9 kills no torneio"
                 }
               },
               {
@@ -6769,10 +6769,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 11,
+                  "current": 13,
                   "target": 55,
-                  "remaining": 44,
-                  "text": "11/55 kills no torneio"
+                  "remaining": 42,
+                  "text": "13/55 kills no torneio"
                 }
               },
               {
@@ -7894,10 +7894,10 @@
                   "total": 11
                 },
                 "progress": {
-                  "current": 11,
+                  "current": 13,
                   "target": 9,
                   "remaining": 0,
-                  "text": "11/9 kills no torneio"
+                  "text": "13/9 kills no torneio"
                 }
               },
               {
@@ -8214,7 +8214,7 @@
             "points": 300,
             "exact": 3,
             "near": 0,
-            "answered": 3,
+            "answered": 4,
             "rank": 1
           },
           {
@@ -8224,7 +8224,7 @@
             "points": 300,
             "exact": 3,
             "near": 0,
-            "answered": 3,
+            "answered": 4,
             "rank": 1
           },
           {
@@ -8234,7 +8234,7 @@
             "points": 300,
             "exact": 3,
             "near": 0,
-            "answered": 3,
+            "answered": 4,
             "rank": 1
           },
           {
@@ -8244,7 +8244,7 @@
             "points": 300,
             "exact": 3,
             "near": 0,
-            "answered": 3,
+            "answered": 4,
             "rank": 1
           },
           {
@@ -8254,7 +8254,7 @@
             "points": 200,
             "exact": 2,
             "near": 0,
-            "answered": 2,
+            "answered": 3,
             "rank": 5
           },
           {
@@ -8294,7 +8294,7 @@
             "points": 100,
             "exact": 1,
             "near": 0,
-            "answered": 1,
+            "answered": 2,
             "rank": 6
           }
         ],
@@ -8306,7 +8306,7 @@
             "points": 850,
             "exact": 8,
             "near": 1,
-            "answered": 10,
+            "answered": 11,
             "rank": 1
           },
           {
@@ -8316,7 +8316,7 @@
             "points": 650,
             "exact": 6,
             "near": 1,
-            "answered": 11,
+            "answered": 12,
             "rank": 2
           },
           {
@@ -8326,7 +8326,7 @@
             "points": 625,
             "exact": 6,
             "near": 1,
-            "answered": 11,
+            "answered": 12,
             "rank": 3
           },
           {
@@ -8336,7 +8336,7 @@
             "points": 550,
             "exact": 5,
             "near": 1,
-            "answered": 10,
+            "answered": 11,
             "rank": 4
           },
           {
@@ -8346,7 +8346,7 @@
             "points": 350,
             "exact": 3,
             "near": 1,
-            "answered": 9,
+            "answered": 10,
             "rank": 5
           },
           {
@@ -8356,7 +8356,7 @@
             "points": 350,
             "exact": 3,
             "near": 1,
-            "answered": 5,
+            "answered": 6,
             "rank": 5
           },
           {
@@ -8459,7 +8459,7 @@
           "points": 850,
           "exact": 8,
           "near": 1,
-          "answered": 10,
+          "answered": 11,
           "rank": 1
         },
         {
@@ -8469,7 +8469,7 @@
           "points": 650,
           "exact": 6,
           "near": 1,
-          "answered": 11,
+          "answered": 12,
           "rank": 2
         },
         {
@@ -8479,7 +8479,7 @@
           "points": 625,
           "exact": 6,
           "near": 1,
-          "answered": 11,
+          "answered": 12,
           "rank": 3
         },
         {
@@ -8489,7 +8489,7 @@
           "points": 550,
           "exact": 5,
           "near": 1,
-          "answered": 10,
+          "answered": 11,
           "rank": 4
         },
         {
@@ -8499,7 +8499,7 @@
           "points": 350,
           "exact": 3,
           "near": 1,
-          "answered": 9,
+          "answered": 10,
           "rank": 5
         },
         {
@@ -8509,7 +8509,7 @@
           "points": 350,
           "exact": 3,
           "near": 1,
-          "answered": 5,
+          "answered": 6,
           "rank": 5
         },
         {
