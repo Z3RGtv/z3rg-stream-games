@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:26:46.091Z",
+  "updatedAt": "2026-09-27T18:30:38.614Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,58 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "d34e8606-2bef-438a-8926-6a1000132c4b",
+          "day": 2,
+          "match": 6,
+          "label": "Shxrk / t3eny melhora o 41.º lugar da partida anterior?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:491270065",
+              "name": "manodrico",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:1119954079",
+              "name": "salvadormdm",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "SIM",
+              "points": null
+            },
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "NÃO",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "65d85e34-86d7-48ef-b34b-1c33c7b1aa26",
           "day": 2,
