@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:37:23.343Z",
+  "updatedAt": "2026-09-27T17:37:29.681Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790530640403,
+        "updatedAt": 1790530644616,
         "champions": [
           {
             "code": "C01",
@@ -2562,8 +2562,8 @@
             "code": "B016",
             "version": 1,
             "progress": null,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
@@ -2582,8 +2582,8 @@
             "code": "B017",
             "version": 1,
             "progress": null,
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
@@ -2601,10 +2601,10 @@
             "code": "B018",
             "version": 1,
             "progress": {
-              "current": 10,
+              "current": 15,
               "target": 45,
-              "remaining": 35,
-              "text": "10/45 kills no torneio"
+              "remaining": 30,
+              "text": "15/45 kills no torneio"
             },
             "available": false,
             "reason": "Poucos jogos para este objetivo"
@@ -4908,8 +4908,8 @@
               "remaining": 5,
               "text": "14/19 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -5906,10 +5906,10 @@
             "code": "N0159",
             "createdAt": 1790518615703,
             "progress": {
-              "current": 10,
+              "current": 15,
               "target": 10,
               "remaining": 0,
-              "text": "10/10 kills no torneio"
+              "text": "15/10 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -7279,13 +7279,13 @@
             "code": "N0215",
             "createdAt": 1790526692411,
             "progress": {
-              "current": 10,
+              "current": 15,
               "target": 12,
-              "remaining": 2,
-              "text": "10/12 kills no torneio"
+              "remaining": 0,
+              "text": "15/12 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -8911,13 +8911,13 @@
             "code": "N0282",
             "createdAt": 1790527053060,
             "progress": {
-              "current": 10,
+              "current": 15,
               "target": 13,
-              "remaining": 3,
-              "text": "10/13 kills no torneio"
+              "remaining": 0,
+              "text": "15/13 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -9308,8 +9308,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -10822,6 +10822,80 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 10 jogos atuais; faltam 2",
+            "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
+            "teamName": "Reet / Cooper",
+            "playerIds": [
+              "44a112b0-4dc2-40cb-ba85-518f99b7ff35",
+              "5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9"
+            ],
+            "version": 1,
+            "code": "N0361",
+            "createdAt": 1790530644623,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 10 jogos atuais",
+            "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
+            "teamName": "Reet / Cooper",
+            "playerIds": [
+              "44a112b0-4dc2-40cb-ba85-518f99b7ff35",
+              "5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9"
+            ],
+            "version": 1,
+            "code": "N0362",
+            "createdAt": 1790530644623,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 17,
+            "difficulty": "easy",
+            "evidence": "15 kills/10 jogos atuais; média 1.50",
+            "label": "17 kills no torneio",
+            "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
+            "teamName": "Reet / Cooper",
+            "playerIds": [
+              "44a112b0-4dc2-40cb-ba85-518f99b7ff35",
+              "5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9"
+            ],
+            "version": 1,
+            "code": "N0363",
+            "createdAt": 1790530644623,
+            "progress": {
+              "current": 15,
+              "target": 17,
+              "remaining": 2,
+              "text": "15/17 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
           }
         ],
         "cards": [
@@ -11598,10 +11672,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 10,
+                  "current": 15,
                   "target": 45,
-                  "remaining": 35,
-                  "text": "10/45 kills no torneio"
+                  "remaining": 30,
+                  "text": "15/45 kills no torneio"
                 }
               },
               {
@@ -15051,10 +15125,10 @@
                 "code": "B018",
                 "version": 1,
                 "progress": {
-                  "current": 10,
+                  "current": 15,
                   "target": 45,
-                  "remaining": 35,
-                  "text": "10/45 kills no torneio"
+                  "remaining": 30,
+                  "text": "15/45 kills no torneio"
                 }
               },
               {
