@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:04:56.540Z",
+  "updatedAt": "2026-09-27T16:05:01.608Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1270,7 +1270,7 @@
         "open": true,
         "connected": true,
         "firstRound": 9,
-        "updatedAt": 1790525095786,
+        "updatedAt": 1790525100409,
         "champions": [
           {
             "code": "C01",
@@ -6593,6 +6593,31 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 6,
+            "difficulty": "medium",
+            "label": "6 jogos no top 15",
+            "evidence": "4 top 15 em 8 jogos atuais; faltam 2",
+            "teamKey": "2fc6c760-b950-4e61-87cd-e71d86d314c8:990f29fa-76f9-482f-8078-20dd4807f464",
+            "teamName": "Cr1nge / Twi",
+            "playerIds": [
+              "2fc6c760-b950-4e61-87cd-e71d86d314c8",
+              "990f29fa-76f9-482f-8078-20dd4807f464"
+            ],
+            "version": 1,
+            "code": "N0200",
+            "createdAt": 1790525096554,
+            "progress": {
+              "current": 4,
+              "target": 6,
+              "remaining": 2,
+              "text": "4/6 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
           }
         ],
         "cards": [
