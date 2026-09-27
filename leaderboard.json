@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T15:03:20.529Z",
+  "updatedAt": "2026-09-27T15:09:15.286Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -34,7 +34,7 @@
         "open": true,
         "connected": true,
         "firstRound": 7,
-        "updatedAt": 1790521395484,
+        "updatedAt": 1790521750240,
         "champions": [
           {
             "code": "C01",
@@ -4645,6 +4645,31 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "medium",
+            "label": "5 jogos no top 15",
+            "evidence": "3 top 15 em 6 jogos atuais; faltam 2",
+            "teamKey": "77999a7f-609d-40bb-b621-223df590b4d2:f899b6ef-72c7-4f03-af0a-eca85b2bedca",
+            "teamName": "Lewa / Romero",
+            "playerIds": [
+              "77999a7f-609d-40bb-b621-223df590b4d2",
+              "f899b6ef-72c7-4f03-af0a-eca85b2bedca"
+            ],
+            "version": 1,
+            "code": "N0171",
+            "createdAt": 1790521750245,
+            "progress": {
+              "current": 3,
+              "target": 5,
+              "remaining": 2,
+              "text": "3/5 top 15 no torneio"
+            },
+            "available": true,
+            "reason": null
           }
         ],
         "cards": [
