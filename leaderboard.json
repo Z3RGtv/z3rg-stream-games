@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:19:52.044Z",
+  "updatedAt": "2026-09-27T18:20:00.277Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790533190276,
+        "updatedAt": 1790533195208,
         "champions": [
           {
             "code": "C01",
@@ -4512,13 +4512,13 @@
             "code": "N0089",
             "createdAt": 1790444902079,
             "progress": {
-              "current": 2,
+              "current": 9,
               "target": 3,
-              "remaining": 1,
-              "text": "2/3 kills no torneio"
+              "remaining": 0,
+              "text": "9/3 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Já cumprido"
           },
           {
             "kind": "total",
@@ -5537,10 +5537,10 @@
             "code": "N0131",
             "createdAt": 1790517970027,
             "progress": {
-              "current": 2,
+              "current": 9,
               "target": 2,
               "remaining": 0,
-              "text": "2/2 kills no torneio"
+              "text": "9/2 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -5763,8 +5763,8 @@
               "remaining": 4,
               "text": "6/10 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "countTop",
@@ -11882,6 +11882,30 @@
               "target": 21,
               "remaining": 2,
               "text": "19/21 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 10,
+            "difficulty": "easy",
+            "evidence": "9 kills/11 jogos atuais; média 0.82",
+            "label": "10 kills no torneio",
+            "teamKey": "d141060d-d885-45c4-a3b2-408f668508b3:fbf93610-fe94-48c7-a5eb-537be89533d5",
+            "teamName": "Momsy / Seyyto",
+            "playerIds": [
+              "d141060d-d885-45c4-a3b2-408f668508b3",
+              "fbf93610-fe94-48c7-a5eb-537be89533d5"
+            ],
+            "version": 1,
+            "code": "N0392",
+            "createdAt": 1790533195216,
+            "progress": {
+              "current": 9,
+              "target": 10,
+              "remaining": 1,
+              "text": "9/10 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
