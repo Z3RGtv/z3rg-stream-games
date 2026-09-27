@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:32:19.598Z",
+  "updatedAt": "2026-09-27T17:33:02.658Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 11,
-        "updatedAt": 1790530334539,
+        "updatedAt": 1790530379985,
         "champions": [
           {
             "code": "C01",
@@ -3931,10 +3931,10 @@
             "code": "N0078",
             "createdAt": 1790440662132,
             "progress": {
-              "current": 9,
+              "current": 13,
               "target": 3,
               "remaining": 0,
-              "text": "9/3 kills no torneio"
+              "text": "13/3 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -4439,10 +4439,10 @@
             "code": "N0099",
             "createdAt": 1790448637912,
             "progress": {
-              "current": 9,
+              "current": 13,
               "target": 5,
               "remaining": 0,
-              "text": "9/5 kills no torneio"
+              "text": "13/5 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -6467,10 +6467,10 @@
             "code": "N0182",
             "createdAt": 1790522573317,
             "progress": {
-              "current": 9,
+              "current": 13,
               "target": 6,
               "remaining": 0,
-              "text": "9/6 kills no torneio"
+              "text": "13/6 kills no torneio"
             },
             "available": false,
             "reason": "Já cumprido"
@@ -7474,13 +7474,13 @@
             "code": "N0223",
             "createdAt": 1790526732730,
             "progress": {
-              "current": 9,
+              "current": 13,
               "target": 11,
-              "remaining": 2,
-              "text": "9/11 kills no torneio"
+              "remaining": 0,
+              "text": "13/11 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Já cumprido"
           },
           {
             "kind": "countTop",
@@ -10014,6 +10014,54 @@
             },
             "available": false,
             "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 15,
+            "difficulty": "easy",
+            "evidence": "13 kills/10 jogos atuais; média 1.30",
+            "label": "15 kills no torneio",
+            "teamKey": "ed795860-0321-496f-a7ca-0ed2ee544051:f5783ecc-4b07-4396-aad6-38fd7baa1c89",
+            "teamName": "charyy / Kami",
+            "playerIds": [
+              "ed795860-0321-496f-a7ca-0ed2ee544051",
+              "f5783ecc-4b07-4396-aad6-38fd7baa1c89"
+            ],
+            "version": 1,
+            "code": "N0328",
+            "createdAt": 1790530377611,
+            "progress": {
+              "current": 13,
+              "target": 15,
+              "remaining": 2,
+              "text": "13/15 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 15,
+            "difficulty": "easy",
+            "evidence": "13 kills/10 jogos atuais; média 1.30",
+            "label": "15 kills no torneio",
+            "teamKey": "256ac806-d5ef-4f3e-a3fe-c16fdab72f13:5a372883-0d83-4bd7-8307-cfe968ce374f",
+            "teamName": "Ark / Khanada",
+            "playerIds": [
+              "256ac806-d5ef-4f3e-a3fe-c16fdab72f13",
+              "5a372883-0d83-4bd7-8307-cfe968ce374f"
+            ],
+            "version": 1,
+            "code": "N0329",
+            "createdAt": 1790530379990,
+            "progress": {
+              "current": 13,
+              "target": 15,
+              "remaining": 2,
+              "text": "13/15 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
           }
         ],
         "cards": [
@@ -12058,10 +12106,10 @@
                   "total": 3
                 },
                 "progress": {
-                  "current": 9,
+                  "current": 13,
                   "target": 3,
                   "remaining": 0,
-                  "text": "9/3 kills no torneio"
+                  "text": "13/3 kills no torneio"
                 }
               },
               {
@@ -12459,10 +12507,10 @@
                   "total": 3
                 },
                 "progress": {
-                  "current": 9,
+                  "current": 13,
                   "target": 3,
                   "remaining": 0,
-                  "text": "9/3 kills no torneio"
+                  "text": "13/3 kills no torneio"
                 }
               },
               {
