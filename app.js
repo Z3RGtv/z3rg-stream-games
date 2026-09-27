@@ -565,6 +565,7 @@ function renderRows(filter = '') {
 }
 
 function renderMyProfile() {
+  renderFncsAnswers();
   if (isFncs()) { elements.myProfile.hidden = true; return; }
   if (!twitchUser && !youtubeUser) {
     elements.myProfile.hidden = true;
@@ -776,3 +777,25 @@ async function refreshPublicData() {
 }
 setInterval(refreshPublicData, 5000);
 document.addEventListener('visibilitychange', () => { if (!document.hidden) void refreshPublicData(); });
+
+
+let fncsAnswerPlayer = '';
+function renderFncsAnswers() {
+  let panel=document.getElementById('fncs-answer-history');
+  if(!panel){panel=document.createElement('details');panel.id='fncs-answer-history';panel.className='fncs-answer-history';document.querySelector('.table-wrap').before(panel);}
+  panel.hidden=!isFncs();if(!isFncs())return;
+  const history=leaderboardDocument?.games?.['palpites-fncs']?.answerHistory || [];
+  const people=[...new Map(history.flatMap(q=>q.answers.map(a=>[a.id,a]))).values()].sort((a,b)=>a.name.localeCompare(b.name));
+  const myId=twitchUser?'twitch:'+twitchUser.id:youtubeUser?'youtube:'+youtubeUser.id:'';
+  if(!fncsAnswerPlayer)fncsAnswerPlayer=myId||people[0]?.id||'';
+  const selected=fncsAnswerPlayer;
+  const html='<summary>Respostas aos palpites</summary><p class="muted">Consulta as tuas respostas ou as de outro jogador. Disponíveis depois de fechar o tempo para responder.</p>'+(myId?'<button type="button" class="profile-details-button" data-my-answers>As minhas respostas</button>':'<p class="muted">Entra com a Twitch para encontrares facilmente as tuas respostas.</p>')+'<label>Jogador <select aria-label="Jogador dos palpites">'+(myId&&!people.some(a=>a.id===myId)?'<option value="'+escapeHtml(myId)+'">Eu</option>':'')+people.map(a=>'<option value="'+escapeHtml(a.id)+'" '+(a.id===selected?'selected':'')+'>'+escapeHtml(a.name)+(a.id===myId?' (eu)':'')+'</option>').join('')+'</select></label><div class="fncs-answer-list">'+history.filter(q=>fncsPeriod==='event'||q.day===Number(fncsPeriod.slice(-1))).flatMap(q=>q.answers.filter(a=>a.id===selected).map(a=>'<article><small>Dia '+q.day+' · Jogo '+((q.day-1)*6+q.match)+' do torneio</small><strong>'+escapeHtml(q.label)+'</strong><p>Resposta: <b>'+escapeHtml(a.answer)+'</b> · '+(q.status==='SETTLED'?'Resultado: '+escapeHtml(q.result)+' · <b>'+a.points+' pts</b>':q.status==='CANCELLED'?'Anulada · sem pontos':q.status==='PENDING_CONFIRMATION'?'Aguarda confirmação':'Aguarda resultado')+'</p></article>')).join('')+'</div>';
+  // Leave focused controls and scroll untouched when polling unchanged data.
+  if(panel.dataset.rendered===html)return;
+  const listScroll=panel.querySelector('.fncs-answer-list')?.scrollTop||0;
+  panel.innerHTML=html;panel.dataset.rendered=html;
+  const list=panel.querySelector('.fncs-answer-list');if(!list.children.length)list.textContent='Ainda não há respostas publicadas para este jogador neste período.';list.scrollTop=listScroll;
+  panel.querySelector('select').value=selected;
+  panel.querySelector('select').onchange=e=>{fncsAnswerPlayer=e.target.value;renderFncsAnswers();};
+  const mine=panel.querySelector('[data-my-answers]');if(mine)mine.onclick=()=>{fncsAnswerPlayer=myId;renderFncsAnswers();};
+}
