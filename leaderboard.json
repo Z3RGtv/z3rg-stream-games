@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:26:23.080Z",
+  "updatedAt": "2026-09-27T17:27:48.776Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1571,7 +1571,7 @@
         "open": true,
         "connected": true,
         "firstRound": 10,
-        "updatedAt": 1790529980353,
+        "updatedAt": 1790530063722,
         "champions": [
           {
             "code": "C01",
@@ -9795,6 +9795,30 @@
               "target": 8,
               "remaining": 1,
               "text": "7/8 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 29,
+            "difficulty": "easy",
+            "evidence": "25 kills/10 jogos atuais; média 2.50",
+            "label": "29 kills no torneio",
+            "teamKey": "0865dd0c-cabd-4156-aa6e-7757f9b5b753:b98790d7-278b-4169-947b-3c932c3a6af0",
+            "teamName": "Nebs / Nxthan",
+            "playerIds": [
+              "0865dd0c-cabd-4156-aa6e-7757f9b5b753",
+              "b98790d7-278b-4169-947b-3c932c3a6af0"
+            ],
+            "version": 1,
+            "code": "N0319",
+            "createdAt": 1790530063730,
+            "progress": {
+              "current": 25,
+              "target": 29,
+              "remaining": 4,
+              "text": "25/29 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
