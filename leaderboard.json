@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T16:28:38.374Z",
+  "updatedAt": "2026-09-27T16:31:32.618Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -31,50 +31,50 @@
           "day": 2,
           "match": 3,
           "label": "phoenix / Retro supera o seu recorde do dia (4 kills)?",
-          "status": "LOCKED",
-          "result": null,
+          "status": "SETTLED",
+          "result": "NÃO",
           "answers": [
             {
               "id": "twitch:932779495",
               "name": "gui_z0",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:895327657",
               "name": "z3rgtv",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:645555689",
               "name": "sheisdani",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:636817789",
               "name": "hugoandre07",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:905030592",
               "name": "manuelxpt",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:972248156",
               "name": "marquesrcarol",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             }
           ]
         },
@@ -83,36 +83,36 @@
           "day": 2,
           "match": 3,
           "label": "Rax / JannisZ: 4+ kills? (média dia 1: 3.5)",
-          "status": "LOCKED",
-          "result": null,
+          "status": "SETTLED",
+          "result": "NÃO",
           "answers": [
             {
               "id": "twitch:645555689",
               "name": "sheisdani",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:164609804",
               "name": "soniagoncalves",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:636817789",
               "name": "hugoandre07",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             },
             {
               "id": "twitch:895327657",
               "name": "z3rgtv",
               "platform": "twitch",
               "answer": "NÃO",
-              "points": null
+              "points": 100
             }
           ]
         },
@@ -1442,8 +1442,8 @@
         "delaySeconds": 20,
         "open": true,
         "connected": true,
-        "firstRound": 9,
-        "updatedAt": 1790526513312,
+        "firstRound": 10,
+        "updatedAt": 1790526692406,
         "champions": [
           {
             "code": "C01",
@@ -2222,8 +2222,8 @@
               "remaining": 41,
               "text": "14/55 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
@@ -2414,8 +2414,8 @@
               "remaining": 26,
               "text": "9/35 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
@@ -2478,8 +2478,8 @@
               "remaining": 36,
               "text": "9/45 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "c51a36b2-50f5-45df-bf31-31abef2a7151:fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b",
@@ -2734,8 +2734,8 @@
               "remaining": 28,
               "text": "12/40 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "24b48d45-3b69-42d2-ad5d-c63d91bf66fc:ddf01726-1947-4dde-b19f-855dc065b80c",
@@ -2798,8 +2798,8 @@
               "remaining": 25,
               "text": "20/45 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "501b4766-6d0b-4260-9ba7-2a04c2cdc300:eb53ec01-a5a4-496d-94d5-950068d82016",
@@ -2862,8 +2862,8 @@
               "remaining": 32,
               "text": "8/40 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "072e8b9f-8188-405a-b0eb-52544e1dc906:b39cded9-3b0f-4aa5-9ffd-adf0db18e853",
@@ -3054,8 +3054,8 @@
               "remaining": 20,
               "text": "10/30 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "2fc6c760-b950-4e61-87cd-e71d86d314c8:990f29fa-76f9-482f-8078-20dd4807f464",
@@ -3246,8 +3246,8 @@
               "remaining": 21,
               "text": "4/25 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "teamKey": "77999a7f-609d-40bb-b621-223df590b4d2:f899b6ef-72c7-4f03-af0a-eca85b2bedca",
@@ -3422,8 +3422,8 @@
               "remaining": 13,
               "text": "9/22 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -4438,8 +4438,8 @@
               "remaining": 1,
               "text": "3/4 top 15 no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -6791,6 +6791,446 @@
             },
             "available": true,
             "reason": null
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 7,
+            "difficulty": "medium",
+            "label": "7 jogos no top 15",
+            "evidence": "5 top 15 em 8 jogos atuais; faltam 2",
+            "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
+            "teamName": "Shxrk / t3eny",
+            "playerIds": [
+              "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4",
+              "e7987ee7-c7fa-43dd-8142-52eedc06af2f"
+            ],
+            "version": 1,
+            "code": "N0201",
+            "createdAt": 1790526687584,
+            "progress": {
+              "current": 5,
+              "target": 7,
+              "remaining": 2,
+              "text": "5/7 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 6,
+            "difficulty": "easy",
+            "label": "6 jogos no top 15",
+            "evidence": "5 top 15 em 8 jogos atuais",
+            "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
+            "teamName": "Shxrk / t3eny",
+            "playerIds": [
+              "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4",
+              "e7987ee7-c7fa-43dd-8142-52eedc06af2f"
+            ],
+            "version": 1,
+            "code": "N0202",
+            "createdAt": 1790526687584,
+            "progress": {
+              "current": 5,
+              "target": 6,
+              "remaining": 1,
+              "text": "5/6 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 42,
+            "difficulty": "easy",
+            "evidence": "31 kills/8 jogos atuais; média 3.88",
+            "label": "42 kills no torneio",
+            "teamKey": "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4:e7987ee7-c7fa-43dd-8142-52eedc06af2f",
+            "teamName": "Shxrk / t3eny",
+            "playerIds": [
+              "39a4c6cc-d9bf-46a2-bc6f-9a3106de22f4",
+              "e7987ee7-c7fa-43dd-8142-52eedc06af2f"
+            ],
+            "version": 1,
+            "code": "N0203",
+            "createdAt": 1790526687584,
+            "progress": {
+              "current": 31,
+              "target": 42,
+              "remaining": 11,
+              "text": "31/42 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 25,
+            "difficulty": "easy",
+            "evidence": "20 kills/9 jogos atuais; média 2.22",
+            "label": "25 kills no torneio",
+            "teamKey": "14caafa7-dc96-4c28-b800-96bcd5b38e30:5b9f90e5-0d36-4431-9676-cfcc51e458bf",
+            "teamName": "Ajerss / Veno",
+            "playerIds": [
+              "14caafa7-dc96-4c28-b800-96bcd5b38e30",
+              "5b9f90e5-0d36-4431-9676-cfcc51e458bf"
+            ],
+            "version": 1,
+            "code": "N0204",
+            "createdAt": 1790526687584,
+            "progress": {
+              "current": 20,
+              "target": 25,
+              "remaining": 5,
+              "text": "20/25 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 30,
+            "difficulty": "easy",
+            "evidence": "24 kills/9 jogos atuais; média 2.67",
+            "label": "30 kills no torneio",
+            "teamKey": "68e6282a-0535-4cf7-bd7c-c1ceabd4be76:862a8295-93db-4771-a996-5076bf1621b7",
+            "teamName": "Rax / JannisZ",
+            "playerIds": [
+              "68e6282a-0535-4cf7-bd7c-c1ceabd4be76",
+              "862a8295-93db-4771-a996-5076bf1621b7"
+            ],
+            "version": 1,
+            "code": "N0205",
+            "createdAt": 1790526687584,
+            "progress": {
+              "current": 24,
+              "target": 30,
+              "remaining": 6,
+              "text": "24/30 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 8 jogos atuais; faltam 2",
+            "teamKey": "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf:fd65e10f-657e-42f5-9fe1-5d3a9348004a",
+            "teamName": "Minipiyo / Fuukun",
+            "playerIds": [
+              "022c1a1b-18ea-4c3e-a392-2a086b0b6dcf",
+              "fd65e10f-657e-42f5-9fe1-5d3a9348004a"
+            ],
+            "version": 1,
+            "code": "N0206",
+            "createdAt": 1790526687584,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 6,
+            "difficulty": "medium",
+            "label": "6 jogos no top 15",
+            "evidence": "4 top 15 em 8 jogos atuais; faltam 2",
+            "teamKey": "2f98535a-2b2a-43d0-922c-1aa56034cbb6:70610940-3632-4a84-9b1b-a468bb581df3",
+            "teamName": "Sky / Scroll",
+            "playerIds": [
+              "2f98535a-2b2a-43d0-922c-1aa56034cbb6",
+              "70610940-3632-4a84-9b1b-a468bb581df3"
+            ],
+            "version": 1,
+            "code": "N0207",
+            "createdAt": 1790526688197,
+            "progress": {
+              "current": 4,
+              "target": 6,
+              "remaining": 2,
+              "text": "4/6 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 5,
+            "difficulty": "easy",
+            "label": "5 jogos no top 15",
+            "evidence": "4 top 15 em 8 jogos atuais",
+            "teamKey": "2f98535a-2b2a-43d0-922c-1aa56034cbb6:70610940-3632-4a84-9b1b-a468bb581df3",
+            "teamName": "Sky / Scroll",
+            "playerIds": [
+              "2f98535a-2b2a-43d0-922c-1aa56034cbb6",
+              "70610940-3632-4a84-9b1b-a468bb581df3"
+            ],
+            "version": 1,
+            "code": "N0208",
+            "createdAt": 1790526688197,
+            "progress": {
+              "current": 4,
+              "target": 5,
+              "remaining": 1,
+              "text": "4/5 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 28,
+            "difficulty": "easy",
+            "evidence": "21 kills/8 jogos atuais; média 2.63",
+            "label": "28 kills no torneio",
+            "teamKey": "2f98535a-2b2a-43d0-922c-1aa56034cbb6:70610940-3632-4a84-9b1b-a468bb581df3",
+            "teamName": "Sky / Scroll",
+            "playerIds": [
+              "2f98535a-2b2a-43d0-922c-1aa56034cbb6",
+              "70610940-3632-4a84-9b1b-a468bb581df3"
+            ],
+            "version": 1,
+            "code": "N0209",
+            "createdAt": 1790526688197,
+            "progress": {
+              "current": 21,
+              "target": 28,
+              "remaining": 7,
+              "text": "21/28 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 3,
+            "difficulty": "easy",
+            "label": "3 jogos no top 15",
+            "evidence": "2 top 15 em 8 jogos atuais",
+            "teamKey": "84da9b1d-71ad-456b-a916-d6590c096161:cffb3fec-1c3f-45ae-b695-06ee48d4f74a",
+            "teamName": "Solvey / Sazers",
+            "playerIds": [
+              "84da9b1d-71ad-456b-a916-d6590c096161",
+              "cffb3fec-1c3f-45ae-b695-06ee48d4f74a"
+            ],
+            "version": 1,
+            "code": "N0210",
+            "createdAt": 1790526688197,
+            "progress": {
+              "current": 2,
+              "target": 3,
+              "remaining": 1,
+              "text": "2/3 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 15,
+            "difficulty": "easy",
+            "evidence": "11 kills/8 jogos atuais; média 1.38",
+            "label": "15 kills no torneio",
+            "teamKey": "84da9b1d-71ad-456b-a916-d6590c096161:cffb3fec-1c3f-45ae-b695-06ee48d4f74a",
+            "teamName": "Solvey / Sazers",
+            "playerIds": [
+              "84da9b1d-71ad-456b-a916-d6590c096161",
+              "cffb3fec-1c3f-45ae-b695-06ee48d4f74a"
+            ],
+            "version": 1,
+            "code": "N0211",
+            "createdAt": 1790526688197,
+            "progress": {
+              "current": 11,
+              "target": 15,
+              "remaining": 4,
+              "text": "11/15 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 4,
+            "difficulty": "medium",
+            "label": "4 jogos no top 15",
+            "evidence": "2 top 15 em 8 jogos atuais; faltam 2",
+            "teamKey": "05587202-00b9-408b-9e2a-9242f02d7812:6a7e6e0e-72ee-477b-9e08-f4919e17414a",
+            "teamName": "Slepzi / Wagers",
+            "playerIds": [
+              "05587202-00b9-408b-9e2a-9242f02d7812",
+              "6a7e6e0e-72ee-477b-9e08-f4919e17414a"
+            ],
+            "version": 1,
+            "code": "N0212",
+            "createdAt": 1790526688197,
+            "progress": {
+              "current": 2,
+              "target": 4,
+              "remaining": 2,
+              "text": "2/4 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 10,
+            "difficulty": "easy",
+            "evidence": "7 kills/8 jogos atuais; média 0.88",
+            "label": "10 kills no torneio",
+            "teamKey": "c51a36b2-50f5-45df-bf31-31abef2a7151:fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b",
+            "teamName": "kingaling / Kraez",
+            "playerIds": [
+              "c51a36b2-50f5-45df-bf31-31abef2a7151",
+              "fdfe5ad2-f815-4ba7-8c83-4ee2b64b901b"
+            ],
+            "version": 1,
+            "code": "N0213",
+            "createdAt": 1790526692411,
+            "progress": {
+              "current": 7,
+              "target": 10,
+              "remaining": 3,
+              "text": "7/10 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 12,
+            "difficulty": "easy",
+            "evidence": "9 kills/8 jogos atuais; média 1.13",
+            "label": "12 kills no torneio",
+            "teamKey": "2d91ad40-c738-4c8a-9c12-c4c295450d78:bce27060-4551-411a-b0a7-ffcac5f058e0",
+            "teamName": "Acorn / Boltz",
+            "playerIds": [
+              "2d91ad40-c738-4c8a-9c12-c4c295450d78",
+              "bce27060-4551-411a-b0a7-ffcac5f058e0"
+            ],
+            "version": 1,
+            "code": "N0214",
+            "createdAt": 1790526692411,
+            "progress": {
+              "current": 9,
+              "target": 12,
+              "remaining": 3,
+              "text": "9/12 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 12,
+            "difficulty": "easy",
+            "evidence": "9 kills/8 jogos atuais; média 1.13",
+            "label": "12 kills no torneio",
+            "teamKey": "44a112b0-4dc2-40cb-ba85-518f99b7ff35:5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9",
+            "teamName": "Reet / Cooper",
+            "playerIds": [
+              "44a112b0-4dc2-40cb-ba85-518f99b7ff35",
+              "5ebbf7fc-ef83-40b3-83ad-03fa0205c3c9"
+            ],
+            "version": 1,
+            "code": "N0215",
+            "createdAt": 1790526692411,
+            "progress": {
+              "current": 9,
+              "target": 12,
+              "remaining": 3,
+              "text": "9/12 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 8,
+            "difficulty": "easy",
+            "evidence": "6 kills/9 jogos atuais; média 0.67",
+            "label": "8 kills no torneio",
+            "teamKey": "4fb6deaf-5440-4468-8f11-d3be09eafe49:85bf29cb-0d8c-4be0-8807-5adaa5c582d1",
+            "teamName": "Mack / Diguera",
+            "playerIds": [
+              "4fb6deaf-5440-4468-8f11-d3be09eafe49",
+              "85bf29cb-0d8c-4be0-8807-5adaa5c582d1"
+            ],
+            "version": 1,
+            "code": "N0216",
+            "createdAt": 1790526692411,
+            "progress": {
+              "current": 6,
+              "target": 8,
+              "remaining": 2,
+              "text": "6/8 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "countTop",
+            "place": 15,
+            "threshold": 6,
+            "difficulty": "medium",
+            "label": "6 jogos no top 15",
+            "evidence": "4 top 15 em 8 jogos atuais; faltam 2",
+            "teamKey": "1bed52ea-c9c7-4758-8b32-8b3a70021222:66ab1199-2a43-41e1-bb96-24f63ea561f9",
+            "teamName": "Syaaz / Scaryy",
+            "playerIds": [
+              "1bed52ea-c9c7-4758-8b32-8b3a70021222",
+              "66ab1199-2a43-41e1-bb96-24f63ea561f9"
+            ],
+            "version": 1,
+            "code": "N0217",
+            "createdAt": 1790526692411,
+            "progress": {
+              "current": 4,
+              "target": 6,
+              "remaining": 2,
+              "text": "4/6 top 15 no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 23,
+            "difficulty": "easy",
+            "evidence": "17 kills/8 jogos atuais; média 2.13",
+            "label": "23 kills no torneio",
+            "teamKey": "1bed52ea-c9c7-4758-8b32-8b3a70021222:66ab1199-2a43-41e1-bb96-24f63ea561f9",
+            "teamName": "Syaaz / Scaryy",
+            "playerIds": [
+              "1bed52ea-c9c7-4758-8b32-8b3a70021222",
+              "66ab1199-2a43-41e1-bb96-24f63ea561f9"
+            ],
+            "version": 1,
+            "code": "N0218",
+            "createdAt": 1790526692411,
+            "progress": {
+              "current": 17,
+              "target": 23,
+              "remaining": 6,
+              "text": "17/23 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
           }
         ],
         "cards": [
@@ -11310,20 +11750,20 @@
             "id": "twitch:636817789",
             "platform": "twitch",
             "name": "hugoandre07",
-            "points": 800,
-            "exact": 8,
+            "points": 1000,
+            "exact": 10,
             "near": 0,
-            "answered": 11,
+            "answered": 13,
             "rank": 1
           },
           {
             "id": "twitch:645555689",
             "platform": "twitch",
             "name": "sheisdani",
-            "points": 725,
-            "exact": 7,
+            "points": 925,
+            "exact": 9,
             "near": 1,
-            "answered": 12,
+            "answered": 14,
             "rank": 2
           },
           {
@@ -11337,33 +11777,33 @@
             "rank": 3
           },
           {
-            "id": "twitch:932779495",
+            "id": "twitch:895327657",
             "platform": "twitch",
-            "name": "gui_z0",
-            "points": 500,
-            "exact": 5,
-            "near": 0,
+            "name": "z3rgtv",
+            "points": 625,
+            "exact": 6,
+            "near": 1,
             "answered": 11,
             "rank": 4
           },
           {
-            "id": "twitch:895327657",
+            "id": "twitch:932779495",
             "platform": "twitch",
-            "name": "z3rgtv",
-            "points": 425,
-            "exact": 4,
-            "near": 1,
-            "answered": 9,
+            "name": "gui_z0",
+            "points": 600,
+            "exact": 6,
+            "near": 0,
+            "answered": 12,
             "rank": 5
           },
           {
             "id": "twitch:972248156",
             "platform": "twitch",
             "name": "marquesrcarol",
-            "points": 325,
-            "exact": 3,
+            "points": 425,
+            "exact": 4,
             "near": 1,
-            "answered": 8,
+            "answered": 9,
             "rank": 6
           },
           {
@@ -11397,6 +11837,16 @@
             "rank": 8
           },
           {
+            "id": "twitch:905030592",
+            "platform": "twitch",
+            "name": "manuelxpt",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 1,
+            "rank": 8
+          },
+          {
             "id": "twitch:1456923742",
             "platform": "twitch",
             "name": "matoswar2003",
@@ -11417,6 +11867,16 @@
             "rank": 8
           },
           {
+            "id": "twitch:164609804",
+            "platform": "twitch",
+            "name": "soniagoncalves",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 1,
+            "rank": 8
+          },
+          {
             "id": "twitch:1119954079",
             "platform": "twitch",
             "name": "salvadormdm",
@@ -11424,10 +11884,20 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 12
+            "rank": 14
           }
         ],
         "event": [
+          {
+            "id": "twitch:645555689",
+            "platform": "twitch",
+            "name": "sheisdani",
+            "points": 1275,
+            "exact": 12,
+            "near": 2,
+            "answered": 22,
+            "rank": 1
+          },
           {
             "id": "twitch:505385285",
             "platform": "twitch",
@@ -11436,57 +11906,57 @@
             "exact": 11,
             "near": 2,
             "answered": 18,
-            "rank": 1
-          },
-          {
-            "id": "twitch:645555689",
-            "platform": "twitch",
-            "name": "sheisdani",
-            "points": 1075,
-            "exact": 10,
-            "near": 2,
-            "answered": 20,
             "rank": 2
           },
           {
             "id": "twitch:636817789",
             "platform": "twitch",
             "name": "hugoandre07",
-            "points": 850,
-            "exact": 8,
+            "points": 1050,
+            "exact": 10,
             "near": 1,
-            "answered": 17,
+            "answered": 19,
             "rank": 3
           },
           {
             "id": "twitch:932779495",
             "platform": "twitch",
             "name": "gui_z0",
-            "points": 825,
-            "exact": 8,
+            "points": 925,
+            "exact": 9,
             "near": 1,
-            "answered": 19,
+            "answered": 20,
             "rank": 4
-          },
-          {
-            "id": "twitch:972248156",
-            "platform": "twitch",
-            "name": "marquesrcarol",
-            "points": 675,
-            "exact": 6,
-            "near": 2,
-            "answered": 16,
-            "rank": 5
           },
           {
             "id": "twitch:895327657",
             "platform": "twitch",
             "name": "z3rgtv",
-            "points": 675,
-            "exact": 6,
+            "points": 875,
+            "exact": 8,
             "near": 2,
-            "answered": 13,
+            "answered": 15,
             "rank": 5
+          },
+          {
+            "id": "twitch:972248156",
+            "platform": "twitch",
+            "name": "marquesrcarol",
+            "points": 775,
+            "exact": 7,
+            "near": 2,
+            "answered": 17,
+            "rank": 6
+          },
+          {
+            "id": "twitch:164609804",
+            "platform": "twitch",
+            "name": "soniagoncalves",
+            "points": 250,
+            "exact": 2,
+            "near": 1,
+            "answered": 6,
+            "rank": 7
           },
           {
             "id": "twitch:1069376937",
@@ -11496,7 +11966,7 @@
             "exact": 2,
             "near": 0,
             "answered": 2,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:1456923742",
@@ -11506,7 +11976,7 @@
             "exact": 2,
             "near": 0,
             "answered": 8,
-            "rank": 7
+            "rank": 8
           },
           {
             "id": "twitch:134395626",
@@ -11516,17 +11986,7 @@
             "exact": 2,
             "near": 0,
             "answered": 6,
-            "rank": 7
-          },
-          {
-            "id": "twitch:164609804",
-            "platform": "twitch",
-            "name": "soniagoncalves",
-            "points": 150,
-            "exact": 1,
-            "near": 1,
-            "answered": 5,
-            "rank": 10
+            "rank": 8
           },
           {
             "id": "twitch:717212869",
@@ -11542,6 +12002,16 @@
             "id": "twitch:1418907276",
             "platform": "twitch",
             "name": "donkapo7",
+            "points": 100,
+            "exact": 1,
+            "near": 0,
+            "answered": 1,
+            "rank": 11
+          },
+          {
+            "id": "twitch:905030592",
+            "platform": "twitch",
+            "name": "manuelxpt",
             "points": 100,
             "exact": 1,
             "near": 0,
@@ -11566,7 +12036,7 @@
             "exact": 0,
             "near": 0,
             "answered": 2,
-            "rank": 14
+            "rank": 15
           },
           {
             "id": "twitch:1352711259",
@@ -11576,7 +12046,7 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 14
+            "rank": 15
           },
           {
             "id": "twitch:1119954079",
@@ -11586,11 +12056,21 @@
             "exact": 0,
             "near": 0,
             "answered": 1,
-            "rank": 14
+            "rank": 15
           }
         ]
       },
       "players": [
+        {
+          "id": "twitch:645555689",
+          "platform": "twitch",
+          "name": "sheisdani",
+          "points": 1275,
+          "exact": 12,
+          "near": 2,
+          "answered": 22,
+          "rank": 1
+        },
         {
           "id": "twitch:505385285",
           "platform": "twitch",
@@ -11599,57 +12079,57 @@
           "exact": 11,
           "near": 2,
           "answered": 18,
-          "rank": 1
-        },
-        {
-          "id": "twitch:645555689",
-          "platform": "twitch",
-          "name": "sheisdani",
-          "points": 1075,
-          "exact": 10,
-          "near": 2,
-          "answered": 20,
           "rank": 2
         },
         {
           "id": "twitch:636817789",
           "platform": "twitch",
           "name": "hugoandre07",
-          "points": 850,
-          "exact": 8,
+          "points": 1050,
+          "exact": 10,
           "near": 1,
-          "answered": 17,
+          "answered": 19,
           "rank": 3
         },
         {
           "id": "twitch:932779495",
           "platform": "twitch",
           "name": "gui_z0",
-          "points": 825,
-          "exact": 8,
+          "points": 925,
+          "exact": 9,
           "near": 1,
-          "answered": 19,
+          "answered": 20,
           "rank": 4
-        },
-        {
-          "id": "twitch:972248156",
-          "platform": "twitch",
-          "name": "marquesrcarol",
-          "points": 675,
-          "exact": 6,
-          "near": 2,
-          "answered": 16,
-          "rank": 5
         },
         {
           "id": "twitch:895327657",
           "platform": "twitch",
           "name": "z3rgtv",
-          "points": 675,
-          "exact": 6,
+          "points": 875,
+          "exact": 8,
           "near": 2,
-          "answered": 13,
+          "answered": 15,
           "rank": 5
+        },
+        {
+          "id": "twitch:972248156",
+          "platform": "twitch",
+          "name": "marquesrcarol",
+          "points": 775,
+          "exact": 7,
+          "near": 2,
+          "answered": 17,
+          "rank": 6
+        },
+        {
+          "id": "twitch:164609804",
+          "platform": "twitch",
+          "name": "soniagoncalves",
+          "points": 250,
+          "exact": 2,
+          "near": 1,
+          "answered": 6,
+          "rank": 7
         },
         {
           "id": "twitch:1069376937",
@@ -11659,7 +12139,7 @@
           "exact": 2,
           "near": 0,
           "answered": 2,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "twitch:1456923742",
@@ -11669,7 +12149,7 @@
           "exact": 2,
           "near": 0,
           "answered": 8,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "twitch:134395626",
@@ -11679,17 +12159,7 @@
           "exact": 2,
           "near": 0,
           "answered": 6,
-          "rank": 7
-        },
-        {
-          "id": "twitch:164609804",
-          "platform": "twitch",
-          "name": "soniagoncalves",
-          "points": 150,
-          "exact": 1,
-          "near": 1,
-          "answered": 5,
-          "rank": 10
+          "rank": 8
         },
         {
           "id": "twitch:717212869",
@@ -11705,6 +12175,16 @@
           "id": "twitch:1418907276",
           "platform": "twitch",
           "name": "donkapo7",
+          "points": 100,
+          "exact": 1,
+          "near": 0,
+          "answered": 1,
+          "rank": 11
+        },
+        {
+          "id": "twitch:905030592",
+          "platform": "twitch",
+          "name": "manuelxpt",
           "points": 100,
           "exact": 1,
           "near": 0,
@@ -11729,7 +12209,7 @@
           "exact": 0,
           "near": 0,
           "answered": 2,
-          "rank": 14
+          "rank": 15
         },
         {
           "id": "twitch:1352711259",
@@ -11739,7 +12219,7 @@
           "exact": 0,
           "near": 0,
           "answered": 1,
-          "rank": 14
+          "rank": 15
         },
         {
           "id": "twitch:1119954079",
@@ -11749,7 +12229,7 @@
           "exact": 0,
           "near": 0,
           "answered": 1,
-          "rank": 14
+          "rank": 15
         }
       ]
     },
