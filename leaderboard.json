@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:10:56.908Z",
+  "updatedAt": "2026-09-27T18:12:20.828Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1882,12 +1882,12 @@
         "name": "Bingo FNCS",
         "cost": 300,
         "autoEntry": true,
-        "registrationEnded": false,
+        "registrationEnded": true,
         "delaySeconds": 20,
-        "open": true,
+        "open": false,
         "connected": true,
-        "firstRound": 11,
-        "updatedAt": 1790532651847,
+        "firstRound": 12,
+        "updatedAt": 1790532736842,
         "champions": [
           {
             "code": "C01",
@@ -2602,8 +2602,8 @@
               "remaining": 13,
               "text": "42/55 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "45ce4565-b6db-452c-9419-119b12e7eac3:9868429b-133a-42b8-a43f-737887da4673",
@@ -2725,13 +2725,13 @@
             "code": "B009",
             "version": 1,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 50,
-              "remaining": 15,
-              "text": "35/50 kills no torneio"
+              "remaining": 14,
+              "text": "36/50 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "2f98535a-2b2a-43d0-922c-1aa56034cbb6:70610940-3632-4a84-9b1b-a468bb581df3",
@@ -3626,8 +3626,8 @@
               "remaining": 17,
               "text": "13/30 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "teamKey": "15221258-a561-4a82-89d6-60cb116aa4d2:22cf7972-39f5-42ca-af59-7660403c97a6",
@@ -3866,8 +3866,8 @@
               "remaining": 7,
               "text": "15/22 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -3938,8 +3938,8 @@
               "remaining": 5,
               "text": "12/17 kills no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -4955,8 +4955,8 @@
               "remaining": 2,
               "text": "2/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -5322,8 +5322,8 @@
               "remaining": 7,
               "text": "35/42 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "total",
@@ -5346,8 +5346,8 @@
               "remaining": 2,
               "text": "20/22 kills no torneio"
             },
-            "available": false,
-            "reason": "Em arquivo"
+            "available": true,
+            "reason": null
           },
           {
             "kind": "countTop",
@@ -5396,8 +5396,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -5421,7 +5421,7 @@
               "text": "27/35 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -5739,8 +5739,8 @@
               "remaining": 2,
               "text": "2/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -6252,8 +6252,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -6350,8 +6350,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -6666,8 +6666,8 @@
               "remaining": 2,
               "text": "2/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -6716,7 +6716,7 @@
               "text": "20/28 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -7060,8 +7060,8 @@
               "remaining": 2,
               "text": "2/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -7159,7 +7159,7 @@
               "text": "15/20 kills no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -7183,8 +7183,8 @@
               "remaining": 2,
               "text": "4/6 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -7302,10 +7302,10 @@
             "code": "N0203",
             "createdAt": 1790526687584,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 42,
-              "remaining": 7,
-              "text": "35/42 kills no torneio"
+              "remaining": 6,
+              "text": "36/42 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -7649,8 +7649,8 @@
               "remaining": 2,
               "text": "4/6 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -8137,8 +8137,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -8333,8 +8333,8 @@
               "remaining": 2,
               "text": "4/6 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -8529,8 +8529,8 @@
               "remaining": 2,
               "text": "5/7 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -8653,8 +8653,8 @@
               "remaining": 2,
               "text": "4/6 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -8871,8 +8871,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -9208,8 +9208,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -9397,10 +9397,10 @@
             "code": "N0289",
             "createdAt": 1790527089014,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 39,
-              "remaining": 4,
-              "text": "35/39 kills no torneio"
+              "remaining": 3,
+              "text": "36/39 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -9427,8 +9427,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -9574,8 +9574,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -9599,8 +9599,8 @@
               "remaining": 2,
               "text": "5/7 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -9624,8 +9624,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -9673,8 +9673,8 @@
               "remaining": 2,
               "text": "3/5 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -9722,8 +9722,8 @@
               "remaining": 2,
               "text": "2/4 top 15 no torneio"
             },
-            "available": true,
-            "reason": null
+            "available": false,
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -9797,7 +9797,7 @@
               "text": "5/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -9846,7 +9846,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -9944,7 +9944,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -10570,7 +10570,7 @@
               "text": "3/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -10595,7 +10595,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -10669,7 +10669,7 @@
               "text": "7/9 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -10694,7 +10694,7 @@
               "text": "5/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -10719,7 +10719,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -10793,7 +10793,7 @@
               "text": "5/7 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -10891,7 +10891,7 @@
               "text": "3/5 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -10940,7 +10940,7 @@
               "text": "4/6 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -10965,7 +10965,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -11015,7 +11015,7 @@
               "text": "7/9 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -11033,10 +11033,10 @@
             "code": "N0356",
             "createdAt": 1790530638291,
             "progress": {
-              "current": 35,
+              "current": 36,
               "target": 40,
-              "remaining": 5,
-              "text": "35/40 kills no torneio"
+              "remaining": 4,
+              "text": "36/40 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
@@ -11064,7 +11064,7 @@
               "text": "6/8 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "total",
@@ -11162,7 +11162,7 @@
               "text": "2/4 top 15 no torneio"
             },
             "available": false,
-            "reason": "Em arquivo"
+            "reason": "Poucos jogos para este objetivo"
           },
           {
             "kind": "countTop",
@@ -15021,10 +15021,10 @@
                 "version": 1,
                 "proof": null,
                 "progress": {
-                  "current": 35,
+                  "current": 36,
                   "target": 50,
-                  "remaining": 15,
-                  "text": "35/50 kills no torneio"
+                  "remaining": 14,
+                  "text": "36/50 kills no torneio"
                 }
               }
             ],
@@ -15621,10 +15621,10 @@
                 "code": "B009",
                 "version": 1,
                 "progress": {
-                  "current": 35,
+                  "current": 36,
                   "target": 50,
-                  "remaining": 15,
-                  "text": "35/50 kills no torneio"
+                  "remaining": 14,
+                  "text": "36/50 kills no torneio"
                 }
               },
               {
