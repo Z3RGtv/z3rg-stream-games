@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T18:12:28.406Z",
+  "updatedAt": "2026-09-27T18:13:06.856Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -1887,7 +1887,7 @@
         "open": false,
         "connected": true,
         "firstRound": 12,
-        "updatedAt": 1790532743388,
+        "updatedAt": 1790532785606,
         "champions": [
           {
             "code": "C01",
@@ -11353,6 +11353,30 @@
               "target": 16,
               "remaining": 1,
               "text": "15/16 kills no torneio"
+            },
+            "available": false,
+            "reason": "Em arquivo"
+          },
+          {
+            "kind": "total",
+            "threshold": 29,
+            "difficulty": "easy",
+            "evidence": "27 kills/11 jogos atuais; média 2.45",
+            "label": "29 kills no torneio",
+            "teamKey": "68e6282a-0535-4cf7-bd7c-c1ceabd4be76:862a8295-93db-4771-a996-5076bf1621b7",
+            "teamName": "Rax / JannisZ",
+            "playerIds": [
+              "68e6282a-0535-4cf7-bd7c-c1ceabd4be76",
+              "862a8295-93db-4771-a996-5076bf1621b7"
+            ],
+            "version": 1,
+            "code": "N0370",
+            "createdAt": 1790532785614,
+            "progress": {
+              "current": 27,
+              "target": 29,
+              "remaining": 2,
+              "text": "27/29 kills no torneio"
             },
             "available": false,
             "reason": "Em arquivo"
