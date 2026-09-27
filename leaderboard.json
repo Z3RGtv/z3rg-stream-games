@@ -6,7 +6,7 @@
     "shortName": "Z3RG Games",
     "description": "Hub multistream de jogos para a comunidade Z3RGtv"
   },
-  "updatedAt": "2026-09-27T17:42:01.994Z",
+  "updatedAt": "2026-09-27T17:47:49.992Z",
   "defaultGameId": "words-on-ztr3am",
   "games": {
     "palpites-fncs": {
@@ -26,6 +26,79 @@
       "eyebrow": "PALPITES FNCS",
       "mode": "predictions",
       "answerHistory": [
+        {
+          "id": "7e525d24-e951-41f3-8413-f7ecf5c475da",
+          "day": 2,
+          "match": 5,
+          "label": "Quantas kills fará kingaling / Kraez?",
+          "status": "LOCKED",
+          "result": null,
+          "answers": [
+            {
+              "id": "twitch:134395626",
+              "name": "minichef9",
+              "platform": "twitch",
+              "answer": "3 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:645555689",
+              "name": "sheisdani",
+              "platform": "twitch",
+              "answer": "0 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:505385285",
+              "name": "hst_playz_pt",
+              "platform": "twitch",
+              "answer": "1 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:932779495",
+              "name": "gui_z0",
+              "platform": "twitch",
+              "answer": "2 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:491270065",
+              "name": "manodrico",
+              "platform": "twitch",
+              "answer": "2 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:895327657",
+              "name": "z3rgtv",
+              "platform": "twitch",
+              "answer": "1 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:972248156",
+              "name": "marquesrcarol",
+              "platform": "twitch",
+              "answer": "1 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:164609804",
+              "name": "soniagoncalves",
+              "platform": "twitch",
+              "answer": "1 kills",
+              "points": null
+            },
+            {
+              "id": "twitch:1119954079",
+              "name": "salvadormdm",
+              "platform": "twitch",
+              "answer": "0 kills",
+              "points": null
+            }
+          ]
+        },
         {
           "id": "f1ab2c82-51e5-43f3-b2d5-88d9a33cf6cd",
           "day": 2,
